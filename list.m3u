@@ -1,0 +1,47 @@
+#EXTINF:0,DR1
+http://dr01-lh.akamaihd.net/i/dr01_0@147054/master.m3u8
+
+#EXTINF:0,DR2
+http://dr02-lh.akamaihd.net/i/dr02_0@147055/index_5_av-p.m3u8
+
+#EXTINF:0,DR 3 
+http://dr03-lh.akamaihd.net/i/dr03_0@147056/index_3_av-p.m3u8
+
+#EXTINF:0,DR K
+http://dr04-lh.akamaiHD.net/i/dr04_0@147057/master.m3u8
+
+#EXTINF:0,DR ULTRA
+http://dr06-lh.akamaihd.net/i/dr06_0@147059/index_3_av-p.m3u8
+
+#EXTINF:0,DR RAMASJANG
+http://dr05-lh.akamaihd.net/i/dr05_0@147058/index_3_av-p.m3u8
+
+#EXTINF:0,TV2
+http://tv2danmark-tv2nord-live.hls.adaptive.level3.net/tv2danmark/tv2nord/master.m3u8
+
+#EXTINF:0,TV2 NEWS
+http://tv2danmark-tv2news-live.hls.adaptive.level3.net/tv2danmark/tv2news/master.m3u8<
+
+#EXTINF:0,TV2 FRI
+http://tv2danmark-tv2fri-live.hls.adaptive.level3.net/tv2danmark/tv2fri/master3200kbps.m3u8
+
+#EXTINF:0,TV2 ZULU
+http://tv2danmark-tv2zulu-live.hls.adaptive.level3.net/tv2danmark/tv2zulu/master3200kbps.m3u8
+
+#EXTINF:0,TV2 SPORT
+http://tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/master3200kbps.m3u8
+
+#EXTINF:0,TV2 Charlie
+http://tv2danmark-tv2charlie-live.hls.adaptive.level3.net/tv2danmark/tv2charlie/master3200kbps.m3u8
+
+#EXTINF:0,6eren
+http://dnordichlslive04-i.akamaihd.net/hls/live/223840/6DKHD/master.m3u8
+
+#EXTINF:0,Kanal 9
+http://dnordichlslive09-i.akamaihd.net/hls/live/223862/C9DKHD/master.m3u8
+
+#EXTINF:0,Eurosport 1
+http://dpme12hls-i.akamaiHD.net/hls/live/249637/dpme12_3/master.m3u8
+
+#EXTINF:0,Eurosport 2
+http://dnordichlslive09-i.akamaihd.net/hls/live/223865/ESDKHD/master.m3u8
