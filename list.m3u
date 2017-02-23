@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,DR1 tvg-name="DR 1" tvg-logo="http://i.imgur.com/DEuYWF6.png"
+#EXTINF:-1,tvg-name="DR 1" tvg-logo="http://i.imgur.com/DEuYWF6.png"
 http://dr01-lh.akamaihd.net/i/dr01_0@147054/master.m3u8
 #EXTINF:-1,DR2
 http://dr02-lh.akamaihd.net/i/dr02_0@147055/index_5_av-p.m3u8
