@@ -1,0 +1,444 @@
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DR1)/Stream(05)/index.m3u8
+
+
+
+#EXTM3U
+#EXTINF:0, DR1
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DR1)/Stream(05)/index.m3u8
+#EXTINF:0, DR2
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DR2)/Stream(05)/index.m3u8
+#EXTINF:0, DR3
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DR3)/Stream(05)/index.m3u8
+#EXTINF:0, DR Ultra
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DRultra)/Stream(05)/index.m3u8
+#EXTINF:0, DR K
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DRk)/Stream(05)/index.m3u8
+#EXTINF:0, DR Ramasjang
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DRram)/Stream(05)/index.m3u8
+#EXTINF:0, TV2
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(TV2L)/Stream(05)/index.m3u8
+#EXTINF:0, Zulu
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(zulu)/Stream(05)/index.m3u8
+#EXTINF:0, TV2 Charlie
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(Charli)/Stream(05)/index.m3u8
+#EXTINF:0, TV3
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(TV3)/Stream(05)/index.m3u8
+#EXTINF:0, TV3+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(TV3plus)/Stream(05)/index.m3u8
+#EXTINF:0, 3 Puls
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(3puls)/Stream(05)/index.m3u8
+#EXTINF:0, TV4
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(kanal4)/Stream(05)/index.m3u8
+#EXTINF:0, TV5
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(Kanal5)/Stream(05)/index.m3u8
+#EXTINF:0, 6’eren
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(6eren)/Stream(05)/index.m3u8
+#EXTINF:0, Discovery
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(discov)/Stream(05)/index.m3u8
+#EXTINF:0, Nat Geo
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(natgeo)/Stream(05)/index.m3u8
+#EXTINF:0, Animal Planet
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(Animal)/Stream(05)/index.m3u8
+#EXTINF:0, Canal8 HD
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(canal8)/Stream(05)/index.m3u8
+#EXTINF:0, Canal9 HD
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(canal9)/Stream(05)/index.m3u8
+#EXTINF:0, Viasat3 Sport1 HD
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(3sport)/Stream(05)/index.m3u8
+#EXTINF:0, Viasat Sport2 HD
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(3sport2)/Stream(05)/index.m3u8
+#EXTINF:0, Eurosport HD
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(EuroSp)/Stream(05)/index.m3u8
+#EXTINF:0, Eurosport2 HD
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(eusp2)/Stream(05)/index.m3u8
+#EXTINF:0, CN
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(cartoo)/Stream(05)/index.m3u8
+#EXTINF:0, Disney
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(Disney)/Stream(05)/index.m3u8
+#EXTINF:0, Disney XD
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DisnXD)/Stream(05)/index.m3u8
+#EXTINF:0, Nickelodeon
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(Nickel)/Stream(05)/index.m3u8
+#EXTINF:0, Disney Jr.
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(disnjr)/Stream(05)/index.m3u8
+#EXTINF:0, MTV HD
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(mtv)/Stream(05)/index.m3u8
+#EXTINF:0, VH1
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(VH1)/Stream(05)/index.m3u8
+#EXTINF:0, TNT
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(TNT)/Stream(05)/index.m3u8
+#EXTINF:0, TLC
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(TLC)/Stream(05)/index.m3u8
+#EXTINF:0, TCM
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(tcm)/Stream(05)/index.m3u8
+#EXTINF:0, TV2 News
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(2News)/Stream(05)/index.m3u8
+#EXTINF:0, CNN
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(cnn)/Stream(05)/index.m3u8
+#EXTINF:0, BBC World
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(bbcW)/Stream(05)/index.m3u8
+#EXTINF:0, TV2 Fri
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(2FriHD)/Stream(05)/index.m3u8
+#EXTINF:0, NRK1
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(nrk1)/Stream(05)/index.m3u8
+#EXTINF:0, SVT1
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(svt1)/Stream(05)/index.m3u8
+#EXTINF:0, SVT2
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(svt2)/Stream(05)/index.m3u8
+#EXTINF:0, ZDF HD
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(zdf)/Stream(05)/index.m3u8
+#EXTINF:0, RTL HD
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(rtl)/Stream(05)/index.m3u8
+#EXTINF:0, ARD HD
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(ard)/Stream(05)/index.m3u8
+#EXTINF:0, BBC Knowledge
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(bbcK)/Stream(05)/index.m3u8
+#EXTINF:0, BBC Lifestyle
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(bbcL)/Stream(05)/index.m3u8
+
+
+
+#EXTINF:-1,3 Puls
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(3puls)/Stream(05)/index.m3u8
+#EXTINF:-1,6'eren
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(6eren)/Stream(05)/index.m3u8
+#EXTINF:-1,Animal Planet
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(Animal)/Stream(05)/index.m3u8
+#EXTINF:-1,ARD HD
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(ard)/Stream(05)/index.m3u8
+#EXTINF:-1,BBC Knowledge
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(bbcK)/Stream(05)/index.m3u8
+#EXTINF:-1,BBC Lifestyle
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(bbcL)/Stream(05)/index.m3u8
+#EXTINF:-1,BBC World
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(bbcW)/Stream(05)/index.m3u8
+#EXTINF:-1,Canal8 HD
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(canal8)/Stream(05)/index.m3u8
+#EXTINF:-1,Canal9 HD
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(canal9)/Stream(05)/index.m3u8
+#EXTINF:-1,CN
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(cartoo)/Stream(05)/index.m3u8
+#EXTINF:-1,CNN
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(cnn)/Stream(05)/index.m3u8
+#EXTINF:-1,digizuite.dk/tv2b
+rtmp://itv08.digizuite.dk/tv2b/ch1
+#EXTINF:-1,Discovery
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(discov)/Stream(05)/index.m3u8
+#EXTINF:-1,Disney
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(Disney)/Stream(05)/index.m3u8
+#EXTINF:-1,Disney Jr.
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(disnjr)/Stream(05)/index.m3u8
+#EXTINF:-1,Disney XD
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DisnXD)/Stream(05)/index.m3u8
+#EXTINF:-1,DR K
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DRk)/Stream(05)/index.m3u8
+#EXTINF:-1,DR Ramasjang
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DRram)/Stream(05)/index.m3u8
+#EXTINF:-1,DR Ultra
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DRultra)/Stream(05)/index.m3u8
+#EXTINF:-1,DR1
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DR1)/Stream(05)/index.m3u8
+#EXTINF:-1,DR2
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DR2)/Stream(05)/index.m3u8
+#EXTINF:-1,DR3
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DR3)/Stream(05)/index.m3u8
+#EXTINF:-1,Eurosport HD
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(EuroSp)/Stream(05)/index.m3u8
+#EXTINF:-1,Eurosport2 HD
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(eusp2)/Stream(05)/index.m3u8
+#EXTINF:-1,Kanal 10 Älmhult (Sweden)
+rtmp://cdn-kanal10.crossnet.net/kanal10/mpegts.stream
+#EXTINF:-1,kanal10
+rtmp://cdn-kanal10.crossnet.net/kanal10/mpegts.stream
+#EXTINF:-1,MTV HD
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(mtv)/Stream(05)/index.m3u8
+#EXTINF:-1,Nat Geo
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(natgeo)/Stream(05)/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(Nickel)/Stream(05)/index.m3u8
+#EXTINF:-1,NRK1
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(nrk1)/Stream(05)/index.m3u8
+#EXTINF:-1,RTL HD
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(rtl)/Stream(05)/index.m3u8
+#EXTINF:-1,SVT1
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(svt1)/Stream(05)/index.m3u8
+#EXTINF:-1,SVT2
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(svt2)/Stream(05)/index.m3u8
+#EXTINF:-1,TCM
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(tcm)/Stream(05)/index.m3u8
+#EXTINF:-1,TLC
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(TLC)/Stream(05)/index.m3u8
+#EXTINF:-1,TNT
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(TNT)/Stream(05)/index.m3u8
+#EXTINF:-1,TV2
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(TV2L)/Stream(05)/index.m3u8
+#EXTINF:-1,TV2 Bornholm
+rtmp://itv08.digizuite.dk/tv2b/ch1
+#EXTINF:-1,TV2 Charlie
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(Charli)/Stream(05)/index.m3u8
+#EXTINF:-1,TV2 Fri
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(2FriHD)/Stream(05)/index.m3u8
+#EXTINF:-1,TV2 N DK
+rtmp://$OPT:rtmp-raw=rtmp://80.63.11.91:80/vod playpath=mp4:tv2nord/shows/2013-12-29_1930_2000.mp4 swfUrl=http://www.tv2nord.dk/themes/tv2nord_theme/flowplayer/flowplayer.commercial.swf live=1 pageUrl=http://www.tv2nord.dk/arkiv
+#EXTINF:-1,TV2 News
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(2News)/Stream(05)/index.m3u8
+#EXTINF:-1,tv2fyn_2000
+rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2fyn_2000
+#EXTINF:-1,tv2lorry_1000
+rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2lorry_1000
+#EXTINF:-1,tv2lorry_2000
+rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2lorry_2000
+#EXTINF:-1,tv2nord-plus_2000
+rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tv2nord-plus_2000
+#EXTINF:-1,TV3
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(TV3)/Stream(05)/index.m3u8
+#EXTINF:-1,TV3+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(TV3plus)/Stream(05)/index.m3u8
+#EXTINF:-1,TV4
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(kanal4)/Stream(05)/index.m3u8
+#EXTINF:-1,TV5
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(Kanal5)/Stream(05)/index.m3u8
+#EXTINF:-1,TVSYD DK
+rtmp://$OPT:rtmp-raw=rtmp://80.63.11.91:80/vod playpath=mp4:tvsyd/shows/2013-10-26_1945_1500.mp4 swfUrl=http://www.tvsyd.dk/themes/tvsyd_theme_2013/flowplayer/flowplayer.commercial.swf live=1 pageUrl=http://www.tvsyd.dk/vierderdirekte
+#EXTINF:-1,tvsyd_1000
+rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tvsyd_1000
+#EXTINF:-1,tvsyd_1000
+rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tvsyd_1000
+#EXTINF:-1,tvsyd_2000
+rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tvsyd_2000
+#EXTINF:-1,tvsyd_2000
+rtmp://livestream2.fynskemedier.dk:1935/live/_definst_/tvsyd_2000
+#EXTINF:-1,VEVO 01
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/01/prog_index.m3u8
+#EXTINF:-1,VEVO 02
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/01/prog_index.m3u8
+#EXTINF:-1,VEVO 03
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/01/prog_index.m3u8
+#EXTINF:-1,VEVO 04
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/02/prog_index.m3u8
+#EXTINF:-1,VEVO 05
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/02/prog_index.m3u8
+#EXTINF:-1,VEVO 06
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/02/prog_index.m3u8
+#EXTINF:-1,VEVO 07
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/03/prog_index.m3u8
+#EXTINF:-1,VEVO 08
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/03/prog_index.m3u8
+#EXTINF:-1,VEVO 09
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/03/prog_index.m3u8
+#EXTINF:-1,VEVO 10
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
+#EXTINF:-1,VEVO 11
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
+#EXTINF:-1,VEVO 12
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
+#EXTINF:-1,VEVO 13
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1,VEVO 14
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1,VEVO 15
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1,VEVO 16
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1,VEVO 17
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1,VEVO 18
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1,VH1
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(VH1)/Stream(05)/index.m3u8
+#EXTINF:-1,Viasat Sport2 HD
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(3sport2)/Stream(05)/index.m3u8
+#EXTINF:-1,Viasat3 Sport1 HD
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(3sport)/Stream(05)/index.m3u8
+#EXTINF:-1,ZDF HD
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(zdf)/Stream(05)/index.m3u8
+#EXTINF:-1,Zulu
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(zulu)/Stream(05)/index.m3u8
+
+
+
+Scandinavien Links Iptv For 
+#EXTM3U
+#EXTINF:0, DR1
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DR1)/Stream(05)/index.m3u8
+
+#EXTINF:0, DR2
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DR2)/Stream(05)/index.m3u8
+
+#EXTINF:0, DR3
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DR3)/Stream(05)/index.m3u8
+
+#EXTINF:0, DR Ultra
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DRultra)/Stream(05)/index.m3u8
+
+#EXTINF:0, DR K
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DRk)/Stream(05)/index.m3u8
+
+#EXTINF:0, DR Ramasjang
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DRram)/Stream(05)/index.m3u8
+
+#EXTINF:0, TV2
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(TV2L)/Stream(05)/index.m3u8
+
+#EXTINF:0, Zulu
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(zulu)/Stream(05)/index.m3u8
+
+#EXTINF:0, TV2 Charlie
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(Charli)/Stream(05)/index.m3u8
+
+#EXTINF:0, TV3
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(TV3)/Stream(05)/index.m3u8
+
+#EXTINF:0, TV3+
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(TV3plus)/Stream(05)/index.m3u8
+
+#EXTINF:0, 3 Puls
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(3puls)/Stream(05)/index.m3u8
+
+#EXTINF:0, TV4
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(kanal4)/Stream(05)/index.m3u8
+
+#EXTINF:0, TV5
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(Kanal5)/Stream(05)/index.m3u8
+
+#EXTINF:0, 6’eren
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(6eren)/Stream(05)/index.m3u8
+
+#EXTINF:0, Discovery
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(discov)/Stream(05)/index.m3u8
+
+#EXTINF:0, Nat Geo
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(natgeo)/Stream(05)/index.m3u8
+
+#EXTINF:0, Animal Planet
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(Animal)/Stream(05)/index.m3u8
+
+#EXTINF:0, Canal8 HD
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(canal8)/Stream(05)/index.m3u8
+
+#EXTINF:0, Canal9 HD
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(canal9)/Stream(05)/index.m3u8
+
+#EXTINF:0, Viasat3 Sport1 HD
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(3sport)/Stream(05)/index.m3u8
+
+#EXTINF:0, Viasat Sport2 HD
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(3sport2)/Stream(05)/index.m3u8
+
+#EXTINF:0, Eurosport HD
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(EuroSp)/Stream(05)/index.m3u8
+
+#EXTINF:0, Eurosport2 HD
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(eusp2)/Stream(05)/index.m3u8
+
+#EXTINF:0, CN
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(cartoo)/Stream(05)/index.m3u8
+
+#EXTINF:0, Disney
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(Disney)/Stream(05)/index.m3u8
+
+#EXTINF:0, Disney XD
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(DisnXD)/Stream(05)/index.m3u8
+
+#EXTINF:0, Nickelodeon
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(Nickel)/Stream(05)/index.m3u8
+
+#EXTINF:0, Disney Jr.
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(disnjr)/Stream(05)/index.m3u8
+
+#EXTINF:0, MTV HD
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(mtv)/Stream(05)/index.m3u8
+
+#EXTINF:0, VH1
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(VH1)/Stream(05)/index.m3u8
+
+#EXTINF:0, TNT
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(TNT)/Stream(05)/index.m3u8
+
+#EXTINF:0, TLC
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(TLC)/Stream(05)/index.m3u8
+
+#EXTINF:0, TCM
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(tcm)/Stream(05)/index.m3u8
+
+#EXTINF:0, TV2 News
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(2News)/Stream(05)/index.m3u8
+
+#EXTINF:0, CNN
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(cnn)/Stream(05)/index.m3u8
+
+#EXTINF:0, BBC World
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(bbcW)/Stream(05)/index.m3u8
+
+#EXTINF:0, TV2 Fri
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(2FriHD)/Stream(05)/index.m3u8
+
+#EXTINF:0, NRK1
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(nrk1)/Stream(05)/index.m3u8
+
+#EXTINF:0, SVT1
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(svt1)/Stream(05)/index.m3u8
+
+#EXTINF:0, SVT2
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(svt2)/Stream(05)/index.m3u8
+
+#EXTINF:0, ZDF HD
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(zdf)/Stream(05)/index.m3u8
+
+#EXTINF:0, RTL HD
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(rtl)/Stream(05)/index.m3u8
+
+#EXTINF:0, ARD HD
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(ard)/Stream(05)/index.m3u8
+
+#EXTINF:0, BBC Knowledge
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(bbcK)/Stream(05)/index.m3u8
+
+#EXTINF:0, BBC Lifestyle
+
+http://ys-live.cdns.yousee.tv/Content/HLS/Live/Channel(bbcL)/Stream(05)/index.m3u8
