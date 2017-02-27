@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DEuYWF6.png", DR1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DEuYWF6.png",DR1
 http://dr01-lh.akamaihd.net/i/dr01_0@147054/master.m3u8
 
 #EXTINF:-1 tvg-name="DR 2" tvg-logo="http://i.imgur.com/8h8qhl4.png",DR2
 http://dr02-lh.akamaihd.net/i/dr02_0@147055/index_5_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GCWX5yx.png", DR3
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GCWX5yx.png",DR3
 http://dr03-lh.akamaihd.net/i/dr03_0@147056/index_3_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LvWqZQR.png", DR K
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LvWqZQR.png",DR K
 http://dr04-lh.akamaiHD.net/i/dr04_0@147057/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XReENcS.png",DR ULTRA
@@ -66,13 +66,13 @@ http://163.172.102.132:8000/live/12345/54321/135.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7r63Yt1.png",EUROSPORT 2 HD Xtra (UK)
 http://163.172.102.132:8000/live/12345/54321/2394.ts
 
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/3/34/MTVMusic.png/revision/latest?cb=20150811184346",MTV MUSIC
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/3/34/MTVMusic.png/revision/latest?cb=20150811184346",MTV Music
 http://163.172.102.132:8000/live/12345/54321/1095.ts
 
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/78/MTV_Rocks_2011.svg/revision/latest?cb=20111124003304",MTV Rocks
 http://163.172.102.132:8000/live/12345/54321/1094.ts
 
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d7/MTV_Dance_2011.svg/revision/latest?cb=20111124002749",MTV dance
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d7/MTV_Dance_2011.svg/revision/latest?cb=20111124002749",MTV Dance
 http://163.172.102.132:8000/live/12345/54321/156.ts
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/2/2c/VH1_logo_1994.svg/revision/latest/scale-to-width-down/200?cb=20091124075002",VH1
