@@ -95,6 +95,9 @@ http://smart-iptv2016.com:9500/live/stream156/0610509511/644.ts
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Discovery_Channel_2008.png",Discovery DK
 http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/1157.ts
 
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Discovery_Channel_2008.png",Discovery SE
+http://dnordichlslive04-i.akamaihd.net/hls/live/223842/DSWSD/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/3/34/Discovery_Channel_2000.png",Discovery UK
 http://smart-iptv2016.com:9500/live/stream156/0610509511/663.ts
 
