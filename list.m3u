@@ -36,17 +36,23 @@ http://tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/mast
 #EXTINF:-1 tvg-logo="http://i.imgur.com/egSRz9y.png",TV2 Charlie
 http://tv2danmark-tv2charlie-live.hls.adaptive.level3.net/tv2danmark/tv2charlie/master3200kbps.m3u8
 
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/tvkanal/images/2/2f/TV3.png/revision/latest?cb=20100116203712&path-prefix=da",TV 3
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/1143.ts
+# #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/tvkanal/images/2/2f/TV3.png/revision/latest?cb=20100116203712&path-prefix=da",TV 3
+# http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/1143.ts
 
 # #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/dreamlogos/images/3/37/TV3%2B_logo_2008.png.png",TV3+
 # http://62.4.21.70:8000/live/active/active/4300.ts
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/tvkanal/images/5/59/TV3_Puls.png",TV3 Puls
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/1144.ts
+http://195.12.170.181:7000/play/a026
 
 # #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d7/Dk4_logo_2010.png",DK4
 # http://62.4.21.70:8000/live/active/active/4308.ts
+
+#EXTINF:-1 tvg-logo="",Kanal 4
+http://195.12.170.181:7000/play/a02h
+
+#EXTINF:-1 tvg-logo="",Kanal 5
+http://195.12.170.181:7000/play/a02t
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/AxlvEUj.png",6eren
 http://dnordichlslive04-i.akamaihd.net/hls/live/223840/6DKHD/master.m3u8
@@ -54,8 +60,8 @@ http://dnordichlslive04-i.akamaihd.net/hls/live/223840/6DKHD/master.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/tvkanal/images/0/09/Canal_9.png",Kanal 9
 http://dnordichlslive09-i.akamaihd.net/hls/live/223862/C9DKHD/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://logowow.net/logos/8ye1oV31E.png",TV 3 Sport 1
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/1077.ts
+# #EXTINF:-1 tvg-logo="http://logowow.net/logos/8ye1oV31E.png",TV 3 Sport 1
+# http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/1077.ts
 
 # #EXTINF:-1 tvg-logo="http://logowow.net/logos/thumb-obPD0HS4z.png",TV 3 Sport 2
 
@@ -104,14 +110,14 @@ http://smart-iptv2016.com:9500/live/stream156/0610509511/663.ts
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/3/32/Discovery_Science_HD.png",Discovery Science UK
 http://smart-iptv2016.com:9500/live/stream156/0610509511/664.ts
 
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png",Discovery Turbo
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/465.ts
+# #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png",Discovery Turbo
+# http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/465.ts
 
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/5a/Animal_Planet_HD.png",Animal Planet
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/497.ts
+# #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/5a/Animal_Planet_HD.png",Animal Planet
+# http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/497.ts
 
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/3/34/MTVMusic.png",MTV Music
-http://smart-iptv2016.com:9500/live/stream156/0610509511/851.ts
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/3/34/MTVMusic.png",MTV
+http://195.12.170.181:7000/play/a027
 
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/78/MTV_Rocks_2011.svg",MTV Rocks
 http://163.172.102.132:8000/live/12345/54321/1094.ts
