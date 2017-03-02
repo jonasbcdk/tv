@@ -27,10 +27,10 @@ http://tv2danmark-tv2news-live.hls.adaptive.level3.net/tv2danmark/tv2news/master
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ZnvxE1w.png",TV2 FRI
 http://tv2danmark-tv2fri-live.hls.adaptive.level3.net/tv2danmark/tv2fri/master3200kbps.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XEG8KbO.png",TV2 ZULU
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/b/b9/TV_2_Zulu_2014.svg",TV2 ZULU
 http://tv2danmark-tv2zulu-live.hls.adaptive.level3.net/tv2danmark/tv2zulu/master3200kbps.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UhqfJnM.png",TV2 SPORT
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d3/TV_2_Sport_2015.svg",TV2 SPORT
 http://tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/master3200kbps.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/9e/TV_2_Charlie_2014.svg",TV2 Charlie
