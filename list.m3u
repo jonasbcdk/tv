@@ -48,10 +48,10 @@ http://195.12.170.181:7000/play/a026
 # #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d7/Dk4_logo_2010.png",DK4
 # http://62.4.21.70:8000/live/active/active/4308.ts
 
-#EXTINF:-1 tvg-logo="",Kanal 4
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/86/Kanal_4_2015.png",Kanal 4
 http://195.12.170.181:7000/play/a02h
 
-#EXTINF:-1 tvg-logo="",Kanal 5
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/a/ae/Kanal_5_2015.png",Kanal 5
 http://195.12.170.181:7000/play/a02t
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/AxlvEUj.png",6eren
