@@ -33,10 +33,10 @@ http://tv2danmark-tv2zulu-live.hls.adaptive.level3.net/tv2danmark/tv2zulu/master
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UhqfJnM.png",TV2 SPORT
 http://tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/master3200kbps.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/egSRz9y.png",TV2 Charlie
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/9e/TV_2_Charlie_2014.svg",TV2 Charlie
 http://tv2danmark-tv2charlie-live.hls.adaptive.level3.net/tv2danmark/tv2charlie/master3200kbps.m3u8
 
-# #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/tvkanal/images/2/2f/TV3.png/revision/latest?cb=20100116203712&path-prefix=da",TV 3
+# #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/dc/Viasat_tv3_hu.png",TV 3
 # http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/1143.ts
 
 # #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/dreamlogos/images/3/37/TV3%2B_logo_2008.png.png",TV3+
@@ -80,13 +80,13 @@ http://dnordichlslive09-i.akamaihd.net/hls/live/223865/ESDKHD/master.m3u8
 # #EXTINF:-1 tvg-logo="http://i.imgur.com/7r63Yt1.png",EUROSPORT 2 HD Xtra (UK)
 # http://163.172.102.132:8000/live/12345/54321/2394.ts
 
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logos2/images/6/6c/Bbc_one_logo_2016.png",BBC
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/0f/BBC_World_News_logo_%28box%29.svg",BBC World News
 http://ott1.odessa.tv:7321/index.php?channel=36&amp;key_ott=5f7690fd0bd330afafb91f331adc46dd
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/a/aa/Music_Box_Interactive_TV.svg",Music Box
 http://ott1.odessa.tv:7321/index.php?channel=38&amp;key_ott=5f7690fd0bd330afafb91f331adc46dd
 
-#EXTINF:-1 tvg-logo="http://edan.lv/data/images/hd-fashion.png",HD FASHION
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b1/FTV_HD_2009.png",HD FASHION
 http://ott1.odessa.tv:7321/index.php?channel=120&amp;key_ott=5f7690fd0bd330afafb91f331adc46dd
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/a/a3/Sky_Sports_1_2010.png",Sky Sports 1 HD
