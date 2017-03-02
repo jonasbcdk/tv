@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DEuYWF6.png",DR1
+#EXTINF:-1 tvg-id="dr1.dr.dk" tvg-logo="http://i.imgur.com/DEuYWF6.png",DR1
 http://dr01-lh.akamaihd.net/i/dr01_0@147054/master.m3u8
 
 #EXTINF:-1 tvg-name="DR 2" tvg-logo="http://i.imgur.com/8h8qhl4.png",DR2
