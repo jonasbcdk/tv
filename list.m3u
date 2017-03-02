@@ -24,16 +24,16 @@ http://tv2danmark-tv2nord-live.hls.adaptive.level3.net/tv2danmark/tv2nord/master
 #EXTINF:-1 tvg-id="news.tv2.dk" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/22/TV_2_News_2016.png",TV2 NEWS
 http://tv2danmark-tv2news-live.hls.adaptive.level3.net/tv2danmark/tv2news/master.m3u8
 
-#EXTINF:-1 tvg-id="fri.tv2.dk" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/3/37/TV_2_Fri_2014.svg",TV2 FRI
+#EXTINF:-1 tvg-id="fri.tv2.dk" tvg-logo="http://logowow.net/logos/thumb-UYiviP4rp.png",TV2 FRI
 http://tv2danmark-tv2fri-live.hls.adaptive.level3.net/tv2danmark/tv2fri/master3200kbps.m3u8
 
-#EXTINF:-1 tvg-id="zulu.tv2.dk" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/b/b9/TV_2_Zulu_2014.svg",TV2 ZULU
+#EXTINF:-1 tvg-id="zulu.tv2.dk" tvg-logo="http://vignette2.wikia.nocookie.net/tvkanal/images/3/3e/TV_2_Zulu_gl.png/revision/latest?cb=20100118174432&path-prefix=da",TV2 ZULU
 http://tv2danmark-tv2zulu-live.hls.adaptive.level3.net/tv2danmark/tv2zulu/master3200kbps.m3u8
 
-#EXTINF:-1 tvg-id="sport.tv2.dk" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d3/TV_2_Sport_2015.svg",TV2 SPORT
+#EXTINF:-1 tvg-id="sport.tv2.dk" tvg-logo="http://priser.tv2.dk/media/1459/sport_p_png.png",TV2 SPORT
 http://tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/master3200kbps.m3u8
 
-#EXTINF:-1 tvg-id="charlie.tv2.dk" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/9e/TV_2_Charlie_2014.svg",TV2 Charlie
+#EXTINF:-1 tvg-id="charlie.tv2.dk" tvg-logo="http://omtv2.tv2.dk/fileadmin/_processed_/csm_charlie_p_RGB_f741a3455a.png",TV2 Charlie
 http://tv2danmark-tv2charlie-live.hls.adaptive.level3.net/tv2danmark/tv2charlie/master3200kbps.m3u8
 
 # #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/dc/Viasat_tv3_hu.png",TV 3
