@@ -111,11 +111,11 @@ http://149.14.4.125:9085/best/discov/playlist.m3u8
 #EXTINF:-1 tvg-id="science.discoverychannel.com" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/3/32/Discovery_Science_HD.png",Discovery Science
 http://149.14.4.125:9085/best/discovs/playlist.m3u8
 
-# #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png",Discovery Turbo
-# http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/465.ts
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png",Discovery Turbo
+http://149.14.4.125:9085/best/turbo/playlist.m3u8
 
-# #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/5a/Animal_Planet_HD.png",Animal Planet
-# http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/497.ts
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/5a/Animal_Planet_HD.png",Animal Planet
+http://149.14.4.125:9085/best/animal/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mtv.dk" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/3/34/MTVMusic.png",MTV DK
 http://195.12.170.181:7000/play/a027
