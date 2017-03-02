@@ -21,7 +21,7 @@ http://dr05-lh.akamaihd.net/i/dr05_0@147058/index_3_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TV_2_Denmark.svg/1280px-TV_2_Denmark.svg.png",TV2
 http://tv2danmark-tv2nord-live.hls.adaptive.level3.net/tv2danmark/tv2nord/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/VE3ySgQ.png",TV2 NEWS
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/22/TV_2_News_2016.png",TV2 NEWS
 http://tv2danmark-tv2news-live.hls.adaptive.level3.net/tv2danmark/tv2news/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ZnvxE1w.png",TV2 FRI
