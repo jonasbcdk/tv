@@ -90,10 +90,10 @@ http://ott1.odessa.tv:7321/index.php?channel=38&amp;key_ott=5f7690fd0bd330afafb9
 http://ott1.odessa.tv:7321/index.php?channel=120&amp;key_ott=5f7690fd0bd330afafb91f331adc46dd
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/a/a3/Sky_Sports_1_2010.png",Sky Sports 1 HD
-http://smart-iptv2016.com:9500/live/stream156/0610509511/642.ts
+http://195.154.154.185:5890/live/serge3/serge3/273.ts
 
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/a/ae/Sky_Sports_2_2010.png",Sky Sports 2 HD
-http://smart-iptv2016.com:9500/live/stream156/0610509511/643.ts
+http://195.154.154.185:5890/live/serge3/serge3/274.ts
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-7FewPVsDh7A/VAW6c2XPZTI/AAAAAAAAFUg/weBNX1d4Ly4/s1600/sky%2Bsports%2B3%2Blive%2Bmykora.png",Sky Sports 3 HD
 http://smart-iptv2016.com:9500/live/stream156/0610509511/644.ts
