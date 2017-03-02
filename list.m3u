@@ -24,7 +24,7 @@ http://tv2danmark-tv2nord-live.hls.adaptive.level3.net/tv2danmark/tv2nord/master
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/22/TV_2_News_2016.png",TV2 NEWS
 http://tv2danmark-tv2news-live.hls.adaptive.level3.net/tv2danmark/tv2news/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZnvxE1w.png",TV2 FRI
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/3/37/TV_2_Fri_2014.svg",TV2 FRI
 http://tv2danmark-tv2fri-live.hls.adaptive.level3.net/tv2danmark/tv2fri/master3200kbps.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/b/b9/TV_2_Zulu_2014.svg",TV2 ZULU
