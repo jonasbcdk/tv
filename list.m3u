@@ -22,7 +22,8 @@ http://dr05-lh.akamaihd.net/i/dr05_0@147058/index_3_av-p.m3u8
 http://tv2danmark-tv2nord-live.hls.adaptive.level3.net/tv2danmark/tv2nord/master.m3u8
 
 #EXTINF:-1 tvg-id="news.tv2.dk" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/22/TV_2_News_2016.png",TV2 NEWS
-http://tv2danmark-tv2news-live.hls.adaptive.level3.net/tv2danmark/tv2news/master.m3u8
+http://tv2danmark-tv2news-live.hls.adaptive.level3.net/tv2danmark/tv2news/master3200kbps.m3u8
+#http://tv2danmark-tv2news-live.hls.adaptive.level3.net/tv2danmark/tv2news/master.m3u8
 
 #EXTINF:-1 tvg-id="fri.tv2.dk" tvg-logo="http://logowow.net/logos/thumb-UYiviP4rp.png",TV2 FRI
 http://tv2danmark-tv2fri-live.hls.adaptive.level3.net/tv2danmark/tv2fri/master3200kbps.m3u8
@@ -98,16 +99,16 @@ http://195.154.154.185:5890/live/serge3/serge3/274.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-7FewPVsDh7A/VAW6c2XPZTI/AAAAAAAAFUg/weBNX1d4Ly4/s1600/sky%2Bsports%2B3%2Blive%2Bmykora.png",Sky Sports 3 HD
 http://smart-iptv2016.com:9500/live/stream156/0610509511/644.ts
 
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Discovery_Channel_2008.png",Discovery DK
-http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/1157.ts
+# #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Discovery_Channel_2008.png",Discovery DK
+# http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/1157.ts
 
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Discovery_Channel_2008.png",Discovery SE
+#EXTINF:-1 tvg-id="discoverychannel.se" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Discovery_Channel_2008.png",Discovery SE
 http://dnordichlslive04-i.akamaihd.net/hls/live/223842/DSWSD/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/3/34/Discovery_Channel_2000.png",Discovery UK
 http://149.14.4.125:9085/best/discov/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/3/32/Discovery_Science_HD.png",Discovery Science UK
+#EXTINF:-1 tvg-id="science.discoverychannel.com" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/3/32/Discovery_Science_HD.png",Discovery Science
 http://149.14.4.125:9085/best/discovs/playlist.m3u8
 
 # #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png",Discovery Turbo
@@ -116,7 +117,7 @@ http://149.14.4.125:9085/best/discovs/playlist.m3u8
 # #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/5a/Animal_Planet_HD.png",Animal Planet
 # http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/497.ts
 
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/3/34/MTVMusic.png",MTV
+#EXTINF:-1 tvg-id="mtv.dk" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/3/34/MTVMusic.png",MTV DK
 http://195.12.170.181:7000/play/a027
 
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/78/MTV_Rocks_2011.svg",MTV Rocks
