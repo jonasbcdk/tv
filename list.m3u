@@ -18,7 +18,7 @@ http://dr06-lh.akamaihd.net/i/dr06_0@147059/index_3_av-p.m3u8
 #EXTINF:-1 tvg-id="ramasjang.dr.dk" tvg-logo="http://i.imgur.com/wmG5oro.png",DR RAMASJANG
 http://dr05-lh.akamaihd.net/i/dr05_0@147058/index_3_av-p.m3u8
 
-#EXTINF:-1 tvg-id="tv2nord.dk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TV_2_Denmark.svg/1280px-TV_2_Denmark.svg.png",TV2
+#EXTINF:-1 tvg-id="tv2.dk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TV_2_Denmark.svg/1280px-TV_2_Denmark.svg.png",TV2
 http://tv2danmark-tv2nord-live.hls.adaptive.level3.net/tv2danmark/tv2nord/master.m3u8
 
 #EXTINF:-1 tvg-id="news.tv2.dk" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/22/TV_2_News_2016.png",TV2 NEWS
