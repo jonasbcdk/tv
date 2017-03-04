@@ -141,6 +141,12 @@ http://dnordichlslive09-i.akamaihd.net/hls/live/226880/ESNOHD/master.m3u8
 #EXTINF:-1 group-title="NO" tvg-id="mtv.no" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/3e/MTV_Logo_2010.png",MTV NO
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
+#EXTINF:-1 group-title="NO" tvg-id="motor.viasat.no" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f5/Viasat_Motor_2008.png",Viasat Motor NO
+http://195.12.170.181:7000/play/a02f
+
 
 #EXTINF:-1 group-title="SE" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/3/34/Discovery_Channel_2000.png",Discovery SE
 http://dnordichlslive04-i.akamaihd.net/hls/live/223842/DSWSD/master.m3u8
+
+#EXTINF:-1 group-title="SE" tvg-id="sport.viasat.se" tvg-logo="https://new.static.tv.nu/16958245",Viasat Sport Premium SE
+http://89.163.148.42:1557/live/oxygen/oxygen/3504.ts
