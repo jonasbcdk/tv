@@ -43,8 +43,8 @@ http://tv2danmark-tv2charlie-live.hls.adaptive.level3.net/tv2danmark/tv2charlie/
 # #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/dreamlogos/images/3/37/TV3%2B_logo_2008.png.png",TV3+
 # http://62.4.21.70:8000/live/active/active/4300.ts
 
-#EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="http://vignette2.wikia.nocookie.net/tvkanal/images/5/59/TV3_Puls.png/revision/latest?cb=20100130125137&path-prefix=da",TV3 Puls
-http://195.12.170.181:7000/play/a026
+# #EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="http://vignette2.wikia.nocookie.net/tvkanal/images/5/59/TV3_Puls.png/revision/latest?cb=20100130125137&path-prefix=da",TV3 Puls
+# http://195.12.170.181:7000/play/a026
 
 # #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d7/Dk4_logo_2010.png",DK4
 # http://62.4.21.70:8000/live/active/active/4308.ts
@@ -85,14 +85,14 @@ http://ott1.odessa.tv:7321/index.php?channel=38&amp;key_ott=5f7690fd0bd330afafb9
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b1/FTV_HD_2009.png",HD FASHION
 http://ott1.odessa.tv:7321/index.php?channel=120&amp;key_ott=5f7690fd0bd330afafb91f331adc46dd
 
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/a/a3/Sky_Sports_1_2010.png",Sky Sports 1 HD
-http://195.154.154.185:5890/live/serge3/serge3/273.ts
+# #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/a/a3/Sky_Sports_1_2010.png",Sky Sports 1 HD
+# http://195.154.154.185:5890/live/serge3/serge3/273.ts
 
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/a/ae/Sky_Sports_2_2010.png",Sky Sports 2 HD
-http://195.154.154.185:5890/live/serge3/serge3/274.ts
+# #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/a/ae/Sky_Sports_2_2010.png",Sky Sports 2 HD
+# http://195.154.154.185:5890/live/serge3/serge3/274.ts
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-7FewPVsDh7A/VAW6c2XPZTI/AAAAAAAAFUg/weBNX1d4Ly4/s1600/sky%2Bsports%2B3%2Blive%2Bmykora.png",Sky Sports 3 HD
-http://smart-iptv2016.com:9500/live/stream156/0610509511/644.ts
+# #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-7FewPVsDh7A/VAW6c2XPZTI/AAAAAAAAFUg/weBNX1d4Ly4/s1600/sky%2Bsports%2B3%2Blive%2Bmykora.png",Sky Sports 3 HD
+# http://smart-iptv2016.com:9500/live/stream156/0610509511/644.ts
 
 # #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Discovery_Channel_2008.png",Discovery DK
 # http://ipsatpro.info:8000/live/V5I0d1QDe5/LarqAhFJBp/1157.ts
