@@ -127,7 +127,7 @@ http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:kanal10sverige/playlist.m3u8
 #EXTINF:-1 group-title="SE" tvg-logo="http://2.bp.blogspot.com/-uBiBIONw3Wk/Uk_yPmwGmyI/AAAAAAAAcM8/xcF3QGCqTBA/s256/Kanal+11+logo+2013.png",Kanal 11 SE
 http://dnordichlslive05-i.akamaihd.net/hls/live/223851/K11SWHD/master.m3u8
 
-#EXTINF:-1 group-title="SE",Kanal 14 SE
+#EXTINF:-1 tvg-id="fjorton.tv" group-title="SE" tvg-logo="http://onefour.tv/images/presswebb_files/epg_logo_digitalt_hdAdd.png",Kanal 14 SE
 http://155.4.160.181:1935/fjwebb/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hd.tlcsverige.se" group-title="SE" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/94/TLC_logo_2011.png",TLC SE
