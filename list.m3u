@@ -88,6 +88,9 @@ http://195.12.170.181:7000/play/a02r
 http://195.12.170.181:7000/play/Nor-Cartoon-Network
 
 
+#EXTINF:-1 group-title="NO" tvg-id="tvnorge.no" tvg-logo="https://www.rikstv.no/globalassets/upload/logo/tv-kanaler/tvnorge.png",N Norge
+http://dnordichlslive08-i.akamaihd.net/hls/live/223860/TVNOHD/master.m3u8
+
 #EXTINF:-1 group-title="NO" tvg-id="eurosport.no" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/f/f5/Eurosport_norway.png",Eurosport NO
 http://dnordichlslive09-i.akamaihd.net/hls/live/226880/ESNOHD/master.m3u8
 
@@ -183,3 +186,6 @@ http://87.76.91.24:8010/play/a00g
 
 # #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/2/2c/VH1_logo_1994.svg/revision/latest/scale-to-width-down/200?cb=20091124075002",VH1
 # http://masteriptv.dnsfor.me:8000/live/ricardo/ricardo/1501.ts
+
+#EXTINF:-1 tvg-logo="http://www.vmore.tv/wp-content/uploads/2015/01/city.png",City Music TV BG
+http://nodeb.gocaster.net:1935/CGL/mp4:TODAYFM_TEST2/playlist.m3u8
