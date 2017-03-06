@@ -195,5 +195,17 @@ http://87.76.91.24:8010/play/a00g
 # #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/2/2c/VH1_logo_1994.svg/revision/latest/scale-to-width-down/200?cb=20091124075002",VH1
 # http://masteriptv.dnsfor.me:8000/live/ricardo/ricardo/1501.ts
 
-#EXTINF:-1 tvg-logo="http://www.vmore.tv/wp-content/uploads/2015/01/city.png",City Music TV BG
+#EXTINF:-1 group-title="Musik" tvg-logo="http://www.vmore.tv/wp-content/uploads/2015/01/city.png",City Music TV BG
 http://nodeb.gocaster.net:1935/CGL/mp4:TODAYFM_TEST2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/0b/10/3697/c175.png",Electrosound TV
+rtmp://www.electrosound.tv:1935/public/stream
+
+#EXTINF:-1 tvg-logo="http://www.satelity-budejovice.cz/fotky13968/EZS/Televizni_anteny/logo-Retro_Music_Tv.png",Retro TV CZ
+rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Logo_virgin_radio_tv.png",Virgin Radio TV
+http://wow01.105.net/live/virgin1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/34/Logo-RTL.png",RTL TV 102
+http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/chunklist-b1164000.m3u8
