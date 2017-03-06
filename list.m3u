@@ -58,7 +58,7 @@ http://195.12.170.181:7000/play/a02t
 #EXTINF:-1 tvg-id="6-eren.dk" tvg-logo="http://i.imgur.com/AxlvEUj.png",6eren
 http://dnordichlslive04-i.akamaihd.net/hls/live/223840/6DKHD/master.m3u8
 
-#EXTINF:-1 tvg-id="canal9.dk" tvg-logo="http://vignette3.wikia.nocookie.net/tvkanal/images/0/09/Canal_9.png",Kanal 9
+#EXTINF:-1 tvg-id="canal9.dk" tvg-logo="http://vignette3.wikia.nocookie.net/tvkanal/images/0/09/Canal_9.png",Canal 9
 http://dnordichlslive09-i.akamaihd.net/hls/live/223862/C9DKHD/master.m3u8
 
 # #EXTINF:-1 tvg-logo="http://logowow.net/logos/8ye1oV31E.png",TV 3 Sport 1
@@ -110,8 +110,14 @@ http://dnordichlslive10-i.akamaihd.net/hls/live/223867/K5SWHD/master.m3u8
 #EXTINF:-1 tvg-id="kanal9.se" group-title="SE" tvg-logo="http://webb-tv.nu/pictures/logosfront/kanal-9-play.svg",Kanal 9 SE
 http://dnordichlslive07-i.akamaihd.net/hls/live/223857/K9SWHD/master.m3u8
 
+#EXTINF:-1 tvg-id="kanal10.se" group-title="SE" tvg-logo="http://kanal10.se/images/default-source/Grafik/kanal10CFEFF1B92FE3.png",Kanal 10 SE
+http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:kanal10sverige/playlist.m3u8
+
 #EXTINF:-1 group-title="SE" tvg-logo="http://2.bp.blogspot.com/-uBiBIONw3Wk/Uk_yPmwGmyI/AAAAAAAAcM8/xcF3QGCqTBA/s256/Kanal+11+logo+2013.png",Kanal 11 SE
 http://dnordichlslive05-i.akamaihd.net/hls/live/223851/K11SWHD/master.m3u8
+
+#EXTINF:-1 group-title="SE",Kanal 14 SE
+http://155.4.160.181:1935/fjwebb/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hd.tlcsverige.se" group-title="SE" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/94/TLC_logo_2011.png",TLC SE
 http://dnordichlslive07-i.akamaihd.net/hls/live/223858/TLCSWSD/master.m3u8
