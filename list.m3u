@@ -52,8 +52,8 @@ http://cdn-lt-live.tvmidtvest.dk/dc-1/live/hls/p/1953371/e/0_ghzg9q0q/sd/10000/t
 # #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/dreamlogos/images/3/37/TV3%2B_logo_2008.png.png",TV3+
 # http://62.4.21.70:8000/live/active/active/4300.ts
 
-#EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="https://logos.xmltv.se/puls.tv3.dk.png",TV3 Puls
-http://185.59.222.49:8000/live/jean/jean123/9768.ts
+# #EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="https://logos.xmltv.se/puls.tv3.dk.png",TV3 Puls
+# http://185.59.222.49:8000/live/jean/jean123/9768.ts
 
 # #EXTINF:-1 tvg-id="dk4.dk" tvg-logo="https://logos.xmltv.se/dk4.dk.png",DK4
 # http://bb1.sendevric.com:8000/live/jean/jean123/9769.ts
@@ -92,29 +92,29 @@ http://195.12.170.181:7000/play/Viasat-Explore
 http://195.12.170.181:7000/play/a02s
 # http://185.59.222.49:8000/live/jean/jean123/9790.ts
 
-#EXTINF:-1 tvg-id="discovery.dk" group-title="DK" tvg-logo="https://logos.xmltv.se/discovery.dk.png",Discovery DK
-http://185.59.222.49:8000/live/jean/jean123/9795.ts
+# #EXTINF:-1 tvg-id="discovery.dk" group-title="DK" tvg-logo="https://logos.xmltv.se/discovery.dk.png",Discovery DK
+# http://185.59.222.49:8000/live/jean/jean123/9795.ts
 
-#EXTINF:-1 tvg-id="investigation.discovery.dk" group-title="DK" tvg-logo="https://logos.xmltv.se/investigation.discovery.dk.png",Discovery Investigation DK
-http://185.59.222.49:8000/live/jean/jean123/9792.ts
+# #EXTINF:-1 tvg-id="investigation.discovery.dk" group-title="DK" tvg-logo="https://logos.xmltv.se/investigation.discovery.dk.png",Discovery Investigation DK
+# http://185.59.222.49:8000/live/jean/jean123/9792.ts
 
-#EXTINF:-1 tvg-id="animalplanet.discovery.dk" tvg-logo="https://logos.xmltv.se/animalplanet.discovery.dk.png",Animal Planet DK
-http://185.59.222.49:8000/live/jean/jean123/9788.ts
+# #EXTINF:-1 tvg-id="animalplanet.discovery.dk" tvg-logo="https://logos.xmltv.se/animalplanet.discovery.dk.png",Animal Planet DK
+# http://185.59.222.49:8000/live/jean/jean123/9788.ts
 
-#EXTINF:-1 tvg-id="tlc.discovery.dk" group-title="DK" tvg-logo="https://logos.xmltv.se/tlc.discovery.dk.png",TLC DK
-http://185.59.222.49:8000/live/jean/jean123/9774.ts
+# #EXTINF:-1 tvg-id="tlc.discovery.dk" group-title="DK" tvg-logo="https://logos.xmltv.se/tlc.discovery.dk.png",TLC DK
+# http://185.59.222.49:8000/live/jean/jean123/9774.ts
 
 #EXTINF:-1 tvg-id="nickelodeon.dk" tvg-logo="https://logos.xmltv.se/nickelodeon.dk.png",Nickelodeon DK / MTV Hits
 http://195.12.170.181:7000/play/a02r
 
-#EXTINF:-1 tvg-logo="https://logos.xmltv.se/vh1.eu.png",VH1
-http://185.59.222.49:8000/live/jean/jean123/9777.ts
+# #EXTINF:-1 tvg-logo="https://logos.xmltv.se/vh1.eu.png",VH1
+# http://185.59.222.49:8000/live/jean/jean123/9777.ts
 
 #EXTINF:-1 tvg-id="cartoonnetwork.dk" tvg-logo="https://logos.xmltv.se/cartoonnetwork.dk.png",CARTOON NETWORK
 http://195.12.170.181:7000/play/Nor-Cartoon-Network
 
-#EXTINF:-1 tvg-id="xd.disneychannel.dk" tvg-logo="https://logos.xmltv.se/xd.disneychannel.dk.png",Disney XD
-http://185.59.222.49:8000/live/jean/jean123/9783.ts
+# #EXTINF:-1 tvg-id="xd.disneychannel.dk" tvg-logo="https://logos.xmltv.se/xd.disneychannel.dk.png",Disney XD
+# http://185.59.222.49:8000/live/jean/jean123/9783.ts
 
 
 #EXTINF:-1 group-title="NO" tvg-id="tvnorge.no" tvg-logo="https://logos.xmltv.se/tvnorge.no.png",N Norge
@@ -165,28 +165,28 @@ http://ott1.odessa.tv:7321/index.php?channel=36&amp;key_ott=5f7690fd0bd330afafb9
 http://193.70.116.156:8080/live/U9GuRY8XoU/paBTihIMNb/1130.ts
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png",Discovery Turbo UK
-http://185.59.222.49:8000/live/jean/jean123/183.ts
-#http://193.70.116.156:8080/live/U9GuRY8XoU/paBTihIMNb/1126.ts
+http://193.70.116.156:8080/live/U9GuRY8XoU/paBTihIMNb/1126.ts
+#http://185.59.222.49:8000/live/Gianfranco/Gianfranco/183.ts
 
 #EXTINF:-1 tvg-id="science.discoverychannel.com" tvg-logo="https://logos.xmltv.se/science.discoverychannel.com.png",Discovery Science UK
 http://51.254.44.161:9900/live/525/525/24903.ts
 
-#EXTINF:-1 tvg-logo="https://logos.xmltv.se/natgeo.dk.png",NAT GEO UK
-http://185.59.222.49:8000/live/Gianfranco/Gianfranco/434.ts
+# #EXTINF:-1 tvg-logo="https://logos.xmltv.se/natgeo.dk.png",NAT GEO UK
+# http://185.59.222.49:8000/live/Gianfranco/Gianfranco/434.ts
 
-#EXTINF:-1 tvg-logo="https://logos.xmltv.se/wild.natgeo.dk.png",NAT GEO WILD UK
-http://185.59.222.49:8000/live/Gianfranco/Gianfranco/177.ts
+# #EXTINF:-1 tvg-logo="https://logos.xmltv.se/wild.natgeo.dk.png",NAT GEO WILD UK
+# http://185.59.222.49:8000/live/Gianfranco/Gianfranco/177.ts
 
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/eurosport.dk.png",Eurosport 1 UK
 http://193.70.116.156:8080/live/U9GuRY8XoU/paBTihIMNb/1095.ts
 # http://185.59.222.49:8000/live/jean/jean123/170.ts
 
-#EXTINF:-1 tvg-id="eurosport2.se" tvg-logo="https://logos.xmltv.se/eurosport2.fi.png",Eurosport 2 UK
-http://185.59.222.49:8000/live/jean/jean123/171.ts
+# #EXTINF:-1 tvg-id="eurosport2.se" tvg-logo="https://logos.xmltv.se/eurosport2.fi.png",Eurosport 2 UK
+# http://185.59.222.49:8000/live/jean/jean123/171.ts
 
 
-#EXTINF:-1 group-title="US" tvg-logo="http://static.nfl.com/static/content/static/img/ctv/anchor-images/nfl-now.png",NFL NOW
-http://185.59.222.49:8000/live/jean/jean123/9705.ts
+# #EXTINF:-1 group-title="US" tvg-logo="http://static.nfl.com/static/content/static/img/ctv/anchor-images/nfl-now.png",NFL NOW
+# http://185.59.222.49:8000/live/jean/jean123/9705.ts
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/54/NFL-Network.png",NFL NETWORK
 http://51.254.44.161:9900/live/525/525/24871.ts
@@ -211,17 +211,17 @@ http://51.254.44.161:9900/live/525/525/24904.ts
 # http://51.254.44.161:9900/live/525/525/24903.ts
 
 
-#EXTINF:-1 tvg-id="rocks.mtv.se" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/78/MTV_Rocks_2011.svg",MTV Rocks
-http://185.59.222.49:8000/live/Gianfranco/Gianfranco/4182.ts
+# #EXTINF:-1 tvg-id="rocks.mtv.se" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/78/MTV_Rocks_2011.svg",MTV Rocks
+# http://185.59.222.49:8000/live/Gianfranco/Gianfranco/4182.ts
 
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d7/MTV_Dance_2011.svg",MTV Dance
-http://185.59.222.49:8000/live/Gianfranco/Gianfranco/1554.ts
+# #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d7/MTV_Dance_2011.svg",MTV Dance
+# http://185.59.222.49:8000/live/Gianfranco/Gianfranco/1554.ts
 
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/1d/267px-MTV_Hits_2010.svg-1-.png",MTV Hits
-http://185.59.222.49:8000/live/Gianfranco/Gianfranco/1553.ts
+# #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/1d/267px-MTV_Hits_2010.svg-1-.png",MTV Hits
+# http://185.59.222.49:8000/live/Gianfranco/Gianfranco/1553.ts
 
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/87/Mtv_base_2011.png",MTV Base
-http://185.59.222.49:8000/live/Gianfranco/Gianfranco/4181.ts
+# #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/87/Mtv_base_2011.png",MTV Base
+# http://185.59.222.49:8000/live/Gianfranco/Gianfranco/4181.ts
 
 #EXTINF:-1 group-title="Musik" tvg-logo="http://www.vmore.tv/wp-content/uploads/2015/01/city.png",City Music TV BG
 http://nodeb.gocaster.net:1935/CGL/mp4:TODAYFM_TEST2/playlist.m3u8
