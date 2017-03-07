@@ -188,14 +188,14 @@ http://193.70.116.156:8080/live/U9GuRY8XoU/paBTihIMNb/1095.ts
 # #EXTINF:-1 group-title="US" tvg-logo="http://static.nfl.com/static/content/static/img/ctv/anchor-images/nfl-now.png",NFL NOW
 # http://185.59.222.49:8000/live/jean/jean123/9705.ts
 
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/54/NFL-Network.png",NFL NETWORK
-http://51.254.44.161:9900/live/525/525/24871.ts
+# #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/54/NFL-Network.png",NFL NETWORK
+# http://51.254.44.161:9900/live/525/525/24871.ts
 
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/4d/Fox_Sports_1.png",FOX Sports 1
-http://51.254.44.161:9900/live/525/525/24848.ts
+# #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/4d/Fox_Sports_1.png",FOX Sports 1
+# http://51.254.44.161:9900/live/525/525/24848.ts
 
-#EXTINF:-1 group-title="US" tvg-logo="https://logos.xmltv.se/discovery.dk.png",Discovery US
-http://51.254.44.161:9900/live/525/525/24904.ts
+# #EXTINF:-1 group-title="US" tvg-logo="https://logos.xmltv.se/discovery.dk.png",Discovery US
+# http://51.254.44.161:9900/live/525/525/24904.ts
 # http://163.172.30.64:8789/live/admin/12345678/744.ts
 
 # #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png",Discovery Turbo
