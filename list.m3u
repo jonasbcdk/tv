@@ -92,16 +92,16 @@ http://185.59.222.49:8000/live/jean/jean123/9792.ts
 #EXTINF:-1 tvg-id="animalplanet.discovery.dk" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/5a/Animal_Planet_HD.png",Animal Planet DK
 http://185.59.222.49:8000/live/jean/jean123/9788.ts
 
-#EXTINF:-1 tvg-id="tlc.discovery.dk" group-title="DK" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/94/TLC_logo_2011.png",TLC DK
+#EXTINF:-1 tvg-id="tlc.discovery.dk" group-title="DK" tvg-logo="https://logos.xmltv.se/tlc.discovery.dk.png",TLC DK
 http://185.59.222.49:8000/live/jean/jean123/9774.ts
 
-#EXTINF:-1 tvg-id="nickelodeon.dk" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/62/NICKELODEON_Logo.png",Nickelodeon DK / MTV Hits
+#EXTINF:-1 tvg-id="nickelodeon.dk" tvg-logo="https://logos.xmltv.se/nickelodeon.dk.png",Nickelodeon DK / MTV Hits
 http://195.12.170.181:7000/play/a02r
 
-#EXTINF:-1 tvg-id="cartoonnetwork.dk" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/1/1d/Cartoon_Network_2010B.png",CARTOON NETWORK
+#EXTINF:-1 tvg-id="cartoonnetwork.dk" tvg-logo="https://logos.xmltv.se/cartoonnetwork.dk.png",CARTOON NETWORK
 http://195.12.170.181:7000/play/Nor-Cartoon-Network
 
-#EXTINF:-1 tvg-id="xd.disneychannel.dk" tvg-logo="http://vignette4.wikia.nocookie.net/ichc-channel/images/5/53/Disney_XD_New_Logo.png",Disney XD
+#EXTINF:-1 tvg-id="xd.disneychannel.dk" tvg-logo="https://logos.xmltv.se/xd.disneychannel.dk.png",Disney XD
 http://185.59.222.49:8000/live/jean/jean123/9783.ts
 
 
@@ -121,25 +121,25 @@ http://195.12.170.181:7000/play/a02f
 http://195.12.170.181:7000/play/Nor-Viasat-Nature
 
 
-#EXTINF:-1 tvg-id="discoverychannel.se" group-title="SE" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/3/34/Discovery_Channel_2000.png",Discovery SE
+#EXTINF:-1 tvg-id="discoverychannel.se" group-title="SE" tvg-logo="https://logos.xmltv.se/discovery.dk.png",Discovery SE
 http://dnordichlslive04-i.akamaihd.net/hls/live/223842/DSWSD/master.m3u8
 
-#EXTINF:-1 tvg-id="kanal5.se" group-title="SE" tvg-logo="http://vignette3.wikia.nocookie.net/tvkanal/images/7/7c/Kanal_5_%28SE%29.png/revision/latest?cb=20091205151133&path-prefix=da",Kanal 5 SE
+#EXTINF:-1 tvg-id="kanal5.se" group-title="SE" tvg-logo="https://logos.xmltv.se/kanal5.se.png",Kanal 5 SE
 http://dnordichlslive10-i.akamaihd.net/hls/live/223867/K5SWHD/master.m3u8
 
-#EXTINF:-1 tvg-id="kanal9.se" group-title="SE" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d0/Kanal_9_Sweden_February_5_2014.png",Kanal 9 SE
+#EXTINF:-1 tvg-id="kanal9.se" group-title="SE" tvg-logo="https://logos.xmltv.se/kanal9.se.png",Kanal 9 SE
 http://dnordichlslive07-i.akamaihd.net/hls/live/223857/K9SWHD/master.m3u8
 
-#EXTINF:-1 tvg-id="kanal10.se" group-title="SE" tvg-logo="http://kanal10.se/images/default-source/Grafik/kanal10CFEFF1B92FE3.png",Kanal 10 SE
+#EXTINF:-1 tvg-id="kanal10.se" group-title="SE" tvg-logo="https://logos.xmltv.se/kanal10.se.png",Kanal 10 SE
 http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:kanal10sverige/playlist.m3u8
 
-#EXTINF:-1 group-title="SE" tvg-logo="http://2.bp.blogspot.com/-uBiBIONw3Wk/Uk_yPmwGmyI/AAAAAAAAcM8/xcF3QGCqTBA/s256/Kanal+11+logo+2013.png",Kanal 11 SE
+#EXTINF:-1 tvg-id="tv11.sbstv.se" group-title="SE" tvg-logo="https://logos.xmltv.se/tv11.sbstv.se.png",Kanal 11 SE
 http://dnordichlslive05-i.akamaihd.net/hls/live/223851/K11SWHD/master.m3u8
 
 #EXTINF:-1 tvg-id="fjorton.tv" group-title="SE" tvg-logo="http://onefour.tv/images/presswebb_files/epg_logo_digitalt_hdAdd.png",Kanal 14 SE
 http://155.4.160.181:1935/fjwebb/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="hd.tlcsverige.se" group-title="SE" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/94/TLC_logo_2011.png",TLC SE
+#EXTINF:-1 tvg-id="hd.tlcsverige.se" group-title="SE" tvg-logo="https://logos.xmltv.se/tlc.discovery.dk.png",TLC SE
 http://dnordichlslive07-i.akamaihd.net/hls/live/223858/TLCSWSD/master.m3u8
 
 # #EXTINF:-1 tvg-id="sport.viasat.se" group-title="SE" tvg-logo="https://new.static.tv.nu/16958245",Viasat Sport Premium SE
@@ -158,6 +158,12 @@ http://193.70.116.156:8080/live/U9GuRY8XoU/paBTihIMNb/1130.ts
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png",Discovery Turbo UK
 http://185.59.222.49:8000/live/jean/jean123/183.ts
 #http://193.70.116.156:8080/live/U9GuRY8XoU/paBTihIMNb/1126.ts
+
+#EXTINF:-1 tvg-logo="https://logos.xmltv.se/natgeo.dk.png",NAT GEO UK
+http://185.59.222.49:8000/live/Gianfranco/Gianfranco/434.ts
+
+#EXTINF:-1 tvg-logo="https://logos.xmltv.se/wild.natgeo.dk.png",NAT GEO WILD UK
+http://185.59.222.49:8000/live/Gianfranco/Gianfranco/177.ts
 
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/eurosport.dk.png",Eurosport 1 UK
 http://193.70.116.156:8080/live/U9GuRY8XoU/paBTihIMNb/1095.ts
