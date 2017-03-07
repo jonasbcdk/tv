@@ -107,6 +107,9 @@ http://185.59.222.49:8000/live/jean/jean123/9774.ts
 #EXTINF:-1 tvg-id="nickelodeon.dk" tvg-logo="https://logos.xmltv.se/nickelodeon.dk.png",Nickelodeon DK / MTV Hits
 http://195.12.170.181:7000/play/a02r
 
+#EXTINF:-1 tvg-logo="https://logos.xmltv.se/vh1.eu.png",VH1
+http://185.59.222.49:8000/live/jean/jean123/9777.ts
+
 #EXTINF:-1 tvg-id="cartoonnetwork.dk" tvg-logo="https://logos.xmltv.se/cartoonnetwork.dk.png",CARTOON NETWORK
 http://195.12.170.181:7000/play/Nor-Cartoon-Network
 
@@ -219,9 +222,6 @@ http://185.59.222.49:8000/live/Gianfranco/Gianfranco/1553.ts
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/87/Mtv_base_2011.png",MTV Base
 http://185.59.222.49:8000/live/Gianfranco/Gianfranco/4181.ts
-
-# #EXTINF:-1 tvg-logo="https://logos.xmltv.se/vh1.eu.png",VH1
-# http://masteriptv.dnsfor.me:8000/live/ricardo/ricardo/1501.ts
 
 #EXTINF:-1 group-title="Musik" tvg-logo="http://www.vmore.tv/wp-content/uploads/2015/01/city.png",City Music TV BG
 http://nodeb.gocaster.net:1935/CGL/mp4:TODAYFM_TEST2/playlist.m3u8
