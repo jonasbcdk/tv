@@ -211,13 +211,15 @@ http://51.254.44.161:9900/live/525/525/24904.ts
 # http://51.254.44.161:9900/live/525/525/24903.ts
 
 
-# #EXTINF:-1 tvg-id="rocks.mtv.se" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/78/MTV_Rocks_2011.svg",MTV Rocks
+#EXTINF:-1 tvg-id="rocks.mtv.se" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/78/MTV_Rocks_2011.svg",MTV Rocks
+http://185.59.222.49:8000/live/jean/jean123/7413.ts
 # http://185.59.222.49:8000/live/Gianfranco/Gianfranco/4182.ts
 
 # #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d7/MTV_Dance_2011.svg",MTV Dance
 # http://185.59.222.49:8000/live/Gianfranco/Gianfranco/1554.ts
 
-# #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/1d/267px-MTV_Hits_2010.svg-1-.png",MTV Hits
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/1d/267px-MTV_Hits_2010.svg-1-.png",MTV Hits
+http://185.59.222.49:8000/live/jean/jean123/1553.ts
 # http://185.59.222.49:8000/live/Gianfranco/Gianfranco/1553.ts
 
 # #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/87/Mtv_base_2011.png",MTV Base
