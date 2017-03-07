@@ -43,8 +43,8 @@ http://tv2danmark-tv2charlie-live.hls.adaptive.level3.net/tv2danmark/tv2charlie/
 # #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/dreamlogos/images/3/37/TV3%2B_logo_2008.png.png",TV3+
 # http://62.4.21.70:8000/live/active/active/4300.ts
 
-# #EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="http://vignette2.wikia.nocookie.net/tvkanal/images/5/59/TV3_Puls.png/revision/latest?cb=20100130125137&path-prefix=da",TV3 Puls
-# http://195.12.170.181:7000/play/a026
+#EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="http://vignette2.wikia.nocookie.net/tvkanal/images/5/59/TV3_Puls.png/revision/latest?cb=20100130125137&path-prefix=da",TV3 Puls
+http://185.59.222.49:8000/live/jean/jean123/9768.ts
 
 # #EXTINF:-1 tvg-id="dk4.dk" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d7/Dk4_logo_2010.png",DK4
 # http://bb1.sendevric.com:8000/live/jean/jean123/9769.ts
@@ -62,10 +62,10 @@ http://dnordichlslive04-i.akamaihd.net/hls/live/223840/6DKHD/master.m3u8
 http://dnordichlslive09-i.akamaihd.net/hls/live/223862/C9DKHD/master.m3u8
 
 # #EXTINF:-1 tvg-logo="http://logowow.net/logos/8ye1oV31E.png",TV 3 Sport 1
-# http://bb1.sendevric.com:8000/live/jean/jean123/9778.ts
+# http://185.59.222.4:8000/live/jean/jean123/9778.ts
 
 # #EXTINF:-1 tvg-logo="http://logowow.net/logos/thumb-obPD0HS4z.png",TV 3 Sport 2
-# http://bb1.sendevric.com:8000/live/jean/jean123/9779.ts
+# http://185.59.222.4:8000/live/jean/jean123/9779.ts
 
 #EXTINF:-1 tvg-id="mtv.dk" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/3/34/MTVMusic.png",MTV DK
 http://195.12.170.181:7000/play/a027
@@ -81,19 +81,28 @@ http://195.12.170.181:7000/play/Viasat-Explore
 
 #EXTINF:-1 tvg-id="wild.natgeo.dk" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/99/NAT_GEO_WILD_HD.png",NAT GEO WILD
 http://195.12.170.181:7000/play/a02s
+# http://185.59.222.49:8000/live/jean/jean123/9790.ts
 
-# #EXTINF:-1 tvg-id="discovery.dk" group-title="SE" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/3/34/Discovery_Channel_2000.png",Discovery DK
-# http://bb1.sendevric.com:8000/live/jean/jean123/9795.ts
+#EXTINF:-1 tvg-id="discovery.dk" group-title="DK" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/3/34/Discovery_Channel_2000.png",Discovery DK
+http://185.59.222.49:8000/live/jean/jean123/9795.ts
 
-# #EXTINF:-1 tvg-id="animalplanet.discovery.dk" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/5a/Animal_Planet_HD.png",Animal Planet DK
-# http://bb1.sendevric.com:8000/live/jean/jean123/9788.ts
+#EXTINF:-1 tvg-id="investigation.discovery.dk" group-title="DK" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/e/e3/InvestigationDiscovery2013.png",Discovery Investigation DK
+http://185.59.222.49:8000/live/jean/jean123/9792.ts
 
+#EXTINF:-1 tvg-id="animalplanet.discovery.dk" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/5a/Animal_Planet_HD.png",Animal Planet DK
+http://185.59.222.49:8000/live/jean/jean123/9788.ts
+
+#EXTINF:-1 tvg-id="tlc.discovery.dk" group-title="DK" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/94/TLC_logo_2011.png",TLC DK
+http://185.59.222.49:8000/live/jean/jean123/9774.ts
 
 #EXTINF:-1 tvg-id="nickelodeon.dk" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/62/NICKELODEON_Logo.png",Nickelodeon DK / MTV Hits
 http://195.12.170.181:7000/play/a02r
 
 #EXTINF:-1 tvg-id="cartoonnetwork.dk" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/1/1d/Cartoon_Network_2010B.png",CARTOON NETWORK
 http://195.12.170.181:7000/play/Nor-Cartoon-Network
+
+#EXTINF:-1 tvg-id="xd.disneychannel.dk" tvg-logo="http://vignette4.wikia.nocookie.net/ichc-channel/images/5/53/Disney_XD_New_Logo.png",Disney XD
+http://185.59.222.49:8000/live/jean/jean123/9783.ts
 
 
 #EXTINF:-1 group-title="NO" tvg-id="tvnorge.no" tvg-logo="https://www.rikstv.no/globalassets/upload/logo/tv-kanaler/tvnorge.png",N Norge
@@ -165,20 +174,30 @@ http://ott1.odessa.tv:7321/index.php?channel=120&amp;key_ott=5f7690fd0bd330afafb
 # http://163.172.102.132:8000/live/12345/54321/2394.ts
 
 
-#EXTINF:-1 group-title="US" tvg-id="wild.natgeo.dk" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/99/NAT_GEO_WILD_HD.png",NAT GEO WILD US
-http://87.76.91.24:8010/play/a00g
+#EXTINF:-1 tvg-logo="http://static.nfl.com/static/content/static/img/ctv/anchor-images/nfl-now.png",NFL NOW
+http://185.59.222.49:8000/live/jean/jean123/9705.ts
 
-# #EXTINF:-1 group-title="US" tvg-id="science.discoverychannel.com" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/3/32/Discovery_Science_HD.png",Discovery Science
-# http://149.14.4.125:9085/best/discovs/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/54/NFL-Network.png",NFL NETWORK
+http://51.254.44.161:9900/live/525/525/24871.ts
 
-# #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/68/NFL_NOW_horz_RGB.jpg",NFL NOW
-# http://163.172.102.132:8000/live/12345/54321/4930.ts
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/4d/Fox_Sports_1.png",FOX Sports 1
+http://51.254.44.161:9900/live/525/525/24848.ts
+
+#EXTINF:-1 group-title="US" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/3/34/Discovery_Channel_2000.png",Discovery US
+http://51.254.44.161:9900/live/525/525/24904.ts
 
 # #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png",Discovery Turbo
 # http://149.14.4.125:9085/best/turbo/playlist.m3u8
 
 # #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/5a/Animal_Planet_HD.png",Animal Planet
 # http://149.14.4.125:9085/best/animal/playlist.m3u8
+
+# #EXTINF:-1 group-title="US" tvg-id="wild.natgeo.dk" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/99/NAT_GEO_WILD_HD.png",NAT GEO WILD US
+# http://87.76.91.24:8010/play/a00g
+
+#EXTINF:-1 group-title="US" tvg-id="science.discoverychannel.com" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/3/32/Discovery_Science_HD.png",Discovery Science
+http://51.254.44.161:9900/live/525/525/24903.ts
+
 
 # #EXTINF:-1 tvg-id="rocks.mtv.se" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/78/MTV_Rocks_2011.svg",MTV Rocks
 # http://149.14.4.125:9085/best/mtvrocks/playlist.m3u8
