@@ -19,11 +19,12 @@ http://dr06-lh.akamaihd.net/i/dr06_0@147059/index_3_av-p.m3u8
 http://dr05-lh.akamaihd.net/i/dr05_0@147058/index_3_av-p.m3u8
 
 #EXTINF:-1 tvg-id="tv2.dk" tvg-logo="https://logos.xmltv.se/tv2.dk.png",TV2
-http://tv2danmark-tv2nord-live.hls.adaptive.level3.net/tv2danmark/tv2nord/master.m3u8
+http://tv2danmark-tv2nord-live.hls.adaptive.level3.net/tv2danmark/tv2nord/master3200kbps.m3u8
+# http://tv2danmark-tv2nord-live.hls.adaptive.level3.net/tv2danmark/tv2nord/master.m3u8
 
 #EXTINF:-1 tvg-id="news.tv2.dk" tvg-logo="https://logos.xmltv.se/news.tv2.dk.png",TV2 NEWS
 http://tv2danmark-tv2news-live.hls.adaptive.level3.net/tv2danmark/tv2news/master3200kbps.m3u8
-#http://tv2danmark-tv2news-live.hls.adaptive.level3.net/tv2danmark/tv2news/master.m3u8
+# http://tv2danmark-tv2news-live.hls.adaptive.level3.net/tv2danmark/tv2news/master.m3u8
 
 #EXTINF:-1 tvg-id="fri.tv2.dk" tvg-logo="https://logos.xmltv.se/fri.tv2.dk.png",TV2 FRI
 http://tv2danmark-tv2fri-live.hls.adaptive.level3.net/tv2danmark/tv2fri/master3200kbps.m3u8
@@ -45,6 +46,9 @@ http://cdn-lt-live.tv2oj.dk/dc-1/live/hls/p/2102081/e/0_x4p3licd/sd/10000/t/-G5t
 
 #EXTINF:-1 tvg-id="tvmidtvest.dk" tvg-logo="https://logos.xmltv.se/tvmidtvest.dk.png",TV2 Midtvest
 http://cdn-lt-live.tvmidtvest.dk/dc-1/live/hls/p/1953371/e/0_ghzg9q0q/sd/10000/t/i288LRzPhejpahOfggbdtw/index-s32.m3u8
+
+#EXTINF:-1 tvg-id="tv2bornholm.dk" tvg-logo="https://logos.xmltv.se/tv2bornholm.dk.png",TV2 Bornholm
+http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 
 # #EXTINF:-1 tvg-id="tv3.dk" tvg-logo="https://logos.xmltv.se/tv3.dk.png",TV 3
 # http://bb1.sendevric.com:8000/live/jean/jean123/9766.ts
@@ -69,6 +73,9 @@ http://dnordichlslive04-i.akamaihd.net/hls/live/223840/6DKHD/master.m3u8
 
 #EXTINF:-1 tvg-id="canal9.dk" tvg-logo="https://logos.xmltv.se/canal9.dk.png",Canal 9
 http://dnordichlslive09-i.akamaihd.net/hls/live/223862/C9DKHD/master.m3u8
+
+#EXTINF:-1 tvg-id="canal9.dk" tvg-logo="https://logos.xmltv.se/ft.dk.png",Folketinget
+http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/playlist.m3u8
 
 # #EXTINF:-1 tvg-logo="http://logowow.net/logos/8ye1oV31E.png",TV 3 Sport 1
 # http://185.59.222.4:8000/live/jean/jean123/9778.ts
@@ -136,6 +143,9 @@ http://195.12.170.181:7000/play/Nor-Viasat-Nature
 #EXTINF:-1 tvg-id="discoverychannel.se" group-title="SE" tvg-logo="https://logos.xmltv.se/discovery.dk.png",Discovery SE
 http://dnordichlslive04-i.akamaihd.net/hls/live/223842/DSWSD/master.m3u8
 
+#EXTINF:-1 group-title="SE" tvg-logo="https://logos.xmltv.se/tv4.se.png",TV4 Nyheterna SE
+http://tv4events3-lh.akamaihd.net/i/EXTRAEVENT14_1@324065/master.m3u8
+
 #EXTINF:-1 tvg-id="kanal5.se" group-title="SE" tvg-logo="https://logos.xmltv.se/kanal5.se.png",Kanal 5 SE
 http://dnordichlslive10-i.akamaihd.net/hls/live/223867/K5SWHD/master.m3u8
 
@@ -195,6 +205,15 @@ http://192.99.149.14:25461/live/tim1/1980/7062.ts
 # #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/4d/Fox_Sports_1.png",FOX Sports 1
 # http://51.254.44.161:9900/live/525/525/24848.ts
 
+#EXTINF:-1 group-title="US" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/2000px-CBS_News.svg.png",CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="http://vignette2.wikia.nocookie.net/disney/images/1/1f/NASA_Logo.png",NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
 #EXTINF:-1 group-title="US" tvg-logo="https://logos.xmltv.se/discovery.dk.png",Discovery US
 http://192.99.149.14:25461/live/tim1/1980/7173.ts
 # http://195.154.154.185:5890/live/sohail/sohail/289.ts
@@ -226,11 +245,20 @@ http://195.154.154.185:5890/live/sohail/sohail/2701.ts
 # #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/87/Mtv_base_2011.png",MTV Base
 # http://185.59.222.49:8000/live/Gianfranco/Gianfranco/4181.ts
 
+#EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1447183057.png",DJing
+http://www.djing.com/tv/u-05.m3u8
+
 #EXTINF:-1 group-title="Musik" tvg-logo="http://www.vmore.tv/wp-content/uploads/2015/01/city.png",City Music TV BG
 http://nodeb.gocaster.net:1935/CGL/mp4:TODAYFM_TEST2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/S6PYLzM5N8omHU_DbsUUdERSJIfO1WgP-5gOzCCKRY8QAFk42r5YLizrBSl21g7Ows8=w300",O2TV HD MUSIC
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/a/aa/Music_Box_Interactive_TV.svg",Music Box RU
 http://ott1.odessa.tv:7321/index.php?channel=38&amp;key_ott=5f7690fd0bd330afafb91f331adc46dd
+
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/771089/logo_one%20by.png",One.by HD RU
+http://rtmp.one.by:1300
 
 #EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/0b/10/3697/c175.png",Electrosound TV
 rtmp://www.electrosound.tv:1935/public/stream
