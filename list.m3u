@@ -171,11 +171,11 @@ http://193.70.116.156:8080/live/U9GuRY8XoU/paBTihIMNb/1126.ts
 #EXTINF:-1 tvg-id="science.discoverychannel.com" tvg-logo="https://logos.xmltv.se/science.discoverychannel.com.png",Discovery Science UK
 http://51.254.44.161:9900/live/525/525/24903.ts
 
-# #EXTINF:-1 tvg-logo="https://logos.xmltv.se/natgeo.dk.png",NAT GEO UK
-# http://185.59.222.49:8000/live/Gianfranco/Gianfranco/434.ts
+#EXTINF:-1 tvg-logo="https://logos.xmltv.se/natgeo.dk.png",NAT GEO UK
+http://192.99.149.14:25461/live/tim1/1980/7337.ts
 
-# #EXTINF:-1 tvg-logo="https://logos.xmltv.se/wild.natgeo.dk.png",NAT GEO WILD UK
-# http://185.59.222.49:8000/live/Gianfranco/Gianfranco/177.ts
+#EXTINF:-1 tvg-logo="https://logos.xmltv.se/wild.natgeo.dk.png",NAT GEO WILD UK
+http://192.99.149.14:25461/live/tim1/1980/7336.ts
 
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/eurosport.dk.png",Eurosport 1 UK
 http://193.70.116.156:8080/live/U9GuRY8XoU/paBTihIMNb/1095.ts
@@ -185,29 +185,32 @@ http://193.70.116.156:8080/live/U9GuRY8XoU/paBTihIMNb/1095.ts
 # http://185.59.222.49:8000/live/jean/jean123/171.ts
 
 
-# #EXTINF:-1 group-title="US" tvg-logo="http://static.nfl.com/static/content/static/img/ctv/anchor-images/nfl-now.png",NFL NOW
-# http://185.59.222.49:8000/live/jean/jean123/9705.ts
+#EXTINF:-1 group-title="US" tvg-logo="http://static.nfl.com/static/content/static/img/ctv/anchor-images/nfl-now.png",NFL NOW
+http://192.99.149.14:25461/live/tim1/1980/7416.ts
 
-# #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/54/NFL-Network.png",NFL NETWORK
-# http://51.254.44.161:9900/live/525/525/24871.ts
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/54/NFL-Network.png",NFL NETWORK
+http://192.99.149.14:25461/live/tim1/1980/7062.ts
+# http://192.99.149.14:25461/live/tim1/1980/7415.ts
 
 # #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/4d/Fox_Sports_1.png",FOX Sports 1
 # http://51.254.44.161:9900/live/525/525/24848.ts
 
 #EXTINF:-1 group-title="US" tvg-logo="https://logos.xmltv.se/discovery.dk.png",Discovery US
-http://195.154.154.185:5890/live/sohail/sohail/289.ts
+http://192.99.149.14:25461/live/tim1/1980/7173.ts
+# http://195.154.154.185:5890/live/sohail/sohail/289.ts
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png",Discovery Turbo
-http://195.154.154.185:5890/live/sohail/sohail/1106.ts
+http://192.99.149.14:25461/live/tim1/1980/7287.ts
+# http://195.154.154.185:5890/live/sohail/sohail/1106.ts
+
+#EXTINF:-1 group-title="US" tvg-id="science.discoverychannel.com" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/3/32/Discovery_Science_HD.png",Discovery Science
+http://195.154.154.185:5890/live/sohail/sohail/291.ts
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/5a/Animal_Planet_HD.png",Animal Planet
 http://195.154.154.185:5890/live/sohail/sohail/288.ts
 
 #EXTINF:-1 group-title="US" tvg-id="wild.natgeo.dk" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/99/NAT_GEO_WILD_HD.png",NAT GEO WILD US
 http://195.154.154.185:5890/live/sohail/sohail/807.ts
-
-#EXTINF:-1 group-title="US" tvg-id="science.discoverychannel.com" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/3/32/Discovery_Science_HD.png",Discovery Science
-http://195.154.154.185:5890/live/sohail/sohail/291.ts
 
 
 #EXTINF:-1 tvg-id="rocks.mtv.se" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/78/MTV_Rocks_2011.svg",MTV Rocks
