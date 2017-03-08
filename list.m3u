@@ -49,8 +49,8 @@ http://cdn-lt-live.tvmidtvest.dk/dc-1/live/hls/p/1953371/e/0_ghzg9q0q/sd/10000/t
 # #EXTINF:-1 tvg-id="tv3.dk" tvg-logo="https://logos.xmltv.se/tv3.dk.png",TV 3
 # http://bb1.sendevric.com:8000/live/jean/jean123/9766.ts
 
-# #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/dreamlogos/images/3/37/TV3%2B_logo_2008.png.png",TV3+
-# http://62.4.21.70:8000/live/active/active/4300.ts
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/dreamlogos/images/3/37/TV3%2B_logo_2008.png.png",TV3+
+http://192.99.149.14:25461/live/tim1/1980/7146.ts
 
 # #EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="https://logos.xmltv.se/puls.tv3.dk.png",TV3 Puls
 # http://185.59.222.49:8000/live/jean/jean123/9768.ts
@@ -107,8 +107,8 @@ http://195.12.170.181:7000/play/a02s
 #EXTINF:-1 tvg-id="nickelodeon.dk" tvg-logo="https://logos.xmltv.se/nickelodeon.dk.png",Nickelodeon DK / MTV Hits
 http://195.12.170.181:7000/play/a02r
 
-# #EXTINF:-1 tvg-logo="https://logos.xmltv.se/vh1.eu.png",VH1
-# http://185.59.222.49:8000/live/jean/jean123/9777.ts
+#EXTINF:-1 tvg-logo="https://logos.xmltv.se/vh1.eu.png",VH1
+http://192.99.149.14:25461/live/tim1/1980/7209.ts
 
 #EXTINF:-1 tvg-id="cartoonnetwork.dk" tvg-logo="https://logos.xmltv.se/cartoonnetwork.dk.png",CARTOON NETWORK
 http://195.12.170.181:7000/play/Nor-Cartoon-Network
