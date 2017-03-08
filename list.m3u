@@ -126,9 +126,6 @@ http://195.12.170.181:7000/play/a02s
 #EXTINF:-1 tvg-id="nickelodeon.dk" tvg-logo="https://logos.xmltv.se/nickelodeon.dk.png",Nickelodeon DK / MTV Hits
 http://195.12.170.181:7000/play/a02r
 
-#EXTINF:-1 tvg-logo="https://logos.xmltv.se/vh1.eu.png",VH1
-http://192.99.149.14:25461/live/tim1/1980/7209.ts
-
 #EXTINF:-1 tvg-id="cartoonnetwork.dk" tvg-logo="https://logos.xmltv.se/cartoonnetwork.dk.png",CARTOON NETWORK
 http://195.12.170.181:7000/play/Nor-Cartoon-Network
 
@@ -212,6 +209,7 @@ http://192.99.149.14:25461/live/tim1/1980/7416.ts
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/54/NFL-Network.png",NFL NETWORK
 http://192.99.149.14:25461/live/tim1/1980/7062.ts
+# http://51.254.44.161:9900/live/525/525/24871.ts
 # http://192.99.149.14:25461/live/tim1/1980/7415.ts
 
 # #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/4d/Fox_Sports_1.png",FOX Sports 1
@@ -244,8 +242,9 @@ http://195.154.154.185:5890/live/sohail/sohail/288.ts
 http://195.154.154.185:5890/live/sohail/sohail/807.ts
 
 
-#EXTINF:-1 tvg-id="rocks.mtv.se" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/78/MTV_Rocks_2011.svg",MTV Rocks
-http://185.59.222.49:8000/live/jean/jean123/7413.ts
+#EXTINF:-1 group-title="Musik" tvg-id="rocks.mtv.se" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/78/MTV_Rocks_2011.svg",MTV Rocks
+http://51.254.44.161:9900/live/525/525/26921.ts
+# http://185.59.222.49:8000/live/jean/jean123/7413.ts
 # http://185.59.222.49:8000/live/Gianfranco/Gianfranco/4182.ts
 
 # #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d7/MTV_Dance_2011.svg",MTV Dance
@@ -257,10 +256,13 @@ http://195.154.154.185:5890/live/sohail/sohail/2701.ts
 # #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/87/Mtv_base_2011.png",MTV Base
 # http://185.59.222.49:8000/live/Gianfranco/Gianfranco/4181.ts
 
+#EXTINF:-1 tvg-logo="https://logos.xmltv.se/vh1.eu.png",VH1
+http://192.99.149.14:25461/live/tim1/1980/7209.ts
+
 #EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1447183057.png",DJing
 http://www.djing.com/tv/u-05.m3u8
 
-#EXTINF:-1 group-title="Musik" tvg-logo="http://www.vmore.tv/wp-content/uploads/2015/01/city.png",City Music TV BG
+#EXTINF:-1 tvg-logo="http://www.vmore.tv/wp-content/uploads/2015/01/city.png",City Music TV BG
 http://nodeb.gocaster.net:1935/CGL/mp4:TODAYFM_TEST2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/S6PYLzM5N8omHU_DbsUUdERSJIfO1WgP-5gOzCCKRY8QAFk42r5YLizrBSl21g7Ows8=w300",O2TV HD MUSIC
