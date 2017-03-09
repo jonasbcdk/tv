@@ -108,12 +108,14 @@ http://195.12.170.181:7000/play/Viasat-Explore
 http://195.12.170.181:7000/play/a02s
 
 #EXTINF:-1 tvg-id="discovery.dk" group-title="DK" tvg-logo="https://logos.xmltv.se/discovery.dk.png",Discovery DK
+http://185.53.162.157:8029/play/a010
 
 #EXTINF:-1 tvg-id="investigation.discovery.dk" group-title="DK" tvg-logo="https://logos.xmltv.se/investigation.discovery.dk.png",Discovery Investigation DK
 
 #EXTINF:-1 tvg-id="animalplanet.discovery.dk" tvg-logo="https://logos.xmltv.se/animalplanet.discovery.dk.png",Animal Planet DK
 
 #EXTINF:-1 tvg-id="tlc.discovery.dk" group-title="DK" tvg-logo="https://logos.xmltv.se/tlc.discovery.dk.png",TLC DK
+http://185.53.162.157:8029/play/a00z
 
 #EXTINF:-1 tvg-id="nickelodeon.dk" tvg-logo="https://logos.xmltv.se/nickelodeon.dk.png",Nickelodeon DK / MTV Hits
 http://195.12.170.181:7000/play/a02r
