@@ -83,13 +83,13 @@ http://dnordichlslive04-i.akamaihd.net/hls/live/223840/6DKHD/master.m3u8
 #EXTINF:-1 tvg-id="canal9.dk" tvg-logo="https://logos.xmltv.se/canal9.dk.png",Canal 9
 http://dnordichlslive09-i.akamaihd.net/hls/live/223862/C9DKHD/master.m3u8
 
-#EXTINF:-1 tvg-id="canal9.dk" tvg-logo="https://logos.xmltv.se/ft.dk.png",Folketinget
+#EXTINF:-1 tvg-id="ft.dk" tvg-logo="https://logos.xmltv.se/ft.dk.png",Folketinget
 http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://logowow.net/logos/8ye1oV31E.png",TV 3 Sport 1
+#EXTINF:-1 tvg-id="one.tv3sport.dk" tvg-logo="http://logowow.net/logos/8ye1oV31E.png",TV 3 Sport 1
 http://195.12.170.181:7000/play/a02z
 
-#EXTINF:-1 tvg-logo="http://logowow.net/logos/thumb-obPD0HS4z.png",TV 3 Sport 2
+#EXTINF:-1 tvg-id="two.tv3sport.dk" tvg-logo="http://logowow.net/logos/thumb-obPD0HS4z.png",TV 3 Sport 2
 http://195.12.170.181:7000/play/a02w
 
 #EXTINF:-1 tvg-id="mtv.dk" tvg-logo="https://logos.xmltv.se/mtv.dk.png",MTV DK
@@ -224,7 +224,7 @@ http://51.254.44.161:9900/live/525/525/26921.ts
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d7/MTV_Dance_2011.svg",MTV Dance
 
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/1d/267px-MTV_Hits_2010.svg-1-.png",MTV Hits
+#EXTINF:-1 tvg-id="hits.mtv.se" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/1d/267px-MTV_Hits_2010.svg-1-.png",MTV Hits
 http://51.254.44.161:9900/live/525/525/26920.ts
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/87/Mtv_base_2011.png",MTV Base
