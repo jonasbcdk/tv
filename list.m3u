@@ -63,7 +63,7 @@ http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="tv3.dk" tvg-logo="https://logos.xmltv.se/tv3.dk.png",TV 3
 http://ksportiptv.com:1557/live/Igballe/Igballe/3291.ts
 
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/dreamlogos/images/3/37/TV3%2B_logo_2008.png.png",TV3+
+#EXTINF:-1 tvg-id="tv3plus.dk" tvg-logo="http://vignette1.wikia.nocookie.net/dreamlogos/images/3/37/TV3%2B_logo_2008.png.png",TV3+
 http://ksportiptv.com:1557/live/Igballe/Igballe/3297.ts
 
 #EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="https://logos.xmltv.se/puls.tv3.dk.png",TV3 Puls
