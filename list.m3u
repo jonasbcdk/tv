@@ -73,7 +73,8 @@ http://ksportiptv.com:1557/live/Igballe/Igballe/3290.ts
 http://ksportiptv.com:1557/live/Igballe/Igballe/3295.ts
 
 #EXTINF:-1 tvg-id="kanal4.dk" tvg-logo="https://logos.xmltv.se/kanal4.dk.png",Kanal 4
-http://195.12.170.181:7000/play/a02h
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/2116.ts
+# http://195.12.170.181:7000/play/a02h
 
 #EXTINF:-1 tvg-id="kanal5.dk" tvg-logo="https://logos.xmltv.se/kanal5.dk.png",Kanal 5
 http://195.12.170.181:7000/play/a02t
@@ -251,7 +252,7 @@ http://51.254.44.161:9900/live/525/525/26920.ts
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/87/Mtv_base_2011.png",MTV Base
 
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/vh1.eu.png",VH1
-http://192.99.149.14:25461/live/tim1/1980/7209.ts
+http://server.iptvpro.biz:5500/live/roger/roger/70.ts
 
 #EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1447183057.png",DJing
 http://www.djing.com/tv/u-05.m3u8
