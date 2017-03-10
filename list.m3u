@@ -20,11 +20,9 @@ http://dr05-lh.akamaihd.net/i/dr05_0@147058/index_3_av-p.m3u8
 
 #EXTINF:-1 tvg-id="tv2.dk" tvg-logo="https://logos.xmltv.se/tv2.dk.png",TV2
 http://tv2danmark-tv2nord-live.hls.adaptive.level3.net/tv2danmark/tv2nord/master3200kbps.m3u8
-# http://tv2danmark-tv2nord-live.hls.adaptive.level3.net/tv2danmark/tv2nord/master.m3u8
 
 #EXTINF:-1 tvg-id="news.tv2.dk" tvg-logo="https://logos.xmltv.se/news.tv2.dk.png",TV2 NEWS
 http://tv2danmark-tv2news-live.hls.adaptive.level3.net/tv2danmark/tv2news/master3200kbps.m3u8
-# http://tv2danmark-tv2news-live.hls.adaptive.level3.net/tv2danmark/tv2news/master.m3u8
 
 #EXTINF:-1 tvg-id="fri.tv2.dk" tvg-logo="https://logos.xmltv.se/fri.tv2.dk.png",TV2 FRI
 http://tv2danmark-tv2fri-live.hls.adaptive.level3.net/tv2danmark/tv2fri/master3200kbps.m3u8
@@ -199,7 +197,7 @@ http://193.70.116.156:8080/live/Yiw6AscAjY/t5mjKkALy4/1127.ts
 
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/investigation.discovery.dk.png",Discovery Investigation UK
 
-#EXTINF:-1 tvg-logo="https://logos.xmltv.se/natgeo.dk.png",NAT GEO UK
+#EXTINF:-1 tvg-id="natgeotv.com" tvg-logo="https://logos.xmltv.se/natgeo.dk.png",NAT GEO UK
 http://51.254.44.161:9900/live/525/525/26924.ts
 
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/wild.natgeo.dk.png",NAT GEO WILD UK
