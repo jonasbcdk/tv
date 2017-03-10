@@ -63,13 +63,16 @@ http://cdn-lt-live.tv2lorry.dk/dc-1/live/hls/p/2045321/e/0_5l7gjlbn/sd/10000/t/o
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="tv3.dk" tvg-logo="https://logos.xmltv.se/tv3.dk.png",TV 3
+http://ksportiptv.com:1557/live/Igballe/Igballe/3291.ts
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/dreamlogos/images/3/37/TV3%2B_logo_2008.png.png",TV3+
+http://ksportiptv.com:1557/live/Igballe/Igballe/3297.ts
 
 #EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="https://logos.xmltv.se/puls.tv3.dk.png",TV3 Puls
-http://195.12.170.181:7000/play/a026
+http://ksportiptv.com:1557/live/Igballe/Igballe/3290.ts
 
 #EXTINF:-1 tvg-id="dk4.dk" tvg-logo="https://logos.xmltv.se/dk4.dk.png",DK4
+http://ksportiptv.com:1557/live/Igballe/Igballe/3295.ts
 
 #EXTINF:-1 tvg-id="kanal4.dk" tvg-logo="https://logos.xmltv.se/kanal4.dk.png",Kanal 4
 http://195.12.170.181:7000/play/a02h
@@ -87,7 +90,7 @@ http://dnordichlslive09-i.akamaihd.net/hls/live/223862/C9DKHD/master.m3u8
 http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/playlist.m3u8
 
 #EXTINF:-1 tvg-id="one.tv3sport.dk" tvg-logo="http://logowow.net/logos/8ye1oV31E.png",TV 3 Sport 1
-http://195.12.170.181:7000/play/a02z
+http://ksportiptv.com:1557/live/Igballe/Igballe/3310.ts
 
 #EXTINF:-1 tvg-id="two.tv3sport.dk" tvg-logo="http://logowow.net/logos/thumb-obPD0HS4z.png",TV 3 Sport 2
 http://195.12.170.181:7000/play/a02w
@@ -124,6 +127,7 @@ http://195.12.170.181:7000/play/a02r
 http://195.12.170.181:7000/play/Nor-Cartoon-Network
 
 #EXTINF:-1 tvg-id="xd.disneychannel.dk" tvg-logo="https://logos.xmltv.se/xd.disneychannel.dk.png",Disney XD
+http://ksportiptv.com:1557/live/Igballe/Igballe/2647.ts
 
 #EXTINF:-1 tvg-id="action.film.viasat.dk" tvg-logo="http://logos.xmltv.se/action.film.viasat.dk.png",Viasat Film Action
 http://195.12.170.181:7000/play/VFilm-Action
