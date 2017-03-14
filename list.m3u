@@ -65,6 +65,7 @@ http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="tv3plus.dk" tvg-logo="https://logos.xmltv.se/tv3plus.dk.png",TV3+
 
 #EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="https://logos.xmltv.se/puls.tv3.dk.png",TV3 Puls
+http://51.255.88.231:6969/live/Rotter@gmx.com/8Aw0T5BLFX/1635.ts
 
 #EXTINF:-1 tvg-id="dk4.dk" tvg-logo="https://logos.xmltv.se/dk4.dk.png",DK4
 
