@@ -69,6 +69,7 @@ http://51.255.88.231:6969/live/Rotter@gmx.com/8Aw0T5BLFX/1630.ts
 http://51.255.88.231:6969/live/Rotter@gmx.com/8Aw0T5BLFX/1635.ts
 
 #EXTINF:-1 tvg-id="dk4.dk" tvg-logo="https://logos.xmltv.se/dk4.dk.png",DK4
+http://193.70.44.113:2500/live/yOGhoRYVbt/dSUB8yTC7W/5977.ts
 
 #EXTINF:-1 tvg-id="kanal4.dk" tvg-logo="https://logos.xmltv.se/kanal4.dk.png",Kanal 4
 http://195.12.170.181:7000/play/a02h
@@ -88,7 +89,8 @@ http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/playlist.m
 #EXTINF:-1 tvg-id="one.tv3sport.dk" tvg-logo="http://logowow.net/logos/8ye1oV31E.png",TV 3 Sport 1
 
 #EXTINF:-1 tvg-id="two.tv3sport.dk" tvg-logo="http://logowow.net/logos/thumb-obPD0HS4z.png",TV 3 Sport 2
-http://195.12.170.181:7000/play/a02w
+http://193.70.44.113:2500/live/yOGhoRYVbt/dSUB8yTC7W/5963.ts
+# http://195.12.170.181:7000/play/a02w
 
 #EXTINF:-1 tvg-id="mtv.dk" tvg-logo="https://logos.xmltv.se/mtv.dk.png",MTV DK
 http://195.12.170.181:7000/play/a027
@@ -109,8 +111,10 @@ http://195.12.170.181:7000/play/a02s
 http://185.53.162.157:8029/play/a010
 
 #EXTINF:-1 tvg-id="investigation.discovery.dk" tvg-logo="https://logos.xmltv.se/investigation.discovery.dk.png",Discovery Investigation DK
+http://193.70.44.113:2500/live/yOGhoRYVbt/dSUB8yTC7W/5979.ts
 
 #EXTINF:-1 tvg-id="animalplanet.discovery.dk" tvg-logo="https://logos.xmltv.se/animalplanet.discovery.dk.png",Animal Planet DK
+http://193.70.44.113:2500/live/yOGhoRYVbt/dSUB8yTC7W/5982.ts
 
 #EXTINF:-1 tvg-id="tlc.discovery.dk" tvg-logo="https://logos.xmltv.se/tlc.discovery.dk.png",TLC DK
 http://185.53.162.157:8029/play/a00z
