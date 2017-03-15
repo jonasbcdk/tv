@@ -66,7 +66,7 @@ http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 http://51.255.88.231:6969/live/Rotter@gmx.com/8Aw0T5BLFX/1630.ts
 
 #EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="https://logos.xmltv.se/puls.tv3.dk.png",TV3 Puls
-http://51.255.88.231:6969/live/Rotter@gmx.com/8Aw0T5BLFX/1635.ts
+http://193.70.44.113:2500/live/yOGhoRYVbt/dSUB8yTC7W/6842.ts
 
 #EXTINF:-1 tvg-id="dk4.dk" tvg-logo="https://logos.xmltv.se/dk4.dk.png",DK4
 http://193.70.44.113:2500/live/yOGhoRYVbt/dSUB8yTC7W/5977.ts
@@ -87,13 +87,11 @@ http://dnordichlslive09-i.akamaihd.net/hls/live/223862/C9DKHD/master.m3u8
 http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/playlist.m3u8
 
 #EXTINF:-1 tvg-id="one.tv3sport.dk" tvg-logo="http://logowow.net/logos/8ye1oV31E.png",TV 3 Sport 1
+http://193.70.44.113:2500/live/yOGhoRYVbt/dSUB8yTC7W/5964.ts
 
 #EXTINF:-1 tvg-id="two.tv3sport.dk" tvg-logo="http://logowow.net/logos/thumb-obPD0HS4z.png",TV 3 Sport 2
 http://193.70.44.113:2500/live/yOGhoRYVbt/dSUB8yTC7W/5963.ts
 # http://195.12.170.181:7000/play/a02w
-
-#EXTINF:-1 tvg-id="mtv.dk" tvg-logo="https://logos.xmltv.se/mtv.dk.png",MTV DK
-http://195.12.170.181:7000/play/a027
 
 #EXTINF:-1 tvg-id="eurosport.dk" tvg-logo="https://logos.xmltv.se/eurosport.dk.png",Eurosport 1
 http://dpme12hls-i.akamaiHD.net/hls/live/249637/dpme12_3/master.m3u8
@@ -118,6 +116,9 @@ http://193.70.44.113:2500/live/yOGhoRYVbt/dSUB8yTC7W/5982.ts
 
 #EXTINF:-1 tvg-id="tlc.discovery.dk" tvg-logo="https://logos.xmltv.se/tlc.discovery.dk.png",TLC DK
 http://185.53.162.157:8029/play/a00z
+
+#EXTINF:-1 tvg-id="mtv.dk" tvg-logo="https://logos.xmltv.se/mtv.dk.png",MTV DK
+http://195.12.170.181:7000/play/a027
 
 #EXTINF:-1 tvg-id="nickelodeon.dk" tvg-logo="https://logos.xmltv.se/nickelodeon.dk.png",Nickelodeon DK / MTV Hits
 http://195.12.170.181:7000/play/a02r
