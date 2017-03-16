@@ -142,9 +142,11 @@ http://185.53.162.157:8029/play/a013
 http://185.53.162.157:8029/play/a016
 
 
-
 #EXTINF:-1 tvg-id="discoverychannel.se" group-title="SE" tvg-logo="https://logos.xmltv.se/discovery.dk.png",Discovery SE
 http://dnordichlslive04-i.akamaihd.net/hls/live/223842/DSWSD/master.m3u8
+
+#EXTINF:-1 tvg-id="investigation.discoverychannel.se" tvg-logo="http://logos.xmltv.se/investigation.discoverychannel.se.png",Discovery Investigation SE
+http://185.53.162.157:8029/play/a018
 
 #EXTINF:-1 group-title="SE" tvg-logo="https://logos.xmltv.se/tv4.se.png",TV4 Nyheterna SE
 http://tv4events3-lh.akamaihd.net/i/EXTRAEVENT14_1@324065/master.m3u8
@@ -173,6 +175,9 @@ http://dnordichlslive07-i.akamaihd.net/hls/live/223858/TLCSWSD/master.m3u8
 
 #EXTINF:-1 group-title="UK" tvg-id="bbcworldnews.com" tvg-logo="https://logos.xmltv.se/bbcworldnews.com.png",BBC World News
 http://ott1.odessa.tv:7321/index.php?channel=36&amp;key_ott=5f7690fd0bd330afafb91f331adc46dd
+
+#EXTINF:-1  tvg-logo="https://logos.xmltv.se/tlc.discovery.dk.png",TLC Europe
+http://185.53.162.157:8029/play/a011
 
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/discovery.dk.png",Discovery UK
 http://am-iptv.club:25461/live/soft4sat/testme1/319.ts
