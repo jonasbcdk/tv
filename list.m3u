@@ -178,8 +178,10 @@ http://ott1.odessa.tv:7321/index.php?channel=36&amp;key_ott=5f7690fd0bd330afafb9
 http://am-iptv.club:25461/live/soft4sat/testme1/319.ts
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png",Discovery Turbo UK
+http://biwsat.com:8080/live/rNmrjAeWiH/AkDwomgTTE/1126.ts
 
 #EXTINF:-1 tvg-id="science.discoverychannel.com" tvg-logo="https://logos.xmltv.se/science.discoverychannel.com.png",Discovery Science UK
+http://biwsat.com:8080/live/rNmrjAeWiH/AkDwomgTTE/1127.ts
 
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/investigation.discovery.dk.png",Discovery Investigation UK
 
