@@ -61,14 +61,17 @@ http://cdn-lt-live.tv2lorry.dk/dc-1/live/hls/p/2045321/e/0_5l7gjlbn/sd/10000/t/o
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="tv3.dk" tvg-logo="https://logos.xmltv.se/tv3.dk.png",TV 3
-http://am-iptv.club:25461/live/soft4sat/testme1/1634.ts
+http://163.172.6.8:8000/live/GfpNSVjzYq/3Rlr7vyh8J/1143.ts
+# http://am-iptv.club:25461/live/soft4sat/testme1/1634.ts
 
 #EXTINF:-1 tvg-id="tv3plus.dk" tvg-logo="https://logos.xmltv.se/tv3plus.dk.png",TV3+
 
 #EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="https://logos.xmltv.se/puls.tv3.dk.png",TV3 Puls
-http://am-iptv.club:25461/live/soft4sat/testme1/1633.ts
+http://163.172.6.8:8000/live/GfpNSVjzYq/3Rlr7vyh8J/1144.ts
+# http://am-iptv.club:25461/live/soft4sat/testme1/1633.ts
 
 #EXTINF:-1 tvg-id="dk4.dk" tvg-logo="https://logos.xmltv.se/dk4.dk.png",DK4
+http://163.172.6.8:8000/live/GfpNSVjzYq/3Rlr7vyh8J/1158.ts
 
 #EXTINF:-1 tvg-id="kanal4.dk" tvg-logo="https://logos.xmltv.se/kanal4.dk.png",Kanal 4
 http://195.12.170.181:7000/play/a02h
@@ -110,6 +113,7 @@ http://185.53.162.157:8029/play/a010
 http://185.53.162.157:8029/play/a00z
 
 #EXTINF:-1 tvg-id="mtv.dk" tvg-logo="https://logos.xmltv.se/mtv.dk.png",MTV DK
+http://163.172.6.8:8000/live/GfpNSVjzYq/3Rlr7vyh8J/1148.ts
 
 #EXTINF:-1 tvg-id="nickelodeon.dk" tvg-logo="https://logos.xmltv.se/nickelodeon.dk.png",Nickelodeon DK / MTV Hits
 
@@ -184,9 +188,11 @@ http://am-iptv.club:25461/live/soft4sat/testme1/319.ts
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png",Discovery Turbo UK
 http://biwsat.com:8080/live/rNmrjAeWiH/AkDwomgTTE/1126.ts
+# http://163.172.6.8:8000/live/GfpNSVjzYq/3Rlr7vyh8J/465.ts
 
 #EXTINF:-1 tvg-id="science.discoverychannel.com" tvg-logo="https://logos.xmltv.se/science.discoverychannel.com.png",Discovery Science UK
 http://biwsat.com:8080/live/rNmrjAeWiH/AkDwomgTTE/1127.ts
+# http://163.172.6.8:8000/live/GfpNSVjzYq/3Rlr7vyh8J/526.ts
 
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/investigation.discovery.dk.png",Discovery Investigation UK
 
@@ -199,9 +205,10 @@ http://am-iptv.club:25461/live/soft4sat/testme1/795.ts
 
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/eurosport.dk.png",Eurosport 1 UK
 http://ok2.se:8000/live/iptvsubsunlimited@teleworm.us/nxhdqyjd/211.ts
+# http://163.172.6.8:8000/live/GfpNSVjzYq/3Rlr7vyh8J/541.ts
 
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/eurosport2.fi.png",Eurosport 2 UK
-
+http://163.172.6.8:8000/live/GfpNSVjzYq/3Rlr7vyh8J/540.ts
 
 
 #EXTINF:-1 group-title="US" tvg-logo="http://static.nfl.com/static/content/static/img/ctv/anchor-images/nfl-now.png",NFL NOW
