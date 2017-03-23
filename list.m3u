@@ -112,7 +112,8 @@ http://185.53.162.157:8029/play/a010
 #EXTINF:-1 tvg-id="animalplanet.discovery.dk" tvg-logo="https://logos.xmltv.se/animalplanet.discovery.dk.png",Animal Planet DK
 
 #EXTINF:-1 tvg-id="tlc.discovery.dk" tvg-logo="https://logos.xmltv.se/tlc.discovery.dk.png",TLC DK
-http://185.53.162.157:8029/play/a00z
+http://link.softiptv.com:2500/live/KHzoyXUnn0/SDOOAaMm2m/5785.ts
+#http://185.53.162.157:8029/play/a00z
 
 #EXTINF:-1 tvg-id="mtv.dk" tvg-logo="https://logos.xmltv.se/mtv.dk.png",MTV DK
 http://163.172.6.8:8000/live/GfpNSVjzYq/3Rlr7vyh8J/1148.ts
