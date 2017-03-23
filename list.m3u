@@ -61,20 +61,20 @@ http://cdn-lt-live.tv2lorry.dk/dc-1/live/hls/p/2045321/e/0_5l7gjlbn/sd/10000/t/o
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="tv3.dk" tvg-logo="https://logos.xmltv.se/tv3.dk.png",TV 3
-http://163.172.6.8:8000/live/GfpNSVjzYq/3Rlr7vyh8J/1143.ts
+http://worldiptvbox.ddns.net:5210/live/5G76ao8Bi5/flelkOiTvT/10460.ts
 # http://am-iptv.club:25461/live/soft4sat/testme1/1634.ts
 
 #EXTINF:-1 tvg-id="tv3plus.dk" tvg-logo="https://logos.xmltv.se/tv3plus.dk.png",TV3+
 
 #EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="https://logos.xmltv.se/puls.tv3.dk.png",TV3 Puls
-http://163.172.6.8:8000/live/GfpNSVjzYq/3Rlr7vyh8J/1144.ts
+http://worldiptvbox.ddns.net:5210/live/5G76ao8Bi5/flelkOiTvT/10462.ts
 # http://am-iptv.club:25461/live/soft4sat/testme1/1633.ts
 
 #EXTINF:-1 tvg-id="dk4.dk" tvg-logo="https://logos.xmltv.se/dk4.dk.png",DK4
 http://163.172.6.8:8000/live/GfpNSVjzYq/3Rlr7vyh8J/1158.ts
 
 #EXTINF:-1 tvg-id="kanal4.dk" tvg-logo="https://logos.xmltv.se/kanal4.dk.png",Kanal 4
-http://195.12.170.181:7000/play/a02h
+http://worldiptvbox.ddns.net:5210/live/5G76ao8Bi5/flelkOiTvT/3185.ts
 
 #EXTINF:-1 tvg-id="kanal5.dk" tvg-logo="https://logos.xmltv.se/kanal5.dk.png",Kanal 5
 http://195.12.170.181:7000/play/a02t
@@ -89,8 +89,10 @@ http://dnordichlslive09-i.akamaihd.net/hls/live/223862/C9DKHD/master.m3u8
 http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/playlist.m3u8
 
 #EXTINF:-1 tvg-id="one.tv3sport.dk" tvg-logo="http://logowow.net/logos/8ye1oV31E.png",TV 3 Sport 1
+http://worldiptvbox.ddns.net:5210/live/5G76ao8Bi5/flelkOiTvT/3189.ts
 
 #EXTINF:-1 tvg-id="two.tv3sport.dk" tvg-logo="http://logowow.net/logos/thumb-obPD0HS4z.png",TV 3 Sport 2
+http://worldiptvbox.ddns.net:5210/live/5G76ao8Bi5/flelkOiTvT/3173.ts
 
 #EXTINF:-1 tvg-id="eurosport.dk" tvg-logo="https://logos.xmltv.se/eurosport.dk.png",Eurosport 1
 http://dpme12hls-i.akamaiHD.net/hls/live/249637/dpme12_3/master.m3u8
