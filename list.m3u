@@ -67,6 +67,7 @@ http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="https://logos.xmltv.se/puls.tv3.dk.png",TV3 Puls
 
 #EXTINF:-1 tvg-id="dk4.dk" tvg-logo="https://logos.xmltv.se/dk4.dk.png",DK4
+http://link.softiptv.com:2500/live/VCXsqXcd3I/UwqKO1XZfv/5977.ts
 
 #EXTINF:-1 tvg-id="kanal4.dk" tvg-logo="https://logos.xmltv.se/kanal4.dk.png",Kanal 4
 
@@ -83,8 +84,10 @@ http://dnordichlslive09-i.akamaihd.net/hls/live/223862/C9DKHD/master.m3u8
 http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/playlist.m3u8
 
 #EXTINF:-1 tvg-id="one.tv3sport.dk" tvg-logo="http://logowow.net/logos/8ye1oV31E.png",TV 3 Sport 1
+http://link.softiptv.com:2500/live/VCXsqXcd3I/UwqKO1XZfv/5964.ts
 
 #EXTINF:-1 tvg-id="two.tv3sport.dk" tvg-logo="http://logowow.net/logos/thumb-obPD0HS4z.png",TV 3 Sport 2
+http://link.softiptv.com:2500/live/VCXsqXcd3I/UwqKO1XZfv/5963.ts
 
 #EXTINF:-1 tvg-id="eurosport.dk" tvg-logo="https://logos.xmltv.se/eurosport.dk.png",Eurosport 1
 http://dpme12hls-i.akamaiHD.net/hls/live/249637/dpme12_3/master.m3u8
@@ -99,8 +102,10 @@ http://dnordichlslive09-i.akamaihd.net/hls/live/223865/ESDKHD/master.m3u8
 #EXTINF:-1 tvg-id="discovery.dk" tvg-logo="https://logos.xmltv.se/discovery.dk.png",Discovery DK
 
 #EXTINF:-1 tvg-id="investigation.discovery.dk" tvg-logo="https://logos.xmltv.se/investigation.discovery.dk.png",Discovery Investigation DK
+http://link.softiptv.com:2500/live/VCXsqXcd3I/UwqKO1XZfv/5979.ts
 
 #EXTINF:-1 tvg-id="animalplanet.discovery.dk" tvg-logo="https://logos.xmltv.se/animalplanet.discovery.dk.png",Animal Planet DK
+http://link.softiptv.com:2500/live/VCXsqXcd3I/UwqKO1XZfv/5982.ts
 
 #EXTINF:-1 tvg-id="tlc.discovery.dk" tvg-logo="https://logos.xmltv.se/tlc.discovery.dk.png",TLC DK
 
