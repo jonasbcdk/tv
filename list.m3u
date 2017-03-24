@@ -173,11 +173,14 @@ http://dnordichlslive07-i.akamaihd.net/hls/live/223858/TLCSWSD/master.m3u8
 http://ott1.odessa.tv:7321/index.php?channel=36&amp;key_ott=5f7690fd0bd330afafb91f331adc46dd
 
 #EXTINF:-1  tvg-logo="https://logos.xmltv.se/tlc.discovery.dk.png",TLC Europe
+http://149.202.200.137:8080/tlc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/discovery.dk.png",Discovery UK
 http://am-iptv.club:25461/live/soft4sat/testme1/319.ts
+# http://149.202.200.137:8080/discovery/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png",Discovery Turbo UK
+http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/1230.ts
 
 #EXTINF:-1 tvg-id="science.discoverychannel.com" tvg-logo="https://logos.xmltv.se/science.discoverychannel.com.png",Discovery Science UK
 
@@ -188,10 +191,13 @@ http://am-iptv.club:25461/live/soft4sat/testme1/319.ts
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/wild.natgeo.dk.png",NAT GEO WILD UK
 
 #EXTINF:-1 tvg-logo="http://logos.xmltv.se/syfy.de.png",SyFy UK
+http://149.202.200.137:8080/syfy/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/eurosport.dk.png",Eurosport 1 UK
+http://149.202.200.137:8080/eurosport1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/eurosport2.fi.png",Eurosport 2 UK
+http://149.202.200.137:8080/eurosport2/index.m3u8
 
 
 #EXTINF:-1 group-title="US" tvg-logo="http://static.nfl.com/static/content/static/img/ctv/anchor-images/nfl-now.png",NFL NOW
