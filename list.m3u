@@ -93,11 +93,11 @@ http://dnordichlslive09-i.akamaihd.net/hls/live/223862/C9DKHD/master.m3u8
 http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/playlist.m3u8
 
 #EXTINF:-1 tvg-id="one.tv3sport.dk" tvg-logo="http://logowow.net/logos/8ye1oV31E.png",TV 3 Sport 1
-http://iptv.bighd.us:1557/live/dragan/dragan123/3310.ts
+http://ndasat.pro:8000/live/99572329659876/1593574628/2303.ts
 # http://vip.groupiptv.com:7000/live/zizou/zizou/4165.ts
 
 #EXTINF:-1 tvg-id="two.tv3sport.dk" tvg-logo="http://logowow.net/logos/thumb-obPD0HS4z.png",TV 3 Sport 2
-http://iptv.bighd.us:1557/live/dragan/dragan123/3311.ts
+http://ndasat.pro:8000/live/99572329659876/1593574628/2302.ts
 # http://vip.groupiptv.com:7000/live/zizou/zizou/4166.ts
 
 #EXTINF:-1 tvg-id="eurosport.dk" tvg-logo="https://logos.xmltv.se/eurosport.dk.png",Eurosport 1
