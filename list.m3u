@@ -212,7 +212,7 @@ http://37.187.132.70:25461/live/dave/dave/4187.ts
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/4d/Fox_Sports_1.png",FOX Sports 1
 
-#EXTINF:-1 group-title="US" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png",ABC News
+#EXTINF:-1 tvg-id="ABC-News24" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png",ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
 #EXTINF:-1 group-title="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/2000px-CBS_News.svg.png",CBS News
@@ -222,7 +222,7 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
 https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public1/master.m3u8
 # http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
-#EXTINF:-1 group-title="US" tvg-logo="https://logos.xmltv.se/discovery.dk.png",Discovery US
+#EXTINF:-1 tvg-id="DISC" tvg-logo="https://logos.xmltv.se/discovery.dk.png",Discovery US
 http://vip.groupiptv.com:7000/live/zizou/zizou/4238.ts
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png",Discovery Turbo
@@ -240,14 +240,15 @@ http://worldiptvbox.ddns.net:5210/live/40xjJicygs/zoXj4nghmr/9533.ts
 
 #EXTINF:-1 group-title="Musik" tvg-id="rocks.mtv.se" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/78/MTV_Rocks_2011.svg",MTV Rocks
 
-#EXTINF:-1,MTV Music
+#EXTINF:-1 tvg-id="MTVM",MTV Music
 http://37.187.132.70:25461/live/dave/dave/4988.ts
 
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d7/MTV_Dance_2011.svg",MTV Dance
+#EXTINF:-1 tvg-id="MTVD" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d7/MTV_Dance_2011.svg",MTV Dance
 http://37.187.132.70:25461/live/dave/dave/661.ts
 
 #EXTINF:-1 tvg-id="hits.mtv.se" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/1d/267px-MTV_Hits_2010.svg-1-.png",MTV Hits
 http://37.187.132.70:25461/live/dave/dave/660.ts
+# MTVH
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/87/Mtv_base_2011.png",MTV Base
 http://37.187.132.70:25461/live/dave/dave/659.ts
