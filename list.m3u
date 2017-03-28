@@ -63,19 +63,14 @@ http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="tv3.dk" tvg-logo="https://logos.xmltv.se/tv3.dk.png",TV 3
 
 #EXTINF:-1 tvg-id="tv3plus.dk" tvg-logo="https://logos.xmltv.se/tv3plus.dk.png",TV3+
-http://iptv2030.ddns.net:8080/live/Guru/Guru/3500.ts
 
 #EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="https://logos.xmltv.se/puls.tv3.dk.png",TV3 Puls
-http://iptv2030.ddns.net:8080/live/Guru/Guru/3513.ts
 
 #EXTINF:-1 tvg-id="dk4.dk" tvg-logo="https://logos.xmltv.se/dk4.dk.png",DK4
-http://ip03.fox-cloud.co/live/spider_WYAhz6/ciH0kgSu/1187.ts
 
 #EXTINF:-1 tvg-id="kanal4.dk" tvg-logo="https://logos.xmltv.se/kanal4.dk.png",Kanal 4
-http://iptv2030.ddns.net:8080/live/Guru/Guru/3506.ts
 
 #EXTINF:-1 tvg-id="kanal5.dk" tvg-logo="https://logos.xmltv.se/kanal5.dk.png",Kanal 5
-http://iptv2030.ddns.net:8080/live/Guru/Guru/3499.ts
 
 #EXTINF:-1 tvg-id="6-eren.dk" tvg-logo="https://logos.xmltv.se/6-eren.dk.png",6eren
 http://dnordichlslive04-i.akamaihd.net/hls/live/223840/6DKHD/master.m3u8
@@ -87,10 +82,8 @@ http://dnordichlslive09-i.akamaihd.net/hls/live/223862/C9DKHD/master.m3u8
 http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/playlist.m3u8
 
 #EXTINF:-1 tvg-id="one.tv3sport.dk" tvg-logo="http://logowow.net/logos/8ye1oV31E.png",TV 3 Sport 1
-http://iptv2030.ddns.net:8080/live/Guru/Guru/516.ts
 
 #EXTINF:-1 tvg-id="two.tv3sport.dk" tvg-logo="http://logowow.net/logos/thumb-obPD0HS4z.png",TV 3 Sport 2
-http://iptv2030.ddns.net:8080/live/Guru/Guru/1105.ts
 
 #EXTINF:-1 tvg-id="eurosport.dk" tvg-logo="https://logos.xmltv.se/eurosport.dk.png",Eurosport 1
 http://dpme12hls-i.akamaiHD.net/hls/live/249637/dpme12_3/master.m3u8
@@ -200,6 +193,7 @@ http://149.56.27.19:25461/live/6K2sMZahz0/L5UqPINmnY/26.ts
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/eurosport.dk.png",Eurosport 1 UK
 
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/eurosport2.fi.png",Eurosport 2 UK
+http://biwsat.com:8080/live/bwy7VcFnGF/8HFDYHWbwv/1095.ts
 
 
 #EXTINF:-1 group-title="US" tvg-logo="http://static.nfl.com/static/content/static/img/ctv/anchor-images/nfl-now.png",NFL NOW
@@ -230,6 +224,7 @@ http://149.56.27.19:25461/live/6K2sMZahz0/L5UqPINmnY/28.ts
 #EXTINF:-1 tvg-logo="http://logos.xmltv.se/syfy.de.png",SyFy US
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/5a/Animal_Planet_HD.png",Animal Planet
+http://149.56.27.19:25461/live/6K2sMZahz0/L5UqPINmnY/12.ts
 
 #EXTINF:-1 group-title="US" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/99/NAT_GEO_WILD_HD.png",NAT GEO WILD US
 
