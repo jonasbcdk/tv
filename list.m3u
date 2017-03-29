@@ -170,7 +170,10 @@ http://dnordichlslive07-i.akamaihd.net/hls/live/223858/TLCSWSD/master.m3u8
 #EXTINF:-1 group-title="UK" tvg-id="bbcworldnews.com" tvg-logo="https://logos.xmltv.se/bbcworldnews.com.png",BBC World News
 http://ott1.odessa.tv:7321/index.php?channel=36&amp;key_ott=5f7690fd0bd330afafb91f331adc46dd
 
-#EXTINF:-1  tvg-logo="https://logos.xmltv.se/tlc.discovery.dk.png",TLC Europe
+#EXTINF:-1 tvg-id="euronews.com" tvg-logo="https://logos.xmltv.se/euronews.com.png",Euronews
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
+
+#EXTINF:-1 tvg-logo="https://logos.xmltv.se/tlc.discovery.dk.png",TLC Europe
 
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/discovery.dk.png",Discovery UK
 http://149.56.27.19:25461/live/6K2sMZahz0/L5UqPINmnY/13.ts
@@ -191,16 +194,17 @@ http://149.56.27.19:25461/live/6K2sMZahz0/L5UqPINmnY/26.ts
 #EXTINF:-1 tvg-logo="http://logos.xmltv.se/syfy.de.png",SyFy UK
 
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/eurosport.dk.png",Eurosport 1 UK
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/eurosport2.fi.png",Eurosport 2 UK
-http://biwsat.com:8080/live/bwy7VcFnGF/8HFDYHWbwv/1095.ts
+
+#EXTINF:-1 tvg-logo="https://nbcolympictalk.files.wordpress.com/2016/12/olympicchannel-e1481805666850.jpg?w=600",Olympic Channel
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_5_2264000.m3u8
 
 
 #EXTINF:-1 group-title="US" tvg-logo="http://static.nfl.com/static/content/static/img/ctv/anchor-images/nfl-now.png",NFL NOW
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/54/NFL-Network.png",NFL NETWORK
-
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/4d/Fox_Sports_1.png",FOX Sports 1
 
 #EXTINF:-1 tvg-id="ABC-News24" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png",ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
@@ -243,11 +247,26 @@ http://iptv2030.ddns.net:8080/live/Guru/Guru/3564.ts
 
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/vh1.eu.png",VH1
 
-#EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1447183057.png",DJing
+#EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1447183057.png",DJing Dancefloor
+http://www.djing.com/tv/d-05.m3u8
+
+#EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1447183057.png",DJing Underground
 http://www.djing.com/tv/u-05.m3u8
+
+#EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1447183057.png",DJing Hot Hot Hot
+http://www.djing.com/tv/hothothot.m3u8
+
+#EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1447183057.png",DJing Animation
+http://www.djing.com/tv/a-05.m3u8
+
+#EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1447183057.png",DJing Classic
+http://www.djing.com/tv/i-05.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.vmore.tv/wp-content/uploads/2015/01/city.png",City Music TV BG
 http://nodeb.gocaster.net:1935/CGL/mp4:TODAYFM_TEST2/playlist.m3u8
+
+#EXTINF:-1,Kiss Tv Music
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/S6PYLzM5N8omHU_DbsUUdERSJIfO1WgP-5gOzCCKRY8QAFk42r5YLizrBSl21g7Ows8=w300",O2TV HD MUSIC
 http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m3u8
