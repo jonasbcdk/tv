@@ -118,7 +118,6 @@ http://dnordichlslive09-i.akamaihd.net/hls/live/223865/ESDKHD/master.m3u8
 #EXTINF:-1 tvg-id="action.film.viasat.dk" tvg-logo="http://logos.xmltv.se/action.film.viasat.dk.png",Viasat Film Action
 
 
-
 #EXTINF:-1 group-title="NO" tvg-id="tvnorge.no" tvg-logo="https://logos.xmltv.se/tvnorge.no.png",N Norge
 http://dnordichlslive08-i.akamaihd.net/hls/live/223860/TVNOHD/master.m3u8
 
