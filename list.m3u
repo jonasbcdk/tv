@@ -175,16 +175,12 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/tlc.discovery.dk.png",TLC Europe
 
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/discovery.dk.png",Discovery UK
-http://149.56.27.19:25461/live/6K2sMZahz0/L5UqPINmnY/13.ts
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png",Discovery Turbo UK
-http://149.56.27.19:25461/live/6K2sMZahz0/L5UqPINmnY/145.ts
 
 #EXTINF:-1 tvg-id="science.discoverychannel.com" tvg-logo="https://logos.xmltv.se/science.discoverychannel.com.png",Discovery Science UK
-http://149.56.27.19:25461/live/6K2sMZahz0/L5UqPINmnY/150.ts
 
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/investigation.discovery.dk.png",Discovery Investigation UK
-http://149.56.27.19:25461/live/6K2sMZahz0/L5UqPINmnY/26.ts
 
 #EXTINF:-1 tvg-id="natgeotv.com" tvg-logo="https://logos.xmltv.se/natgeo.dk.png",NAT GEO UK
 
@@ -224,18 +220,14 @@ https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public1/master.m3u8
 # http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
 #EXTINF:-1 tvg-id="DISC" tvg-logo="https://logos.xmltv.se/discovery.dk.png",Discovery US
-http://149.56.27.19:25461/live/6K2sMZahz0/L5UqPINmnY/13.ts
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png",Discovery Turbo
-http://149.56.27.19:25461/live/6K2sMZahz0/L5UqPINmnY/145.ts
 
 #EXTINF:-1 group-title="US" tvg-id="science.discoverychannel.com" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/3/32/Discovery_Science_HD.png",Discovery Science
-http://149.56.27.19:25461/live/6K2sMZahz0/L5UqPINmnY/28.ts
 
 #EXTINF:-1 tvg-logo="http://logos.xmltv.se/syfy.de.png",SyFy US
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/5a/Animal_Planet_HD.png",Animal Planet
-http://149.56.27.19:25461/live/6K2sMZahz0/L5UqPINmnY/12.ts
 
 #EXTINF:-1 group-title="US" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/99/NAT_GEO_WILD_HD.png",NAT GEO WILD US
 
@@ -247,7 +239,6 @@ http://149.56.27.19:25461/live/6K2sMZahz0/L5UqPINmnY/12.ts
 #EXTINF:-1 tvg-id="MTVD" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d7/MTV_Dance_2011.svg",MTV Dance
 
 #EXTINF:-1 tvg-id="hits.mtv.se" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/1d/267px-MTV_Hits_2010.svg-1-.png",MTV Hits
-http://iptv2030.ddns.net:8080/live/Guru/Guru/3564.ts
 # MTVH
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/87/Mtv_base_2011.png",MTV Base
