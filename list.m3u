@@ -61,16 +61,22 @@ http://cdn-lt-live.tv2lorry.dk/dc-1/live/hls/p/2045321/e/0_5l7gjlbn/sd/10000/t/o
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="tv3.dk" tvg-logo="https://logos.xmltv.se/tv3.dk.png",TV 3
+http://37.187.252.222:8000/live/webtro3/OcgyupQDfP/131.ts
 
 #EXTINF:-1 tvg-id="tv3plus.dk" tvg-logo="https://logos.xmltv.se/tv3plus.dk.png",TV3+
+http://37.187.252.222:8000/live/webtro3/OcgyupQDfP/136.ts
 
 #EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="https://logos.xmltv.se/puls.tv3.dk.png",TV3 Puls
+http://superiptvlista.dyndns.tv/live/EmirAhmetovic/AhmetovicEmir/709.ts
 
 #EXTINF:-1 tvg-id="dk4.dk" tvg-logo="https://logos.xmltv.se/dk4.dk.png",DK4
+http://superiptvlista.dyndns.tv/live/EmirAhmetovic/AhmetovicEmir/654.ts
 
 #EXTINF:-1 tvg-id="kanal4.dk" tvg-logo="https://logos.xmltv.se/kanal4.dk.png",Kanal 4
+http://37.187.252.222:8000/live/webtro3/OcgyupQDfP/133.ts
 
 #EXTINF:-1 tvg-id="kanal5.dk" tvg-logo="https://logos.xmltv.se/kanal5.dk.png",Kanal 5
+http://37.187.252.222:8000/live/webtro3/OcgyupQDfP/134.ts
 
 #EXTINF:-1 tvg-id="6-eren.dk" tvg-logo="https://logos.xmltv.se/6-eren.dk.png",6eren
 http://dnordichlslive04-i.akamaihd.net/hls/live/223840/6DKHD/master.m3u8
@@ -82,8 +88,10 @@ http://dnordichlslive09-i.akamaihd.net/hls/live/223862/C9DKHD/master.m3u8
 http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/playlist.m3u8
 
 #EXTINF:-1 tvg-id="one.tv3sport.dk" tvg-logo="http://logowow.net/logos/8ye1oV31E.png",TV 3 Sport 1
+http://37.187.252.222:8000/live/webtro3/OcgyupQDfP/168.ts
 
 #EXTINF:-1 tvg-id="two.tv3sport.dk" tvg-logo="http://logowow.net/logos/thumb-obPD0HS4z.png",TV 3 Sport 2
+http://37.187.252.222:8000/live/webtro3/OcgyupQDfP/169.ts
 
 #EXTINF:-1 tvg-id="eurosport.dk" tvg-logo="https://logos.xmltv.se/eurosport.dk.png",Eurosport 1
 
@@ -95,26 +103,33 @@ http://dnordichlslive09-i.akamaihd.net/hls/live/223865/ESDKHD/master.m3u8
 #EXTINF:-1 tvg-id="wild.natgeo.dk" tvg-logo="https://logos.xmltv.se/wild.natgeo.dk.png",NAT GEO WILD
 
 #EXTINF:-1 tvg-id="discovery.dk" tvg-logo="https://logos.xmltv.se/discovery.dk.png",Discovery DK
+http://superiptvlista.dyndns.tv/live/EmirAhmetovic/AhmetovicEmir/449.ts
 
 #EXTINF:-1 tvg-id="investigation.discovery.dk" tvg-logo="https://logos.xmltv.se/investigation.discovery.dk.png",Discovery Investigation DK
+http://37.187.252.222:8000/live/webtro3/OcgyupQDfP/161.ts
+
+#EXTINF:-1 tvg-id="natgeo.dk" tvg-logo="https://logos.xmltv.se/natgeo.dk.png",National Geographics DK
+http://superiptvlista.dyndns.tv/live/EmirAhmetovic/AhmetovicEmir/459.ts
 
 #EXTINF:-1 tvg-id="animalplanet.discovery.dk" tvg-logo="https://logos.xmltv.se/animalplanet.discovery.dk.png",Animal Planet DK
 
 #EXTINF:-1 tvg-id="tlc.discovery.dk" tvg-logo="https://logos.xmltv.se/tlc.discovery.dk.png",TLC DK
+http://37.187.252.222:8000/live/webtro3/OcgyupQDfP/140.ts
 
 #EXTINF:-1 tvg-id="mtv.dk" tvg-logo="https://logos.xmltv.se/mtv.dk.png",MTV DK
 
 #EXTINF:-1 tvg-id="comedycentral.dk" tvg-logo="https://logos.xmltv.se/comedycentral.dk.png",Comedy Central
+http://37.187.252.222:8000/live/webtro3/OcgyupQDfP/141.ts
 
 #EXTINF:-1 tvg-id="nickelodeon.dk" tvg-logo="https://logos.xmltv.se/nickelodeon.dk.png",Nickelodeon
+http://37.187.252.222:8000/live/webtro3/OcgyupQDfP/202.ts
 
 #EXTINF:-1 tvg-id="cartoonnetwork.dk" tvg-logo="https://logos.xmltv.se/cartoonnetwork.dk.png",CARTOON NETWORK
 
 #EXTINF:-1 tvg-id="disneychannel.dk" tvg-logo="https://logos.xmltv.se/disneychannel.dk.png",Disney Channel
+http://37.187.252.222:8000/live/webtro3/OcgyupQDfP/142.ts
 
 #EXTINF:-1 tvg-id="xd.disneychannel.dk" tvg-logo="https://logos.xmltv.se/xd.disneychannel.dk.png",Disney XD
-
-#EXTINF:-1 tvg-id="action.film.viasat.dk" tvg-logo="http://logos.xmltv.se/action.film.viasat.dk.png",Viasat Film Action
 
 
 #EXTINF:-1 group-title="NO" tvg-id="tvnorge.no" tvg-logo="https://logos.xmltv.se/tvnorge.no.png",N Norge
