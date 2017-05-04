@@ -244,6 +244,29 @@ http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/99/NAT_GEO_WILD_HD.png",NAT GEO WILD US
 
 
+#EXTINF:-1 group-title="US College Sport" tvg-logo="http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 National
+http://xrxs.net/video/live-p12netw-4728.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 Arizona
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 Bay Area
+http://goo.gl/gHG3ty
+
+#EXTINF:-1 tvg-logo="http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 Los Angeles
+http://goo.gl/c1zkBg
+
+#EXTINF:-1 tvg-logo="http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 Mountain
+http://goo.gl/lSyVT3
+
+#EXTINF:-1 tvg-logo="http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 Oregon
+http://goo.gl/eRhOHd
+
+#EXTINF:-1 tvg-logo="http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 Washington
+http://goo.gl/RtRjJM
+
+
+
 #EXTINF:-1 group-title="Musik" tvg-id="rocks.mtv.se" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/78/MTV_Rocks_2011.svg",MTV Rocks
 
 #EXTINF:-1 tvg-id="MTVM",MTV Music
