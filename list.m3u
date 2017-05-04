@@ -1,22 +1,22 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="dr1.dr.dk" group-title="DK" tvg-logo="https://logos.xmltv.se/dr1.dr.dk.png",DR1
-http://dr01-lh.akamaihd.net/i/dr01_0@147054/master.m3u8
+http://dr01-lh.akamaihd.net/i/dr01_0@147054/master.m3u8?b=1400-4000
 
 #EXTINF:-1 tvg-id="dr2.dr.dk" tvg-name="DR2" tvg-logo="https://logos.xmltv.se/dr2.dr.dk.png",DR2
-http://dr02-lh.akamaihd.net/i/dr02_0@147055/index_5_av-p.m3u8
+http://dr02-lh.akamaihd.net/i/dr02_0@147055/master.m3u8?b=1400-4000
 
 #EXTINF:-1 tvg-id="dr3.dr.dk" tvg-logo="https://logos.xmltv.se/dr3.dr.dk.png",DR3
-http://dr03-lh.akamaihd.net/i/dr03_0@147056/index_3_av-p.m3u8
+http://dr03-lh.akamaihd.net/i/dr03_0@147056/master.m3u8?b=1400-4000
 
 #EXTINF:-1 tvg-id="k.dr.dk" tvg-logo="https://logos.xmltv.se/k.dr.dk.png",DR K
-http://dr04-lh.akamaiHD.net/i/dr04_0@147057/master.m3u8
+http://dr04-lh.akamaihd.net/i/dr04_0@147057/master.m3u8?b=1400-4000
 
 #EXTINF:-1 tvg-id="ultra.dr.dk" tvg-logo="https://logos.xmltv.se/ultra.dr.dk.png",DR ULTRA
-http://dr06-lh.akamaihd.net/i/dr06_0@147059/index_3_av-p.m3u8
+http://dr06-lh.akamaihd.net/i/dr06_0@147059/master.m3u8?b=1400-4000
 
 #EXTINF:-1 tvg-id="ramasjang.dr.dk" tvg-logo="https://logos.xmltv.se/ramasjang.dr.dk.png",DR RAMASJANG
-http://dr05-lh.akamaihd.net/i/dr05_0@147058/index_3_av-p.m3u8
+http://dr05-lh.akamaihd.net/i/dr05_0@147058/master.m3u8?b=1400-4000
 
 #EXTINF:-1 tvg-id="tv2.dk" tvg-logo="https://logos.xmltv.se/tv2.dk.png",TV2
 http://tv2danmark-tv2nord-live.hls.adaptive.level3.net/tv2danmark/tv2nord/master3200kbps.m3u8
@@ -86,7 +86,6 @@ http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/playlist.m
 #EXTINF:-1 tvg-id="two.tv3sport.dk" tvg-logo="http://logowow.net/logos/thumb-obPD0HS4z.png",TV 3 Sport 2
 
 #EXTINF:-1 tvg-id="eurosport.dk" tvg-logo="https://logos.xmltv.se/eurosport.dk.png",Eurosport 1
-http://dpme12hls-i.akamaiHD.net/hls/live/249637/dpme12_3/master.m3u8
 
 #EXTINF:-1 tvg-id="eurosport.sbstv.dk" tvg-logo="http://logos.xmltv.se/eurosport.sbstv.dk.png",Eurosport 2
 http://dnordichlslive09-i.akamaihd.net/hls/live/223865/ESDKHD/master.m3u8
@@ -189,7 +188,6 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
 #EXTINF:-1 tvg-logo="http://logos.xmltv.se/syfy.de.png",SyFy UK
 
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/eurosport.dk.png",Eurosport 1 UK
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/eurosport2.fi.png",Eurosport 2 UK
 http://195.206.253.157:8001/eurosport2hd
@@ -198,10 +196,8 @@ http://195.206.253.157:8001/eurosport2hd
 http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_5_2264000.m3u8
 
 #EXTINF:-1 tvg-logo="http://umg.cdn.vrlive.com.s3-website-us-west-2.amazonaws.com/mendes-illuminate/assets/krpano/rb-logo.png",Red Bull TV 1 
-https://elementaldelta2.redbull.tv/30_5.m3u8
 
 #EXTINF:-1 tvg-logo="http://umg.cdn.vrlive.com.s3-website-us-west-2.amazonaws.com/mendes-illuminate/assets/krpano/rb-logo.png",Red Bull TV 2
-https://elementaldelta.redbull.tv/113_5.m3u8
 
 
 #EXTINF:-1 group-title="US" tvg-logo="http://static.nfl.com/static/content/static/img/ctv/anchor-images/nfl-now.png",NFL NOW
