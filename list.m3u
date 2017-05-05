@@ -202,9 +202,10 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
 
 #EXTINF:-1 tvg-logo="http://logos.xmltv.se/syfy.de.png",SyFy UK
 
-#EXTINF:-1 tvg-logo="https://logos.xmltv.se/eurosport.dk.png",Eurosport 1 UK
+#EXTINF:-1 tvg-id="eurosporthd.sbsdiscovery.no" tvg-logo="https://logos.xmltv.se/eurosport.dk.png",Eurosport 1 UK
+http://149.56.240.30:25461/live/EAS12/1111/2088.ts
 
-#EXTINF:-1 tvg-logo="https://logos.xmltv.se/eurosport2.fi.png",Eurosport 2 UK
+#EXTINF:-1 tvg-id="eurosport2.no" tvg-logo="https://logos.xmltv.se/eurosport2.fi.png",Eurosport 2 UK
 http://195.206.253.157:8001/eurosport2hd
 
 #EXTINF:-1 tvg-logo="https://nbcolympictalk.files.wordpress.com/2016/12/olympicchannel-e1481805666850.jpg?w=600",Olympic Channel
