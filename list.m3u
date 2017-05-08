@@ -227,9 +227,18 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/2000px-CBS_News.svg.png",CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
 
+#EXTINF:-1 tvg-logo="https://danishbits.org/static/bitbucket/users/1485723319.5474.png",Fox 23 News
+http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
+
+#EXTINF:-1 tvg-logo="https://danishbits.org/static/bitbucket/users/1483919746.6789.png",BLOOMBERG
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/disney/images/1/1f/NASA_Logo.png",NASA TV
 https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public1/master.m3u8
 # http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://danishbits.org/static/bitbucket/users/1485603730.4372.png",HUNTING CHANNEL
+http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DISC" tvg-logo="https://logos.xmltv.se/discovery.dk.png",Discovery US
 
@@ -266,6 +275,8 @@ http://goo.gl/eRhOHd
 #EXTINF:-1 tvg-logo="http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 Washington
 http://goo.gl/RtRjJM
 
+#EXTINF:-1 tvg-logo="https://danishbits.org/static/bitbucket/users/1484636788.2379.png" group-title="Diverse",REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
 
 
 #EXTINF:-1 group-title="Musik" tvg-id="rocks.mtv.se" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/78/MTV_Rocks_2011.svg",MTV Rocks
