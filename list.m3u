@@ -232,6 +232,7 @@ https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public1/master.m3u8
 http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DISC" tvg-logo="https://logos.xmltv.se/discovery.dk.png",Discovery US
+http://208.86.19.13:8080/live/31.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png",Discovery Turbo
 
@@ -239,7 +240,7 @@ http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Syfy" tvg-logo="http://logos.xmltv.se/syfy.de.png",SyFy US
 
-#EXTINF:-1 tvg-id="ANIMAL" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/5a/Animal_Planet_HD.png",Animal Planet
+#EXTINF:-1 tvg-id="ANIMAL" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/5a/Animal_Planet_HD.png",Animal Planet L!VE
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/99/NAT_GEO_WILD_HD.png",NAT GEO WILD US
