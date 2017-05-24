@@ -22,6 +22,7 @@ http://dr05-lh.akamaihd.net/i/dr05_0@147058/master.m3u8?b=1400-4000
 http://tv2danmark-tv2nord-live.hls.adaptive.level3.net/tv2danmark/tv2nord/master3200kbps.m3u8
 
 #EXTINF:-1 tvg-id="news.tv2.dk" tvg-logo="https://logos.xmltv.se/news.tv2.dk.png",TV2 NEWS
+http://afatsum.mine.nu:3838/live/STAlk769bps8Df/iYTPaEXjS3/126.ts
 # http://tv2danmark-tv2news-live.hls.adaptive.level3.net/tv2danmark/tv2news/master3200kbps.m3u8
 
 #EXTINF:-1 tvg-id="fri.tv2.dk" tvg-logo="https://logos.xmltv.se/fri.tv2.dk.png",TV2 FRI
