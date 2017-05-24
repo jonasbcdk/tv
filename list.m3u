@@ -191,16 +191,21 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/tlc.discovery.dk.png",TLC Europe
 
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/discovery.dk.png",Discovery UK
+http://dreamlord.tk:5454/live/emby/plexsucks/14973.ts
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png",Discovery Turbo UK
+http://dreamlord.tk:5454/live/emby/plexsucks/14111.ts
 
 #EXTINF:-1 tvg-id="science.discoverychannel.com" tvg-logo="https://logos.xmltv.se/science.discoverychannel.com.png",Discovery Science UK
 
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/investigation.discovery.dk.png",Discovery Investigation UK
+http://dreamlord.tk:5454/live/emby/plexsucks/16879.ts
 
 #EXTINF:-1 tvg-id="natgeotv.com" tvg-logo="https://logos.xmltv.se/natgeo.dk.png",NAT GEO UK
+http://dreamlord.tk:5454/live/emby/plexsucks/14101.ts
 
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/wild.natgeo.dk.png",NAT GEO WILD UK
+http://dreamlord.tk:5454/live/emby/plexsucks/14098.ts
 
 #EXTINF:-1 tvg-logo="http://logos.xmltv.se/syfy.de.png",SyFy UK
 
@@ -221,6 +226,7 @@ http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_5_2264000.m
 http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW_2000k.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/54/NFL-Network.png",NFL NETWORK
+http://dreamlord.tk:5454/live/emby/plexsucks/17579.ts
 
 #EXTINF:-1 tvg-id="ABC-News24" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png",ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
@@ -249,6 +255,7 @@ http://208.86.19.13:8080/live/31.stream/index.m3u8
 #EXTINF:-1 tvg-id="SCIENCE" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/3/32/Discovery_Science_HD.png",Discovery Science
 
 #EXTINF:-1 tvg-id="Syfy" tvg-logo="http://logos.xmltv.se/syfy.de.png",SyFy US
+http://dreamlord.tk:5454/live/emby/plexsucks/17550.ts
 
 #EXTINF:-1 tvg-id="ANIMAL" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/5a/Animal_Planet_HD.png",Animal Planet L!VE
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
