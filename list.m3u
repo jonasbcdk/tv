@@ -181,6 +181,7 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png",Discovery Turbo UK
 
 #EXTINF:-1 tvg-id="science.discoverychannel.com" tvg-logo="https://logos.xmltv.se/science.discoverychannel.com.png",Discovery Science UK
+http://62.210.115.122:9099/play/a00k
 
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/investigation.discovery.dk.png",Discovery Investigation UK
 
@@ -191,6 +192,7 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
 #EXTINF:-1 tvg-logo="http://logos.xmltv.se/syfy.de.png",SyFy UK
 
 #EXTINF:-1 tvg-id="eurosporthd.sbsdiscovery.no" tvg-logo="https://logos.xmltv.se/eurosport.dk.png",Eurosport 1 UK
+http://81.7.13.162/hls/ss4/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2.no" tvg-logo="https://logos.xmltv.se/eurosport2.fi.png",Eurosport 2 UK
 http://195.206.253.157:8001/eurosport2hd
@@ -207,6 +209,13 @@ http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_5_2264000.m
 http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW_2000k.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/54/NFL-Network.png",NFL NETWORK
+
+#EXTINF:-1 tvg-logo="",EPSN
+http://stream.i4atv.info/ggwpl/live2.m3u8
+
+#EXTINF:-1 tvg-logo="",MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
 
 #EXTINF:-1 tvg-id="ABC-News24" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png",ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
@@ -268,6 +277,12 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 
 
 #EXTINF:-1 group-title="Musik" tvg-id="rocks.mtv.se" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/78/MTV_Rocks_2011.svg",MTV Rocks
+
+#EXTINF:-1 tvg-logo="http://www.astra2sat.com/wp-content/uploads/2015/04/chart_show_tv-e1429198440229.jpg" group-title="Musik",Chart Show TV
+http://212.231.80.4:3000/play/001
+
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/a/a0/Chartshow_Hits.png",Chart Show Hits
+http://212.231.80.4:3000/play/003
 
 #EXTINF:-1 tvg-id="MTVM",MTV Music
 
