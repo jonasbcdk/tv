@@ -22,7 +22,7 @@ http://dr05-lh.akamaihd.net/i/dr05_0@147058/master.m3u8?b=1400-4000
 http://tv2danmark-tv2nord-live.hls.adaptive.level3.net/tv2danmark/tv2nord/master3200kbps.m3u8
 
 #EXTINF:-1 tvg-id="news.tv2.dk" tvg-logo="https://logos.xmltv.se/news.tv2.dk.png",TV2 NEWS
-# http://tv2danmark-tv2news-live.hls.adaptive.level3.net/tv2danmark/tv2news/master3200kbps.m3u8
+http://tv2danmark-tv2news-live.hls.adaptive.level3.net/tv2danmark/tv2news/master3200kbps.m3u8
 
 #EXTINF:-1 tvg-id="fri.tv2.dk" tvg-logo="https://logos.xmltv.se/fri.tv2.dk.png",TV2 FRI
 http://tv2danmark-tv2fri-live.hls.adaptive.level3.net/tv2danmark/tv2fri/master3200kbps.m3u8
@@ -65,7 +65,7 @@ http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="tv3plus.dk" tvg-logo="https://logos.xmltv.se/tv3plus.dk.png",TV3+
 
 #EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="https://logos.xmltv.se/puls.tv3.dk.png",TV3 Puls
-http://82.137.27.223:2002/play/a006
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/637.ts
 
 #EXTINF:-1 tvg-id="dk4.dk" tvg-logo="https://logos.xmltv.se/dk4.dk.png",DK4
 
@@ -74,10 +74,10 @@ http://82.137.27.223:2002/play/a006
 #EXTINF:-1 tvg-id="kanal5.dk" tvg-logo="https://logos.xmltv.se/kanal5.dk.png",Kanal 5
 
 #EXTINF:-1 tvg-id="6-eren.dk" tvg-logo="https://logos.xmltv.se/6-eren.dk.png",6eren
+http://newiptv.zapto.org:8500/live/4yterjfvFPr/cjhdgufyEX/633.ts
 # http://dnordichlslive04-i.akamaihd.net/hls/live/223840/6DKHD/master.m3u8
 
 #EXTINF:-1 tvg-id="canal9.dk" tvg-logo="https://logos.xmltv.se/canal9.dk.png",Canal 9
-http://82.137.27.223:2002/play/a009
 # http://dnordichlslive09-i.akamaihd.net/hls/live/223862/C9DKHD/master.m3u8
 
 #EXTINF:-1 tvg-id="ft.dk" tvg-logo="https://logos.xmltv.se/ft.dk.png",Folketinget
@@ -107,7 +107,6 @@ http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/playlist.m
 #EXTINF:-1 tvg-id="tlc.discovery.dk" tvg-logo="https://logos.xmltv.se/tlc.discovery.dk.png",TLC DK
 
 #EXTINF:-1 tvg-id="mtv.dk" tvg-logo="https://logos.xmltv.se/mtv.dk.png",MTV DK
-http://82.137.27.223:2002/play/a007
 
 #EXTINF:-1 tvg-id="comedycentral.dk" tvg-logo="https://logos.xmltv.se/comedycentral.dk.png",Comedy Central
 
