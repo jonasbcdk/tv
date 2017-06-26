@@ -178,7 +178,6 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png",Discovery Turbo UK
 
 #EXTINF:-1 tvg-id="science.discoverychannel.com" tvg-logo="https://logos.xmltv.se/science.discoverychannel.com.png",Discovery Science UK
-http://62.210.115.122:9099/play/a00k
 
 #EXTINF:-1 tvg-logo="https://logos.xmltv.se/investigation.discovery.dk.png",Discovery Investigation UK
 
@@ -189,7 +188,6 @@ http://62.210.115.122:9099/play/a00k
 #EXTINF:-1 tvg-logo="http://logos.xmltv.se/syfy.de.png",SyFy UK
 
 #EXTINF:-1 tvg-id="eurosporthd.sbsdiscovery.no" tvg-logo="https://logos.xmltv.se/eurosport.dk.png",Eurosport 1 UK
-http://81.7.13.162/hls/ss4/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2.no" tvg-logo="https://logos.xmltv.se/eurosport2.fi.png",Eurosport 2 UK
 http://195.206.253.157:8001/eurosport2hd
@@ -227,7 +225,7 @@ http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/disney/images/1/1f/NASA_Logo.png",NASA TV
-https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public1/master.m3u8
+# https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public1/master.m3u8
 # http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://danishbits.org/static/bitbucket/users/1485603730.4372.png",HUNTING CHANNEL
