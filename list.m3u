@@ -22,7 +22,7 @@ http://dr05-lh.akamaihd.net/i/dr05_0@147058/master.m3u8?b=1400-4000
 http://tv2danmark-tv2nord-live.hls.adaptive.level3.net/tv2danmark/tv2nord/master3200kbps.m3u8
 
 #EXTINF:-1 tvg-id="news.tv2.dk" tvg-logo="https://logos.xmltv.se/news.tv2.dk.png",TV2 NEWS
-http://tv2danmark-tv2news-live.hls.adaptive.level3.net/tv2danmark/tv2news/master3200kbps.m3u8
+# http://tv2danmark-tv2news-live.hls.adaptive.level3.net/tv2danmark/tv2news/master3200kbps.m3u8
 
 #EXTINF:-1 tvg-id="fri.tv2.dk" tvg-logo="https://logos.xmltv.se/fri.tv2.dk.png",TV2 FRI
 http://tv2danmark-tv2fri-live.hls.adaptive.level3.net/tv2danmark/tv2fri/master3200kbps.m3u8
@@ -120,11 +120,20 @@ http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/playlist.m
 #EXTINF:-1 group-title="NO" tvg-id="tvnorge.no" tvg-logo="https://logos.xmltv.se/tvnorge.no.png",N Norge
 # http://dnordichlslive08-i.akamaihd.net/hls/live/223860/TVNOHD/master.m3u8
 
+#EXTINF:-1 tvg-id="kanal10.no" tvg-name="" tvg-logo="http://www.txvikings.com/kanal10.png" group-title="NORWAY",Kanal 10 NO
+http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fatstone.tv" tvg-name="" tvg-logo="https://i.vimeocdn.com/video/438638085_780x439.jpg" group-title="NORWAY",Fatstone TV NO
+http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
+
 #EXTINF:-1 tvg-id="eurosport.sbsdiscovery.no" tvg-logo="http://logos.xmltv.se/eurosport.sbsdiscovery.no.png",Eurosport NO
 # http://dnordichlslive09-i.akamaihd.net/hls/live/226880/ESNOHD/master.m3u8
 
 #EXTINF:-1 tvg-id="mtv.no" tvg-logo="https://logos.xmltv.se/mtv.dk.png",MTV NO
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1608203187/canalmotor_logo.png" group-title="NORWAY",Canal Motor NO
+http://03.sf.bg.unistream.tv/test/canalmotor-hls/pl.m3u8?time=1462400376714
 
 #EXTINF:-1 tvg-id="motor.viasat.no" tvg-logo="https://logos.xmltv.se/motor.viasat.no.png",Viasat Motor NO
 
@@ -188,9 +197,10 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
 #EXTINF:-1 tvg-logo="http://logos.xmltv.se/syfy.de.png",SyFy UK
 
 #EXTINF:-1 tvg-id="eurosporthd.sbsdiscovery.no" tvg-logo="https://logos.xmltv.se/eurosport.dk.png",Eurosport 1 UK
+http://185.142.239.164:3135/Euro/1/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2.no" tvg-logo="https://logos.xmltv.se/eurosport2.fi.png",Eurosport 2 UK
-http://195.206.253.157:8001/eurosport2hd
+http://185.142.239.164:3135/Euro/2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://nbcolympictalk.files.wordpress.com/2016/12/olympicchannel-e1481805666850.jpg?w=600",Olympic Channel
 http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_5_2264000.m3u8
@@ -204,9 +214,16 @@ http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_5_2264000.m
 http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW_2000k.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/54/NFL-Network.png",NFL NETWORK
+http://185.142.239.164:3135/NFL/Network/index.m3u8
 
 #EXTINF:-1 tvg-logo="",EPSN
-http://stream.i4atv.info/ggwpl/live2.m3u8
+# http://stream.i4atv.info/ggwpl/live2.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ye5S2CL.png" group-title="USA",ESPN
+http://185.142.239.164:3135/Espn/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ee/espn_2.png" group-title="USA",ESPN 2
+http://185.142.239.164:3135/Espn/2/index.m3u8
 
 #EXTINF:-1 tvg-logo="",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
@@ -232,7 +249,6 @@ http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DISC" tvg-logo="https://logos.xmltv.se/discovery.dk.png",Discovery US
-http://208.86.19.13:8080/live/31.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png",Discovery Turbo
 
