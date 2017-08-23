@@ -114,6 +114,15 @@ http://94.126.0.132:4022/udp/239.255.4.18:1234
 #EXTINF:-1 tvg-id="nature.viasat.dk" tvg-logo="http://logos.xmltv.se/nature.viasat.dk.png",Viasat Nature
 http://94.126.0.132:4022/udp/239.255.4.16:1234
 
+#EXTINF:-1 tvg-id="history.viasat.dk" tvg-logo="http://logos.xmltv.se/history.viasat.dk.png ",Viasat History
+http://94.126.0.132:4022/udp/239.255.4.20:1234
+
+#EXTINF:-1 tvg-id="hits.film.viasat.dk" tvg-logo="http://logos.xmltv.se/hits.film.viasat.dk.png",Viasat Film Hits
+http://94.126.0.132:4022/udp/239.255.5.32:1234
+
+#EXTINF:-1 tvg-id="action.film.viasat.dk" tvg-logo="http://logos.xmltv.se/action.film.viasat.dk.png",Viasat Film Action
+http://94.126.0.132:4022/udp/239.255.5.30:1234
+
 #EXTINF:-1 tvg-id="wild.natgeo.dk" tvg-logo="https://logos.xmltv.se/wild.natgeo.dk.png",NAT GEO WILD
 
 #EXTINF:-1 tvg-id="discovery.dk" tvg-logo="https://logos.xmltv.se/discovery.dk.png",Discovery DK
@@ -129,6 +138,9 @@ http://94.126.0.132:4022/udp/239.255.4.10:1234
 
 #EXTINF:-1 tvg-id="mtv.dk" tvg-logo="https://logos.xmltv.se/mtv.dk.png",MTV DK
 http://94.126.0.132:4022/udp/239.255.5.41:1234
+
+#EXTINF:-1,Uptown TV HD
+http://94.126.0.132:4022/udp/239.255.5.27:1234
 
 #EXTINF:-1 tvg-id="comedycentral.dk" tvg-logo="https://logos.xmltv.se/comedycentral.dk.png",Comedy Central
 http://94.126.0.132:4022/udp/239.255.5.47:1234
@@ -343,14 +355,8 @@ rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/S6PYLzM5N8omHU_DbsUUdERSJIfO1WgP-5gOzCCKRY8QAFk42r5YLizrBSl21g7Ows8=w300",O2TV HD MUSIC
 http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/a/aa/Music_Box_Interactive_TV.svg",Music Box RU
-http://ott1.odessa.tv:7321/index.php?channel=38&amp;key_ott=5f7690fd0bd330afafb91f331adc46dd
-
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/771089/logo_one%20by.png",One.by HD RU
 http://rtmp.one.by:1300
-
-#EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/0b/10/3697/c175.png",Electrosound TV
-rtmp://www.electrosound.tv:1935/public/stream
 
 #EXTINF:-1 tvg-logo="http://www.satelity-budejovice.cz/fotky13968/EZS/Televizni_anteny/logo-Retro_Music_Tv.png",Retro TV CZ
 rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
@@ -358,5 +364,3 @@ rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Logo_virgin_radio_tv.png",Virgin Radio TV
 http://wow01.105.net/live/virgin1/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/34/Logo-RTL.png",RTL TV 102 IT
-http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/chunklist-b1164000.m3u8
