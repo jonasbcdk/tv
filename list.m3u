@@ -72,6 +72,7 @@ http://94.126.0.132:4022/udp/239.255.4.5:1234
 
 #EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="https://logos.xmltv.se/puls.tv3.dk.png",TV3 Puls
 http://94.126.0.132:4022/udp/239.255.4.34:1234
+# http://thaiweb12.mine.nu:8000/live/webtro2/OdEsGsRYFX/15.ts
 # http://iptvfree1.com:6969/live/232323/232323/1635.ts
 
 #EXTINF:-1 tvg-id="dk4.dk" tvg-logo="https://logos.xmltv.se/dk4.dk.png",DK4
@@ -79,9 +80,11 @@ http://iptvfree1.com:6969/live/232323/232323/1629.ts
 
 #EXTINF:-1 tvg-id="kanal4.dk" tvg-logo="https://logos.xmltv.se/kanal4.dk.png",Kanal 4
 http://94.126.0.132:4022/udp/239.255.5.60:1234
+# http://thaiweb12.mine.nu:8000/live/webtro2/OdEsGsRYFX/19.ts
 # http://best-servers.xyz:8000/live/ugur/red/3596.ts
 
 #EXTINF:-1 tvg-id="kanal5.dk" tvg-logo="https://logos.xmltv.se/kanal5.dk.png",Kanal 5
+http://thaiweb12.mine.nu:8000/live/webtro2/OdEsGsRYFX/20.ts
 
 #EXTINF:-1 tvg-id="6-eren.dk" tvg-logo="https://logos.xmltv.se/6-eren.dk.png",6eren
 http://iptvfree1.com:6969/live/232323/232323/2973.ts
@@ -104,8 +107,10 @@ http://176.31.225.191:8081/live/tv3sport2/playlist.m3u8
 # http://iptvfree1.com:6969/live/232323/232323/2970.ts
 
 #EXTINF:-1 tvg-id="eurosport.dk" tvg-logo="https://logos.xmltv.se/eurosport.dk.png",Eurosport 1
+http://thaiweb12.mine.nu:8000/live/webtro2/OdEsGsRYFX/114.ts
 
 #EXTINF:-1 tvg-id="eurosport.sbstv.dk" tvg-logo="http://logos.xmltv.se/eurosport.sbstv.dk.png",Eurosport 2
+http://thaiweb12.mine.nu:8000/live/webtro2/OdEsGsRYFX/112.ts
 # http://dnordichlslive09-i.akamaihd.net/hls/live/223865/ESDKHD/master.m3u8
 
 #EXTINF:-1 tvg-id="explorer.viasat.dk" tvg-logo="https://logos.xmltv.se/explorer.viasat.dk.png",Viasat Explore
@@ -128,6 +133,7 @@ http://94.126.0.132:4022/udp/239.255.5.30:1234
 #EXTINF:-1 tvg-id="discovery.dk" tvg-logo="https://logos.xmltv.se/discovery.dk.png",Discovery DK
 
 #EXTINF:-1 tvg-id="investigation.discovery.dk" tvg-logo="https://logos.xmltv.se/investigation.discovery.dk.png",Discovery Investigation DK
+http://thaiweb12.mine.nu:8000/live/webtro2/OdEsGsRYFX/33.ts
 
 #EXTINF:-1 tvg-id="natgeo.dk" tvg-logo="https://logos.xmltv.se/natgeo.dk.png",National Geographics DK
 http://94.126.0.132:4022/udp/239.255.4.10:1234
@@ -172,7 +178,7 @@ http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
 #EXTINF:-1 tvg-id="mtv.no" tvg-logo="https://logos.xmltv.se/mtv.dk.png",MTV NO
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1608203187/canalmotor_logo.png" group-title="NORWAY",Canal Motor NO
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1608203187/canalmotor_logo.png" group-title="NORWAY",Canal Motor NO
 http://03.sf.bg.unistream.tv/test/canalmotor-hls/pl.m3u8?time=1462400376714
 
 #EXTINF:-1 tvg-id="motor.viasat.no" tvg-logo="https://logos.xmltv.se/motor.viasat.no.png",Viasat Motor NO
