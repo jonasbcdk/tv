@@ -79,11 +79,10 @@ http://iptvfree1.com:6969/live/232323/232323/1629.ts
 
 #EXTINF:-1 tvg-id="kanal4.dk" tvg-logo="http://logos.xmltv.se/kanal4.dk.png",Kanal 4
 http://94.126.0.132:4022/udp/239.255.5.60:1234
-# http://176.31.225.191:8081/nimble_live/Kanal4/playlist.m3u8
 # http://best-servers.xyz:8000/live/ugur/red/3596.ts
 
 #EXTINF:-1 tvg-id="kanal5.dk" tvg-logo="http://logos.xmltv.se/kanal5.dk.png",Kanal 5
-http://portal.geniptv.com:8080/live/RFGFZfglhU/QiFtilh7Cs/3878.ts
+
 
 #EXTINF:-1 tvg-id="6-eren.dk" tvg-logo="http://logos.xmltv.se/6-eren.dk.png",6eren
 http://iptvfree1.com:6969/live/232323/232323/2973.ts
@@ -96,20 +95,16 @@ http://b-dnordichlslive09-i.akamaihd.net/hls/live/223862-b/C9DKHD/master.m3u8
 http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/playlist.m3u8
 
 #EXTINF:-1 tvg-id="one.tv3sport.dk" tvg-logo="http://logowow.net/logos/8ye1oV31E.png",TV 3 Sport 1
-http://176.31.225.191:8081/live/tv3sport1/playlist.m3u8
-# http://94.126.0.132:4022/udp/239.255.5.7:1234
+http://94.126.0.132:4022/udp/239.255.5.7:1234
 # http://best-servers.xyz:8000/live/ugur/red/3605.ts
 
 #EXTINF:-1 tvg-id="two.tv3sport.dk" tvg-logo="http://logowow.net/logos/thumb-obPD0HS4z.png",TV 3 Sport 2
-http://176.31.225.191:8081/live/tv3sport2/playlist.m3u8
-# http://94.126.0.132:4022/udp/239.255.5.33:1234
-# http://iptvfree1.com:6969/live/232323/232323/2970.ts
+http://94.126.0.132:4022/udp/239.255.5.33:1234
+# http://best-servers.xyz:8000/live/ugur/red/3604.ts
 
 #EXTINF:-1 tvg-id="eurosport.dk" tvg-logo="http://logos.xmltv.se/eurosport.dk.png",Eurosport 1
-http://portal.geniptv.com:8080/live/RFGFZfglhU/QiFtilh7Cs/3874.ts
 
 #EXTINF:-1 tvg-id="eurosport.sbstv.dk" tvg-logo="http://logos.xmltv.se/eurosport.sbstv.dk.png",Eurosport 2
-http://portal.geniptv.com:8080/live/RFGFZfglhU/QiFtilh7Cs/3875.ts
 
 #EXTINF:-1 tvg-id="explorer.viasat.dk" tvg-logo="http://logos.xmltv.se/explorer.viasat.dk.png",Viasat Explore
 http://94.126.0.132:4022/udp/239.255.4.18:1234
@@ -129,10 +124,8 @@ http://94.126.0.132:4022/udp/239.255.5.30:1234
 #EXTINF:-1 tvg-id="wild.natgeo.dk" tvg-logo="http://logos.xmltv.se/wild.natgeo.dk.png",NAT GEO WILD
 
 #EXTINF:-1 tvg-id="discovery.dk" tvg-logo="http://logos.xmltv.se/discovery.dk.png",Discovery DK
-http://portal.geniptv.com:8080/live/RFGFZfglhU/QiFtilh7Cs/6106.ts
 
 #EXTINF:-1 tvg-id="investigation.discovery.dk" tvg-logo="http://logos.xmltv.se/investigation.discovery.dk.png",Discovery Investigation DK
-http://portal.geniptv.com:8080/live/RFGFZfglhU/QiFtilh7Cs/3872.ts
 
 #EXTINF:-1 tvg-id="natgeo.dk" tvg-logo="http://logos.xmltv.se/natgeo.dk.png",National Geographics DK
 http://94.126.0.132:4022/udp/239.255.4.10:1234
@@ -140,7 +133,7 @@ http://94.126.0.132:4022/udp/239.255.4.10:1234
 #EXTINF:-1 tvg-id="animalplanet.discovery.dk" tvg-logo="http://logos.xmltv.se/animalplanet.discovery.dk.png",Animal Planet DK
 
 #EXTINF:-1 tvg-id="tlc.discovery.dk" tvg-logo="http://logos.xmltv.se/tlc.discovery.dk.png",TLC DK
-http://portal.geniptv.com:8080/live/RFGFZfglhU/QiFtilh7Cs/3880.ts
+
 
 #EXTINF:-1 tvg-id="mtv.dk" tvg-logo="http://logos.xmltv.se/mtv.dk.png",MTV DK
 http://94.126.0.132:4022/udp/239.255.5.41:1234
@@ -152,12 +145,12 @@ http://94.126.0.132:4022/udp/239.255.5.27:1234
 http://94.126.0.132:4022/udp/239.255.5.47:1234
 
 #EXTINF:-1 tvg-id="nickelodeon.dk" tvg-logo="http://logos.xmltv.se/nickelodeon.dk.png",Nickelodeon
+http://best-servers.xyz:8000/live/ugur/red/3611.ts
 
 #EXTINF:-1 tvg-id="cartoonnetwork.dk" tvg-logo="http://logos.xmltv.se/cartoonnetwork.dk.png",CARTOON NETWORK
 
 #EXTINF:-1 tvg-id="disneychannel.dk" tvg-logo="http://logos.xmltv.se/disneychannel.dk.png",Disney Channel
-http://176.31.225.191:8081/nimble_live/DisneyChannel/playlist.m3u8
-# http://94.126.0.132:4022/udp/239.255.5.61:1234
+http://94.126.0.132:4022/udp/239.255.5.61:1234
 # http://iptvfree1.com:6969/live/232323/232323/2987.ts
 
 #EXTINF:-1 tvg-id="xd.disneychannel.dk" tvg-logo="http://logos.xmltv.se/xd.disneychannel.dk.png",Disney XD
@@ -254,7 +247,6 @@ http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW_4500k.m3u8
 # http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW_2000k.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/54/NFL-Network.png",NFL NETWORK
-http://portal.geniptv.com:8080/live/RFGFZfglhU/QiFtilh7Cs/556.ts
 
 #EXTINF:-1 tvg-logo="",EPSN
 
