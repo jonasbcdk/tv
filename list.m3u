@@ -22,9 +22,7 @@ http://dr05-lh.akamaihd.net/i/dr05_0@147058/master.m3u8?b=1400-10000
 http://tv2danmark-tv2nord-live.hls.adaptive.level3.net/tv2danmark/tv2nord/master3200kbps.m3u8
 
 #EXTINF:-1 tvg-id="news.tv2.dk" tvg-logo="http://logos.xmltv.se/news.tv2.dk.png",TV2 NEWS
-http://94.126.0.132:4022/udp/239.255.5.62:1234
-# http://iptvfree1.com:6969/live/232323/232323/2974.ts
-# http://tv2danmark-tv2news-live.hls.adaptive.level3.net/tv2danmark/tv2news/master3200kbps.m3u8
+http://tv2danmark-tv2news-live.hls.adaptive.level3.net/tv2danmark/tv2news/master3200kbps.m3u8
 
 #EXTINF:-1 tvg-id="fri.tv2.dk" tvg-logo="http://logos.xmltv.se/fri.tv2.dk.png",TV2 FRI
 http://tv2danmark-tv2fri-live.hls.adaptive.level3.net/tv2danmark/tv2fri/master3200kbps.m3u8
@@ -63,29 +61,26 @@ http://cdn-lt-live.tv2lorry.dk/dc-1/live/hls/p/2045321/e/0_5l7gjlbn/sd/10000/t/o
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="tv3.dk" tvg-logo="http://logos.xmltv.se/tv3.dk.png",TV 3
-http://94.126.0.132:4022/udp/239.255.4.6:1234
-# http://best-servers.xyz:8000/live/ugur/red/3609.ts
+http://82.137.27.223:2005/play/a004
+# http://94.126.0.132:4022/udp/239.255.4.6:1234
 
 #EXTINF:-1 tvg-id="tv3plus.dk" tvg-logo="http://logos.xmltv.se/tv3plus.dk.png",TV3+
 http://94.126.0.132:4022/udp/239.255.4.5:1234
-# http://iptvfree1.com:6969/live/232323/232323/1630.ts
 
 #EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="http://logos.xmltv.se/puls.tv3.dk.png",TV3 Puls
 http://94.126.0.132:4022/udp/239.255.4.34:1234
-# http://iptvfree1.com:6969/live/232323/232323/1635.ts
+# http://82.137.27.223:2002/play/a006
+# http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/9543.ts
 
 #EXTINF:-1 tvg-id="dk4.dk" tvg-logo="http://logos.xmltv.se/dk4.dk.png",DK4
-http://iptvfree1.com:6969/live/232323/232323/1629.ts
 
 #EXTINF:-1 tvg-id="kanal4.dk" tvg-logo="http://logos.xmltv.se/kanal4.dk.png",Kanal 4
-http://94.126.0.132:4022/udp/239.255.5.60:1234
-# http://best-servers.xyz:8000/live/ugur/red/3596.ts
+http://176.31.225.191:8081/nimble_live/Kanal4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kanal5.dk" tvg-logo="http://logos.xmltv.se/kanal5.dk.png",Kanal 5
-
+http://82.137.27.223:2003/play/a00b
 
 #EXTINF:-1 tvg-id="6-eren.dk" tvg-logo="http://logos.xmltv.se/6-eren.dk.png",6eren
-http://iptvfree1.com:6969/live/232323/232323/2973.ts
 # http://dnordichlslive04-i.akamaihd.net/hls/live/223840/6DKHD/master.m3u8
 
 #EXTINF:-1 tvg-id="canal9.dk" tvg-logo="http://logos.xmltv.se/canal9.dk.png",Canal 9
@@ -95,16 +90,16 @@ http://b-dnordichlslive09-i.akamaihd.net/hls/live/223862-b/C9DKHD/master.m3u8
 http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/playlist.m3u8
 
 #EXTINF:-1 tvg-id="one.tv3sport.dk" tvg-logo="http://logowow.net/logos/8ye1oV31E.png",TV 3 Sport 1
-http://94.126.0.132:4022/udp/239.255.5.7:1234
-# http://best-servers.xyz:8000/live/ugur/red/3605.ts
+http://176.31.225.191:8081/live/tv3sport1/playlist.m3u8
+# http://94.126.0.132:4022/udp/239.255.5.7:1234
 
 #EXTINF:-1 tvg-id="two.tv3sport.dk" tvg-logo="http://logowow.net/logos/thumb-obPD0HS4z.png",TV 3 Sport 2
 http://94.126.0.132:4022/udp/239.255.5.33:1234
-# http://best-servers.xyz:8000/live/ugur/red/3604.ts
 
 #EXTINF:-1 tvg-id="eurosport.dk" tvg-logo="http://logos.xmltv.se/eurosport.dk.png",Eurosport 1
 
 #EXTINF:-1 tvg-id="eurosport.sbstv.dk" tvg-logo="http://logos.xmltv.se/eurosport.sbstv.dk.png",Eurosport 2
+http://82.137.27.223:2003/play/a00c
 
 #EXTINF:-1 tvg-id="explorer.viasat.dk" tvg-logo="http://logos.xmltv.se/explorer.viasat.dk.png",Viasat Explore
 http://94.126.0.132:4022/udp/239.255.4.18:1234
@@ -136,7 +131,8 @@ http://94.126.0.132:4022/udp/239.255.4.10:1234
 
 
 #EXTINF:-1 tvg-id="mtv.dk" tvg-logo="http://logos.xmltv.se/mtv.dk.png",MTV DK
-http://94.126.0.132:4022/udp/239.255.5.41:1234
+http://82.137.27.223:2002/play/a007
+# http://94.126.0.132:4022/udp/239.255.5.41:1234
 
 #EXTINF:-1,Uptown TV HD
 http://94.126.0.132:4022/udp/239.255.5.27:1234
@@ -145,13 +141,13 @@ http://94.126.0.132:4022/udp/239.255.5.27:1234
 http://94.126.0.132:4022/udp/239.255.5.47:1234
 
 #EXTINF:-1 tvg-id="nickelodeon.dk" tvg-logo="http://logos.xmltv.se/nickelodeon.dk.png",Nickelodeon
-http://best-servers.xyz:8000/live/ugur/red/3611.ts
+http://82.137.27.223:2003/play/a009
 
 #EXTINF:-1 tvg-id="cartoonnetwork.dk" tvg-logo="http://logos.xmltv.se/cartoonnetwork.dk.png",CARTOON NETWORK
 
 #EXTINF:-1 tvg-id="disneychannel.dk" tvg-logo="http://logos.xmltv.se/disneychannel.dk.png",Disney Channel
-http://94.126.0.132:4022/udp/239.255.5.61:1234
-# http://iptvfree1.com:6969/live/232323/232323/2987.ts
+http://176.31.225.191:8081/nimble_live/DisneyChannel/playlist.m3u8
+# http://94.126.0.132:4022/udp/239.255.5.61:1234
 
 #EXTINF:-1 tvg-id="xd.disneychannel.dk" tvg-logo="http://logos.xmltv.se/xd.disneychannel.dk.png",Disney XD
 
