@@ -68,14 +68,14 @@ http://82.137.27.223:2005/play/a004
 http://94.126.0.132:4022/udp/239.255.4.5:1234
 
 #EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="http://logos.xmltv.se/puls.tv3.dk.png",TV3 Puls
-http://94.126.0.132:4022/udp/239.255.4.34:1234
-# http://82.137.27.223:2002/play/a006
-# http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/9543.ts
+http://82.137.27.223:2002/play/a006
+# http://94.126.0.132:4022/udp/239.255.4.34:1234
 
 #EXTINF:-1 tvg-id="dk4.dk" tvg-logo="http://logos.xmltv.se/dk4.dk.png",DK4
 
 #EXTINF:-1 tvg-id="kanal4.dk" tvg-logo="http://logos.xmltv.se/kanal4.dk.png",Kanal 4
 http://176.31.225.191:8081/nimble_live/Kanal4/playlist.m3u8
+#http://82.137.27.223:2007/play/a006
 
 #EXTINF:-1 tvg-id="kanal5.dk" tvg-logo="http://logos.xmltv.se/kanal5.dk.png",Kanal 5
 http://82.137.27.223:2003/play/a00b
@@ -115,6 +115,7 @@ http://94.126.0.132:4022/udp/239.255.5.32:1234
 
 #EXTINF:-1 tvg-id="action.film.viasat.dk" tvg-logo="http://logos.xmltv.se/action.film.viasat.dk.png",Viasat Film Action
 http://94.126.0.132:4022/udp/239.255.5.30:1234
+# http://82.137.27.223:2005/play/a007
 
 #EXTINF:-1 tvg-id="wild.natgeo.dk" tvg-logo="http://logos.xmltv.se/wild.natgeo.dk.png",NAT GEO WILD
 
@@ -122,7 +123,7 @@ http://94.126.0.132:4022/udp/239.255.5.30:1234
 
 #EXTINF:-1 tvg-id="investigation.discovery.dk" tvg-logo="http://logos.xmltv.se/investigation.discovery.dk.png",Discovery Investigation DK
 
-#EXTINF:-1 tvg-id="natgeo.dk" tvg-logo="http://logos.xmltv.se/natgeo.dk.png",National Geographics DK
+#EXTINF:-1 tvg-id="natgeo.dk" tvg-logo="http://logos.xmltv.se/natgeo.dk.png",National Geographic DK
 http://94.126.0.132:4022/udp/239.255.4.10:1234
 
 #EXTINF:-1 tvg-id="animalplanet.discovery.dk" tvg-logo="http://logos.xmltv.se/animalplanet.discovery.dk.png",Animal Planet DK
@@ -142,6 +143,7 @@ http://94.126.0.132:4022/udp/239.255.5.47:1234
 
 #EXTINF:-1 tvg-id="nickelodeon.dk" tvg-logo="http://logos.xmltv.se/nickelodeon.dk.png",Nickelodeon
 http://82.137.27.223:2003/play/a009
+# http://94.126.0.132:4022/udp/239.255.4.7:1234
 
 #EXTINF:-1 tvg-id="cartoonnetwork.dk" tvg-logo="http://logos.xmltv.se/cartoonnetwork.dk.png",CARTOON NETWORK
 
@@ -150,6 +152,12 @@ http://176.31.225.191:8081/nimble_live/DisneyChannel/playlist.m3u8
 # http://94.126.0.132:4022/udp/239.255.5.61:1234
 
 #EXTINF:-1 tvg-id="xd.disneychannel.dk" tvg-logo="http://logos.xmltv.se/xd.disneychannel.dk.png",Disney XD
+
+#EXTINF:-1 tvg-id="junior.disneychannel.dk" tvg-logo="http://logos.xmltv.se/junior.disneychannel.dk.png",Disney Junior
+http://82.137.27.223:2005/play/a005
+
+#EXTINF:-1 tvg-id="boomerangtv.dk" tvg-logo="http://logos.xmltv.se/boomerangtv.dk.png",Boomerang
+http://82.137.27.223:2005/play/a00b
 
 
 #EXTINF:-1 group-title="NO" tvg-id="tvnorge.no" tvg-logo="http://logos.xmltv.se/tvnorge.no.png",N Norge
@@ -171,6 +179,7 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 http://03.sf.bg.unistream.tv/test/canalmotor-hls/pl.m3u8?time=1462400376714
 
 #EXTINF:-1 tvg-id="motor.viasat.no" tvg-logo="http://logos.xmltv.se/motor.viasat.no.png",Viasat Motor NO
+http://82.137.27.223:2007/play/a005
 
 #EXTINF:-1 tvg-id="nature.viasat.no" tvg-logo="http://logos.xmltv.se/nature.viasat.dk.png",Viasat Nature NO
 
