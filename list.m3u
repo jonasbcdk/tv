@@ -61,6 +61,7 @@ http://cdn-lt-live.tv2lorry.dk/dc-1/live/hls/p/2045321/e/0_5l7gjlbn/sd/10000/t/o
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="tv3.dk" tvg-logo="http://logos.xmltv.se/tv3.dk.png",TV 3
+http://ip.cs4ip.com:8000/live/frank/frank/4300.ts
 # http://94.126.0.132:4022/udp/239.255.4.6:1234
 # http://82.137.27.223:2005/play/a004
 
@@ -72,6 +73,7 @@ http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 # http://82.137.27.223:2002/play/a006
 
 #EXTINF:-1 tvg-id="dk4.dk" tvg-logo="http://logos.xmltv.se/dk4.dk.png",DK4
+http://ip.cs4ip.com:8000/live/frank/frank/4308.ts
 
 #EXTINF:-1 tvg-id="kanal4.dk" tvg-logo="http://logos.xmltv.se/kanal4.dk.png",Kanal 4
 http://176.31.225.191:8081/nimble_live/Kanal4/playlist.m3u8
@@ -94,6 +96,7 @@ http://176.31.225.191:8081/live/tv3sport1/playlist.m3u8
 # http://94.126.0.132:4022/udp/239.255.5.7:1234
 
 #EXTINF:-1 tvg-id="two.tv3sport.dk" tvg-logo="http://logowow.net/logos/thumb-obPD0HS4z.png",TV 3 Sport 2
+http://94.126.0.132:4022/udp/239.255.5.33:1234
 # http://94.126.0.132:4022/udp/239.255.5.33:1234
 
 #EXTINF:-1 tvg-id="eurosport.dk" tvg-logo="http://logos.xmltv.se/eurosport.dk.png",Eurosport 1
