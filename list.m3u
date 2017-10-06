@@ -61,26 +61,23 @@ http://cdn-lt-live.tv2lorry.dk/dc-1/live/hls/p/2045321/e/0_5l7gjlbn/sd/10000/t/o
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="tv3.dk" tvg-logo="http://logos.xmltv.se/tv3.dk.png",TV 3
-http://ip.cs4ip.com:8000/live/frank/frank/4300.ts
-# http://94.126.0.132:4022/udp/239.255.4.6:1234
-# http://82.137.27.223:2005/play/a004
+http://82.137.27.223:2005/play/a004
 
 #EXTINF:-1 tvg-id="tv3plus.dk" tvg-logo="http://logos.xmltv.se/tv3plus.dk.png",TV3+
 # http://94.126.0.132:4022/udp/239.255.4.5:1234
 
 #EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="http://logos.xmltv.se/puls.tv3.dk.png",TV3 Puls
-# http://94.126.0.132:4022/udp/239.255.4.34:1234
-# http://82.137.27.223:2002/play/a006
+http://82.137.27.223:2002/play/a006
 
 #EXTINF:-1 tvg-id="dk4.dk" tvg-logo="http://logos.xmltv.se/dk4.dk.png",DK4
-http://ip.cs4ip.com:8000/live/frank/frank/4308.ts
+# http://ip.cs4ip.com:8000/live/frank/frank/4308.ts
 
 #EXTINF:-1 tvg-id="kanal4.dk" tvg-logo="http://logos.xmltv.se/kanal4.dk.png",Kanal 4
-http://176.31.225.191:8081/nimble_live/Kanal4/playlist.m3u8
-# http://82.137.27.223:2007/play/a006
+http://82.137.27.223:2007/play/a006
+# http://176.31.225.191:8081/nimble_live/Kanal4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kanal5.dk" tvg-logo="http://logos.xmltv.se/kanal5.dk.png",Kanal 5
-# http://82.137.27.223:2003/play/a00b
+http://82.137.27.223:2003/play/a00b
 
 #EXTINF:-1 tvg-id="6-eren.dk" tvg-logo="http://logos.xmltv.se/6-eren.dk.png",6eren
 # http://dnordichlslive04-i.akamaihd.net/hls/live/223840/6DKHD/master.m3u8
@@ -92,17 +89,16 @@ http://b-dnordichlslive09-i.akamaihd.net/hls/live/223862-b/C9DKHD/master.m3u8
 http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/playlist.m3u8
 
 #EXTINF:-1 tvg-id="one.tv3sport.dk" tvg-logo="http://logowow.net/logos/8ye1oV31E.png",TV 3 Sport 1
-http://176.31.225.191:8081/live/tv3sport1/playlist.m3u8
+# http://176.31.225.191:8081/live/tv3sport1/playlist.m3u8
 # http://94.126.0.132:4022/udp/239.255.5.7:1234
 
 #EXTINF:-1 tvg-id="two.tv3sport.dk" tvg-logo="http://logowow.net/logos/thumb-obPD0HS4z.png",TV 3 Sport 2
-http://94.126.0.132:4022/udp/239.255.5.33:1234
 # http://94.126.0.132:4022/udp/239.255.5.33:1234
 
 #EXTINF:-1 tvg-id="eurosport.dk" tvg-logo="http://logos.xmltv.se/eurosport.dk.png",Eurosport 1
 
 #EXTINF:-1 tvg-id="eurosport.sbstv.dk" tvg-logo="http://logos.xmltv.se/eurosport.sbstv.dk.png",Eurosport 2
-# http://82.137.27.223:2003/play/a00c
+http://82.137.27.223:2003/play/a00c
 
 #EXTINF:-1 tvg-id="explorer.viasat.dk" tvg-logo="http://logos.xmltv.se/explorer.viasat.dk.png",Viasat Explore
 # http://94.126.0.132:4022/udp/239.255.4.18:1234
@@ -117,8 +113,7 @@ http://94.126.0.132:4022/udp/239.255.5.33:1234
 # http://94.126.0.132:4022/udp/239.255.5.32:1234
 
 #EXTINF:-1 tvg-id="action.film.viasat.dk" tvg-logo="http://logos.xmltv.se/action.film.viasat.dk.png",Viasat Film Action
-# http://94.126.0.132:4022/udp/239.255.5.30:1234
-# http://82.137.27.223:2005/play/a007
+http://82.137.27.223:2005/play/a007
 
 #EXTINF:-1 tvg-id="wild.natgeo.dk" tvg-logo="http://logos.xmltv.se/wild.natgeo.dk.png",NAT GEO WILD
 
@@ -133,9 +128,8 @@ http://94.126.0.132:4022/udp/239.255.5.33:1234
 
 #EXTINF:-1 tvg-id="tlc.discovery.dk" tvg-logo="http://logos.xmltv.se/tlc.discovery.dk.png",TLC DK
 
-
 #EXTINF:-1 tvg-id="mtv.dk" tvg-logo="http://logos.xmltv.se/mtv.dk.png",MTV DK
-# http://82.137.27.223:2002/play/a007
+http://82.137.27.223:2002/play/a007
 # http://94.126.0.132:4022/udp/239.255.5.41:1234
 
 #EXTINF:-1,Uptown TV HD
@@ -157,7 +151,7 @@ http://176.31.225.191:8081/nimble_live/DisneyChannel/playlist.m3u8
 #EXTINF:-1 tvg-id="xd.disneychannel.dk" tvg-logo="http://logos.xmltv.se/xd.disneychannel.dk.png",Disney XD
 
 #EXTINF:-1 tvg-id="junior.disneychannel.dk" tvg-logo="http://logos.xmltv.se/junior.disneychannel.dk.png",Disney Junior
-# http://82.137.27.223:2005/play/a005
+http://82.137.27.223:2005/play/a005
 
 #EXTINF:-1 tvg-id="boomerangtv.dk" tvg-logo="http://logos.xmltv.se/boomerangtv.dk.png",Boomerang
 http://82.137.27.223:2005/play/a00b
@@ -171,9 +165,6 @@ http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fatstone.tv" tvg-name="" tvg-logo="http://i.vimeocdn.com/video/438638085_780x439.jpg" group-title="NORWAY",Fatstone TV NO
 http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
-
-#EXTINF:-1 tvg-id="eurosport.sbsdiscovery.no" tvg-logo="http://logos.xmltv.se/eurosport.sbsdiscovery.no.png",Eurosport NO
-# http://dnordichlslive09-i.akamaihd.net/hls/live/226880/ESNOHD/master.m3u8
 
 #EXTINF:-1 tvg-id="mtv.no" tvg-logo="https://logos.xmltv.se/mtv.dk.png",MTV NO
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
@@ -191,11 +182,6 @@ http://82.137.27.223:2007/play/a005
 #EXTINF:-1 tvg-id="discovery.no" tvg-logo="http://logos.xmltv.se/discovery.dk.png",Discovery NO
 
 
-#EXTINF:-1 tvg-id="discoverychannel.se" group-title="SE" tvg-logo="http://logos.xmltv.se/discovery.dk.png",Discovery SE
-# http://dnordichlslive04-i.akamaihd.net/hls/live/223842/DSWSD/master.m3u8
-
-#EXTINF:-1 tvg-id="investigation.discoverychannel.se" tvg-logo="http://logos.xmltv.se/investigation.discoverychannel.se.png",Discovery Investigation SE
-
 #EXTINF:-1 group-title="SE" tvg-logo="http://logos.xmltv.se/tv4.se.png",TV4 Nyheterna SE
 http://tv4events3-lh.akamaihd.net/i/EXTRAEVENT14_1@324065/master.m3u8
 
@@ -209,7 +195,7 @@ http://tv4events3-lh.akamaihd.net/i/EXTRAEVENT14_1@324065/master.m3u8
 http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:kanal10sverige/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv11.sbstv.se" group-title="SE" tvg-logo="http://logos.xmltv.se/tv11.sbstv.se.png",Kanal 11 SE
-# http://dnordichlslive05-i.akamaihd.net/hls/live/223851/K11SWHD/master.m3u8
+http://82.137.27.223:2001/play/a006
 
 #EXTINF:-1 tvg-id="fjorton.tv" group-title="SE" tvg-logo="http://onefour.tv/images/presswebb_files/epg_logo_digitalt_hdAdd.png",Kanal 14 SE
 http://155.4.160.181:1935/fjwebb/live/playlist.m3u8
@@ -251,14 +237,10 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
 
 
 #EXTINF:-1 group-title="US" tvg-logo="http://static.nfl.com/static/content/static/img/ctv/anchor-images/nfl-now.png",NFL NOW
-http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW_4500k.m3u8
-# http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW_2000k.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/54/NFL-Network.png",NFL NETWORK
-http://best-servers.xyz:8000/live/ugur/red/3534.ts
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ye5S2CL.png" group-title="USA",ESPN
-http://best-servers.xyz:8000/live/ugur/red/3522.ts
 
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ee/espn_2.png" group-title="USA",ESPN 2
 
