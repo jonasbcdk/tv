@@ -31,7 +31,7 @@ http://tv2danmark-tv2fri-live.hls.adaptive.level3.net/tv2danmark/tv2fri/master32
 http://tv2danmark-tv2zulu-live.hls.adaptive.level3.net/tv2danmark/tv2zulu/master3200kbps.m3u8
 
 #EXTINF:-1 tvg-id="sport.tv2.dk" tvg-logo="http://priser.tv2.dk/media/1459/sport_p_png.png",TV2 SPORT
-http://tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/master3200kbps.m3u8
+# http://tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/master3200kbps.m3u8
 
 #EXTINF:-1 tvg-id="charlie.tv2.dk" tvg-logo="http://logos.xmltv.se/charlie.tv2.dk.png",TV2 Charlie
 http://tv2danmark-tv2charlie-live.hls.adaptive.level3.net/tv2danmark/tv2charlie/master3200kbps.m3u8
