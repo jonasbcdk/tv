@@ -31,7 +31,6 @@ http://tv2danmark-tv2fri-live.hls.adaptive.level3.net/tv2danmark/tv2fri/master32
 http://tv2danmark-tv2zulu-live.hls.adaptive.level3.net/tv2danmark/tv2zulu/master3200kbps.m3u8
 
 #EXTINF:-1 tvg-id="sport.tv2.dk" tvg-logo="http://priser.tv2.dk/media/1459/sport_p_png.png",TV2 SPORT
-http://194.88.105.20:8080/live/danilo/danilo/2904.ts
 # http://tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/master3200kbps.m3u8
 
 #EXTINF:-1 tvg-id="charlie.tv2.dk" tvg-logo="http://logos.xmltv.se/charlie.tv2.dk.png",TV2 Charlie
@@ -47,7 +46,8 @@ http://cdn-lt-live.tv2oj.dk/dc-1/live/hls/p/2102081/e/0_x4p3licd/sd/10000/t/-G5t
 http://cdn-lt-live.tvmidtvest.dk/dc-1/live/hls/p/1953371/e/0_ghzg9q0q/sd/10000/t/i288LRzPhejpahOfggbdtw/index-s32.m3u8
 
 #EXTINF:-1 tvg-id="tveast.dk" tvg-logo="http://logos.xmltv.se/tveast.dk.png",TV Øst
-http://cdn-lt-live.tveast.dk/dc-0/live/hls/p/1953381/e/0_zphj9q61/sd/10000/t/5V0e8WiEDy1T0USo0Guueg/index-s32.m3u8
+http://cdn-lt-live.tveast.dk/dc-0/live/hls/p/1953381/e/0_zphj9q61/t/bvgwwfCgkC73kKZD7wBe4g/index-s32.m3u8
+# http://cdn-lt-live.tveast.dk/dc-0/live/hls/p/1953381/e/0_zphj9q61/sd/10000/t/5V0e8WiEDy1T0USo0Guueg/index-s32.m3u8
 
 #EXTINF:-1 tvg-id="tvsyd.dk" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/a/a7/TV_Syd.png",TV Syd
 http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/sd/10000/t/327RYXxPUq2u4xgiUD75gw/index-s32.m3u8
@@ -62,22 +62,16 @@ http://cdn-lt-live.tv2lorry.dk/dc-1/live/hls/p/2045321/e/0_5l7gjlbn/sd/10000/t/o
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="tv3.dk" tvg-logo="http://logos.xmltv.se/tv3.dk.png",TV 3
-http://194.88.105.20:8080/live/danilo/danilo/3887.ts
 
 #EXTINF:-1 tvg-id="tv3plus.dk" tvg-logo="http://logos.xmltv.se/tv3plus.dk.png",TV3+
-http://194.88.105.20:8080/live/danilo/danilo/7272.ts
 
 #EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="http://logos.xmltv.se/puls.tv3.dk.png",TV3 Puls
-# http://82.137.27.223:2002/play/a006
 
 #EXTINF:-1 tvg-id="dk4.dk" tvg-logo="http://logos.xmltv.se/dk4.dk.png",DK4
-http://194.88.105.20:8080/live/danilo/danilo/2908.ts
 
 #EXTINF:-1 tvg-id="kanal4.dk" tvg-logo="http://logos.xmltv.se/kanal4.dk.png",Kanal 4
-http://194.88.105.20:8080/live/danilo/danilo/3877.ts
 
 #EXTINF:-1 tvg-id="kanal5.dk" tvg-logo="http://logos.xmltv.se/kanal5.dk.png",Kanal 5
-http://194.88.105.20:8080/live/danilo/danilo/7288.ts
 
 #EXTINF:-1 tvg-id="6-eren.dk" tvg-logo="http://logos.xmltv.se/6-eren.dk.png",6eren
 # http://dnordichlslive04-i.akamaihd.net/hls/live/223840/6DKHD/master.m3u8
@@ -89,16 +83,12 @@ http://b-dnordichlslive09-i.akamaihd.net/hls/live/223862-b/C9DKHD/master.m3u8
 http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/playlist.m3u8
 
 #EXTINF:-1 tvg-id="one.tv3sport.dk" tvg-logo="http://logowow.net/logos/8ye1oV31E.png",TV 3 Sport 1
-http://194.88.105.20:8080/live/danilo/danilo/2915.ts
 
 #EXTINF:-1 tvg-id="two.tv3sport.dk" tvg-logo="http://logowow.net/logos/thumb-obPD0HS4z.png",TV 3 Sport 2
-http://194.88.105.20:8080/live/danilo/danilo/2914.ts
 
 #EXTINF:-1 tvg-id="eurosport.dk" tvg-logo="http://logos.xmltv.se/eurosport.dk.png",Eurosport 1
-http://194.88.105.20:8080/live/danilo/danilo/3874.ts
 
 #EXTINF:-1 tvg-id="eurosport.sbstv.dk" tvg-logo="http://logos.xmltv.se/eurosport.sbstv.dk.png",Eurosport 2
-http://194.88.105.20:8080/live/danilo/danilo/3875.ts
 
 #EXTINF:-1 tvg-id="explorer.viasat.dk" tvg-logo="http://logos.xmltv.se/explorer.viasat.dk.png",Viasat Explore
 # http://94.126.0.132:4022/udp/239.255.4.18:1234
@@ -118,21 +108,16 @@ http://194.88.105.20:8080/live/danilo/danilo/3875.ts
 #EXTINF:-1 tvg-id="wild.natgeo.dk" tvg-logo="http://logos.xmltv.se/wild.natgeo.dk.png",NAT GEO WILD
 
 #EXTINF:-1 tvg-id="discovery.dk" tvg-logo="http://logos.xmltv.se/discovery.dk.png",Discovery DK
-http://194.88.105.20:8080/live/danilo/danilo/6106.ts
 
 #EXTINF:-1 tvg-id="investigation.discovery.dk" tvg-logo="http://logos.xmltv.se/investigation.discovery.dk.png",Discovery Investigation DK
 
 #EXTINF:-1 tvg-id="natgeo.dk" tvg-logo="http://logos.xmltv.se/natgeo.dk.png",National Geographic DK
-http://194.88.105.20:8080/live/danilo/danilo/7251.ts
 
 #EXTINF:-1 tvg-id="animalplanet.discovery.dk" tvg-logo="http://logos.xmltv.se/animalplanet.discovery.dk.png",Animal Planet DK
-http://194.88.105.20:8080/live/danilo/danilo/7253.ts
 
 #EXTINF:-1 tvg-id="tlc.discovery.dk" tvg-logo="http://logos.xmltv.se/tlc.discovery.dk.png",TLC DK
-http://194.88.105.20:8080/live/danilo/danilo/3880.ts
 
 #EXTINF:-1 tvg-id="mtv.dk" tvg-logo="http://logos.xmltv.se/mtv.dk.png",MTV DK
-http://194.88.105.20:8080/live/danilo/danilo/2913.ts
 
 #EXTINF:-1,Uptown TV HD
 # http://94.126.0.132:4022/udp/239.255.5.27:1234
@@ -145,20 +130,18 @@ http://194.88.105.20:8080/live/danilo/danilo/2913.ts
 # http://94.126.0.132:4022/udp/239.255.4.7:1234
 
 #EXTINF:-1 tvg-id="cartoonnetwork.dk" tvg-logo="http://logos.xmltv.se/cartoonnetwork.dk.png",CARTOON NETWORK
-http://194.88.105.20:8080/live/danilo/danilo/3870.ts
 
 #EXTINF:-1 tvg-id="disneychannel.dk" tvg-logo="http://logos.xmltv.se/disneychannel.dk.png",Disney Channel
-http://176.31.225.191:8081/nimble_live/DisneyChannel/playlist.m3u8
+# http://176.31.225.191:8081/nimble_live/DisneyChannel/playlist.m3u8
 # http://94.126.0.132:4022/udp/239.255.5.61:1234
 
 #EXTINF:-1 tvg-id="xd.disneychannel.dk" tvg-logo="http://logos.xmltv.se/xd.disneychannel.dk.png",Disney XD
-http://194.88.105.20:8080/live/danilo/danilo/6107.ts
 
 #EXTINF:-1 tvg-id="junior.disneychannel.dk" tvg-logo="http://logos.xmltv.se/junior.disneychannel.dk.png",Disney Junior
-http://82.137.27.223:2005/play/a005
+# http://82.137.27.223:2005/play/a005
 
 #EXTINF:-1 tvg-id="boomerangtv.dk" tvg-logo="http://logos.xmltv.se/boomerangtv.dk.png",Boomerang
-http://82.137.27.223:2005/play/a00b
+# http://82.137.27.223:2005/play/a00b
 
 
 #EXTINF:-1 group-title="NO" tvg-id="tvnorge.no" tvg-logo="http://logos.xmltv.se/tvnorge.no.png",N Norge
