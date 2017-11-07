@@ -120,28 +120,20 @@ http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/playlist.m
 #EXTINF:-1 tvg-id="mtv.dk" tvg-logo="http://logos.xmltv.se/mtv.dk.png",MTV DK
 
 #EXTINF:-1,Uptown TV HD
-# http://94.126.0.132:4022/udp/239.255.5.27:1234
 
 #EXTINF:-1 tvg-id="comedycentral.dk" tvg-logo="http://logos.xmltv.se/comedycentral.dk.png",Comedy Central
-# http://94.126.0.132:4022/udp/239.255.5.47:1234
 
 #EXTINF:-1 tvg-id="nickelodeon.dk" tvg-logo="http://logos.xmltv.se/nickelodeon.dk.png",Nickelodeon
-# http://82.137.27.223:2003/play/a009
-# http://94.126.0.132:4022/udp/239.255.4.7:1234
 
 #EXTINF:-1 tvg-id="cartoonnetwork.dk" tvg-logo="http://logos.xmltv.se/cartoonnetwork.dk.png",CARTOON NETWORK
 
 #EXTINF:-1 tvg-id="disneychannel.dk" tvg-logo="http://logos.xmltv.se/disneychannel.dk.png",Disney Channel
-# http://176.31.225.191:8081/nimble_live/DisneyChannel/playlist.m3u8
-# http://94.126.0.132:4022/udp/239.255.5.61:1234
 
 #EXTINF:-1 tvg-id="xd.disneychannel.dk" tvg-logo="http://logos.xmltv.se/xd.disneychannel.dk.png",Disney XD
 
 #EXTINF:-1 tvg-id="junior.disneychannel.dk" tvg-logo="http://logos.xmltv.se/junior.disneychannel.dk.png",Disney Junior
-# http://82.137.27.223:2005/play/a005
 
 #EXTINF:-1 tvg-id="boomerangtv.dk" tvg-logo="http://logos.xmltv.se/boomerangtv.dk.png",Boomerang
-# http://82.137.27.223:2005/play/a00b
 
 
 #EXTINF:-1 group-title="NO" tvg-id="tvnorge.no" tvg-logo="http://logos.xmltv.se/tvnorge.no.png",N Norge
@@ -160,7 +152,6 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 http://03.sf.bg.unistream.tv/test/canalmotor-hls/pl.m3u8?time=1462400376714
 
 #EXTINF:-1 tvg-id="motor.viasat.no" tvg-logo="http://logos.xmltv.se/motor.viasat.no.png",Viasat Motor NO
-http://82.137.27.223:2007/play/a005
 
 #EXTINF:-1 tvg-id="nature.viasat.no" tvg-logo="http://logos.xmltv.se/nature.viasat.dk.png",Viasat Nature NO
 
@@ -182,23 +173,14 @@ http://tv4events3-lh.akamaihd.net/i/EXTRAEVENT14_1@324065/master.m3u8
 http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:kanal10sverige/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv11.sbstv.se" group-title="SE" tvg-logo="http://logos.xmltv.se/tv11.sbstv.se.png",Kanal 11 SE
-http://82.137.27.223:2001/play/a006
 
 #EXTINF:-1 tvg-id="fjorton.tv" group-title="SE" tvg-logo="http://onefour.tv/images/presswebb_files/epg_logo_digitalt_hdAdd.png",Kanal 14 SE
 http://155.4.160.181:1935/fjwebb/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="hd.tlcsverige.se" group-title="SE" tvg-logo="http://logos.xmltv.se/tlc.discovery.dk.png",TLC SE
-# http://dnordichlslive07-i.akamaihd.net/hls/live/223858/TLCSWSD/master.m3u8
-
-#EXTINF:-1 tvg-id="sport.viasat.se" group-title="SE" tvg-logo="http://new.static.tv.nu/16958245",Viasat Sport Premium SE
-
-
 
 #EXTINF:-1 group-title="UK" tvg-id="bbcworldnews.com" tvg-logo="http://logos.xmltv.se/bbcworldnews.com.png",BBC World News
 # http://ott1.odessa.tv:7321/index.php?channel=36&amp;key_ott=5f7690fd0bd330afafb91f331adc46dd
 
 #EXTINF:-1 tvg-id="euronews.com" tvg-logo="http://logos.xmltv.se/euronews.com.png",Euronews
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
 
 #EXTINF:-1 tvg-logo="http://logos.xmltv.se/tlc.discovery.dk.png",TLC Europe
 
@@ -231,9 +213,6 @@ https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ye5S2CL.png" group-title="USA",ESPN
 
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ee/espn_2.png" group-title="USA",ESPN 2
-
-#EXTINF:-1 tvg-logo="",MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
 
 #EXTINF:-1 tvg-id="ABC-News24" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png",ABC News
@@ -270,25 +249,25 @@ http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3
 
 
 #EXTINF:-1 group-title="US College Sport" tvg-logo="http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 National
-http://xrxs.net/video/live-p12netw-4728.m3u8
+# http://xrxs.net/video/live-p12netw-4728.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 Arizona
-http://xrxs.net/video/live-p12ariz-4728.m3u8
+# http://xrxs.net/video/live-p12ariz-4728.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 Bay Area
-http://goo.gl/gHG3ty
+# http://goo.gl/gHG3ty
 
 #EXTINF:-1 tvg-logo="http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 Los Angeles
-http://goo.gl/c1zkBg
+# http://goo.gl/c1zkBg
 
 #EXTINF:-1 tvg-logo="http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 Mountain
-http://goo.gl/lSyVT3
+# http://goo.gl/lSyVT3
 
 #EXTINF:-1 tvg-logo="http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 Oregon
-http://goo.gl/eRhOHd
+# http://goo.gl/eRhOHd
 
 #EXTINF:-1 tvg-logo="http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 Washington
-http://goo.gl/RtRjJM
+# http://goo.gl/RtRjJM
 
 #EXTINF:-1 tvg-logo="https://danishbits.org/static/bitbucket/users/1484636788.2379.png" group-title="Diverse",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
@@ -346,6 +325,3 @@ http://drradio2-lh.akamaihd.net/i/p8jazz_9@143524/master.m3u8
 
 #EXTINF:-1,DR Nyheder
 http://drradio2-lh.akamaihd.net/i/drnyheder_9@143532/master.m3u8
-
-
-
