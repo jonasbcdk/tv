@@ -1,22 +1,22 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="dr1.dr.dk" group-title="DK" tvg-logo="http://logos.xmltv.se/dr1.dr.dk.png",DR1
-http://dr01-lh.akamaihd.net/i/dr01_0@147054/master.m3u8?b=1400-10000
+http://dr01-lh.akamaihd.net/i/live/dr01_0@147054/master.m3u8?b=1700-10000
 
 #EXTINF:-1 tvg-id="dr2.dr.dk" tvg-name="DR2" tvg-logo="http://logos.xmltv.se/dr2.dr.dk.png",DR2
-http://dr02-lh.akamaihd.net/i/dr02_0@147055/master.m3u8?b=1400-10000
+http://dr02-lh.akamaihd.net/i/live/dr02_0@147055/master.m3u8?b=1700-10000
 
 #EXTINF:-1 tvg-id="dr3.dr.dk" tvg-logo="http://logos.xmltv.se/dr3.dr.dk.png",DR3
-http://dr03-lh.akamaihd.net/i/dr03_0@147056/master.m3u8?b=1400-10000
+http://dr03-lh.akamaihd.net/i/live/dr03_0@147056/master.m3u8?b=1700-10000
 
 #EXTINF:-1 tvg-id="k.dr.dk" tvg-logo="http://logos.xmltv.se/k.dr.dk.png",DR K
-http://dr04-lh.akamaihd.net/i/dr04_0@147057/master.m3u8?b=1400-10000
+http://dr04-lh.akamaihd.net/i/live/dr04_0@147057/master.m3u8?b=1700-10000
 
 #EXTINF:-1 tvg-id="ultra.dr.dk" tvg-logo="http://logos.xmltv.se/ultra.dr.dk.png",DR ULTRA
-http://dr06-lh.akamaihd.net/i/dr06_0@147059/master.m3u8?b=1400-10000
+http://dr06-lh.akamaihd.net/i/live/dr06_0@147059/master.m3u8?b=1700-10000
 
 #EXTINF:-1 tvg-id="ramasjang.dr.dk" tvg-logo="http://logos.xmltv.se/ramasjang.dr.dk.png",DR RAMASJANG
-http://dr05-lh.akamaihd.net/i/dr05_0@147058/master.m3u8?b=1400-10000
+http://dr05-lh.akamaihd.net/i/live/dr05_0@147058/master.m3u8?b=1700-10000
 
 #EXTINF:-1 tvg-id="tv2.dk" tvg-logo="http://logos.xmltv.se/tv2.dk.png",TV2
 http://tv2danmark-tv2nord-live.hls.adaptive.level3.net/tv2danmark/tv2nord/master3200kbps.m3u8
@@ -253,7 +253,7 @@ http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 # http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://danishbits.org/static/bitbucket/users/1485603730.4372.png",HUNTING CHANNEL
-http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
+# http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DISC" tvg-logo="https://logos.xmltv.se/discovery.dk.png",Discovery US
 
@@ -294,17 +294,9 @@ http://goo.gl/RtRjJM
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 group-title="Musik" tvg-id="rocks.mtv.se" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/78/MTV_Rocks_2011.svg",MTV Rocks
 
-#EXTINF:-1 tvg-id="MTVM",MTV Music
-
-#EXTINF:-1 tvg-id="MTVD" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d7/MTV_Dance_2011.svg",MTV Dance
-
-#EXTINF:-1 tvg-id="MTVH" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/1d/267px-MTV_Hits_2010.svg-1-.png",MTV Hits
-
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/87/Mtv_base_2011.png",MTV Base
-
-#EXTINF:-1 tvg-logo="https://logos.xmltv.se/vh1.eu.png",VH1
+#EXTINF:-1 group-title="Musik",DR P3 webcam
+http://drevent-lh.akamaihd.net/i/p3teradeck_1@75855/master.m3u8
 
 #EXTINF:-1, NRJ Hits 
 http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
@@ -326,4 +318,34 @@ rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Logo_virgin_radio_tv.png",Virgin Radio TV
 http://wow01.105.net/live/virgin1/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="Radio",DR P1
+http://drradio1-lh.akamaihd.net/i/p1_9@143503/master.m3u8
+
+#EXTINF:-1,DR P2
+http://drradio2-lh.akamaihd.net/i/p2_9@143504/master.m3u8
+
+#EXTINF:-1,DR P3
+http://drradio3-lh.akamaihd.net/i/p3_9@143506/master.m3u8
+
+#EXTINF:-1,DR P4
+http://drradio2-lh.akamaihd.net/i/p4nordjylland_9@143511/master.m3u8
+
+#EXTINF:-1,DR P5
+http://drradio1-lh.akamaihd.net/i/p5_9@143530/master.m3u8
+
+#EXTINF:-1,DR P6 Beat
+http://drradio3-lh.akamaihd.net/i/p6beat_9@143533/master.m3u8
+
+#EXTINF:-1,DR P7 Mix
+http://drradio1-lh.akamaihd.net/i/p7mix_9@143522/master.m3u8
+
+#EXTINF:-1,DR P8 Jazz
+http://drradio2-lh.akamaihd.net/i/p8jazz_9@143524/master.m3u8
+
+#EXTINF:-1,DR Nyheder
+http://drradio2-lh.akamaihd.net/i/drnyheder_9@143532/master.m3u8
+
+
 
