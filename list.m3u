@@ -200,10 +200,8 @@ http://155.4.160.181:1935/fjwebb/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://nbcolympictalk.files.wordpress.com/2016/12/olympicchannel-e1481805666850.jpg?w=600",Olympic Channel
 
-#EXTINF:-1 tvg-logo="http://umg.cdn.vrlive.com.s3-website-us-west-2.amazonaws.com/mendes-illuminate/assets/krpano/rb-logo.png",Red Bull TV 1 
-
-#EXTINF:-1 tvg-logo="http://umg.cdn.vrlive.com.s3-website-us-west-2.amazonaws.com/mendes-illuminate/assets/krpano/rb-logo.png",Red Bull TV 2
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="USA",Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 
 #EXTINF:-1 group-title="US" tvg-logo="http://static.nfl.com/static/content/static/img/ctv/anchor-images/nfl-now.png",NFL NOW
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
@@ -227,9 +225,11 @@ http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
 #EXTINF:-1 tvg-logo="https://danishbits.org/static/bitbucket/users/1483919746.6789.png",BLOOMBERG
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/disney/images/1/1f/NASA_Logo.png",NASA TV
-# https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public1/master.m3u8
-# http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yIzSqCD.png" group-title="USA",NASA TV Public
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yIzSqCD.png" group-title="USA",NASA TV Media
+https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://danishbits.org/static/bitbucket/users/1485603730.4372.png",HUNTING CHANNEL
 # http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
@@ -249,29 +249,28 @@ http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3
 
 
 #EXTINF:-1 group-title="US College Sport" tvg-logo="http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 National
-# http://xrxs.net/video/live-p12netw-4728.m3u8
+http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 Arizona
-# http://xrxs.net/video/live-p12ariz-4728.m3u8
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 Bay Area
-# http://goo.gl/gHG3ty
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 Los Angeles
-# http://goo.gl/c1zkBg
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 Mountain
-# http://goo.gl/lSyVT3
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 Oregon
-# http://goo.gl/eRhOHd
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png",PAC 12 Washington
-# http://goo.gl/RtRjJM
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://danishbits.org/static/bitbucket/users/1484636788.2379.png" group-title="Diverse",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-
 
 
 #EXTINF:-1 group-title="Musik",DR P3 webcam
