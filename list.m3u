@@ -201,6 +201,10 @@ http://155.4.160.181:1935/fjwebb/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://nbcolympictalk.files.wordpress.com/2016/12/olympicchannel-e1481805666850.jpg?w=600",Olympic Channel
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="USA",Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b8prEVt.png",Rev'n
+http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
 
 #EXTINF:-1 group-title="US" tvg-logo="http://static.nfl.com/static/content/static/img/ctv/anchor-images/nfl-now.png",NFL NOW
 
@@ -224,10 +228,10 @@ http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yIzSqCD.png" group-title="USA",NASA TV Public
-# http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yIzSqCD.png" group-title="USA",NASA TV Media
-# https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
+https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://danishbits.org/static/bitbucket/users/1485603730.4372.png",HUNTING CHANNEL
 # http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
