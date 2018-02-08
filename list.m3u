@@ -69,13 +69,11 @@ http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 
 ##EXTINF:-1 tvg-id="dk4.dk" tvg-logo="http://logos.xmltv.se/dk4.dk.png",DK4
 
-#EXTINF:-1 tvg-id="kanal4.dk" tvg-logo="http://logos.xmltv.se/kanal4.dk.png",Kanal 4
-http://live.now-dns.top:23000/live/wAV0Z3i6iz/vkk5PTlolo/30518.ts
+##EXTINF:-1 tvg-id="kanal4.dk" tvg-logo="http://logos.xmltv.se/kanal4.dk.png",Kanal 4
 
 ##EXTINF:-1 tvg-id="kanal5.dk" tvg-logo="http://logos.xmltv.se/kanal5.dk.png",Kanal 5
 
 ##EXTINF:-1 tvg-id="6-eren.dk" tvg-logo="http://logos.xmltv.se/6-eren.dk.png",6eren
-# http://dnordichlslive04-i.akamaihd.net/hls/live/223840/6DKHD/master.m3u8
 
 #EXTINF:-1 tvg-id="canal9.dk" tvg-logo="http://logos.xmltv.se/canal9.dk.png",Canal 9
 http://b-dnordichlslive09-i.akamaihd.net/hls/live/223862-b/C9DKHD/master.m3u8
