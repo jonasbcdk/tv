@@ -174,27 +174,6 @@ http://155.4.160.181:1935/fjwebb/live/playlist.m3u8
 
 ##EXTINF:-1 tvg-logo="http://logos.xmltv.se/tlc.discovery.dk.png",TLC Europe
 
-#EXTINF:-1, tvg-logo="http://vaders.tv/logos/Discovery%20Channel%20HD.png",Discovery Channel UK
-http://vaders.tv/live/bilbo/baggins/39639.ts
-#EXTINF:-1, tvg-logo="https://s2.postimg.org/6l264v249/Discovery_Science.png",Discovery Science UK
-http://vaders.tv/live/bilbo/baggins/39817.ts
-#EXTINF:-1, tvg-logo="https://s17.postimg.org/q0dnwp7jz/Discovery_Turbo.png",Discovery Turbo UK
-http://vaders.tv/live/bilbo/baggins/39640.ts
-#EXTINF:-1, tvg-logo="https://s17.postimg.org/3mdfwgfsv/Discovery_History.png",Discovery History UK
-http://vaders.tv/live/bilbo/baggins/39816.ts
-#EXTINF:-1, tvg-logo="https://imgur.com/rKAzltO.png",Animal Planet UK
-http://vaders.tv/live/bilbo/baggins/39641.ts
-#EXTINF:-1, tvg-logo="https://s27.postimg.org/wy2c7rzyr/Nat_Geo_Channel_UK.png",National Geographic UK
-http://vaders.tv/live/bilbo/baggins/39029.ts
-#EXTINF:-1, tvg-logo="https://s33.postimg.org/g91uf4jtr/Nat_Geo_Wild.png",Nat Geo Wild UK
-http://vaders.tv/live/bilbo/baggins/72692.ts
-#EXTINF:-1, tvg-logo="https://imgur.com/TcNtBc3.png",Eurosport 1 HD UK
-http://vaders.tv/live/bilbo/baggins/19293.ts
-#EXTINF:-1, tvg-logo="https://imgur.com/up2vaXf.png",Eurosport 2 HD UK
-http://vaders.tv/live/bilbo/baggins/19294.ts
-#EXTINF:-1, tvg-logo="http://i64.tinypic.com/mizygg.png",NFL Network HD
-http://vaders.tv:80/live/bilbo/baggins/2744.ts
-
 ##EXTINF:-1 tvg-logo="http://logos.xmltv.se/discovery.dk.png",Discovery UK
 
 ##EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png",Discovery Turbo UK
