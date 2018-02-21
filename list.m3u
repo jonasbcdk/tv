@@ -50,7 +50,8 @@ http://cdn-lt-live.tveast.dk/dc-0/live/hls/p/1953381/e/0_zphj9q61/t/bvgwwfCgkC73
 # http://cdn-lt-live.tveast.dk/dc-0/live/hls/p/1953381/e/0_zphj9q61/sd/10000/t/5V0e8WiEDy1T0USo0Guueg/index-s32.m3u8
 
 #EXTINF:-1 tvg-id="tvsyd.dk" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/a/a7/TV_Syd.png",TV Syd
-http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/sd/10000/t/327RYXxPUq2u4xgiUD75gw/index-s32.m3u8
+http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
+# http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/sd/10000/t/327RYXxPUq2u4xgiUD75gw/index-s32.m3u8
 
 #EXTINF:-1 tvg-id="tv2fyn.dk" tvg-logo="http://logos.xmltv.se/tv2fyn.dk.png",TV2 Fyn
 http://cdn-lt-live.tv2fyn.dk/dc-1/live/hls/p/1966291/e/0_vsfrv0zm/sd/10000/t/T6nwxGTEvXZRnLX-DBxxkw/index-s32.m3u8
@@ -61,17 +62,21 @@ http://cdn-lt-live.tv2lorry.dk/dc-1/live/hls/p/2045321/e/0_5l7gjlbn/sd/10000/t/o
 #EXTINF:-1 tvg-id="tv2bornholm.dk" tvg-logo="http://logos.xmltv.se/tv2bornholm.dk.png",TV2 Bornholm
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 
-##EXTINF:-1 tvg-id="tv3.dk" tvg-logo="http://logos.xmltv.se/tv3.dk.png",TV 3
+#EXTINF:-1 tvg-id="tv3.dk" tvg-logo="http://logos.xmltv.se/tv3.dk.png",TV 3
+http://vaders.tv:80/live/ern1062/gfdsza/72809.ts
 
 ##EXTINF:-1 tvg-id="tv3plus.dk" tvg-logo="http://logos.xmltv.se/tv3plus.dk.png",TV3+
 
-##EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="http://logos.xmltv.se/puls.tv3.dk.png",TV3 Puls
+#EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="http://logos.xmltv.se/puls.tv3.dk.png",TV3 Puls
+http://vaders.tv:80/live/ern1062/gfdsza/72810.ts
 
 ##EXTINF:-1 tvg-id="dk4.dk" tvg-logo="http://logos.xmltv.se/dk4.dk.png",DK4
 
-##EXTINF:-1 tvg-id="kanal4.dk" tvg-logo="http://logos.xmltv.se/kanal4.dk.png",Kanal 4
+#EXTINF:-1 tvg-id="kanal4.dk" tvg-logo="http://logos.xmltv.se/kanal4.dk.png",Kanal 4
+http://vaders.tv:80/live/ern1062/gfdsza/74734.ts
 
-##EXTINF:-1 tvg-id="kanal5.dk" tvg-logo="http://logos.xmltv.se/kanal5.dk.png",Kanal 5
+#EXTINF:-1 tvg-id="kanal5.dk" tvg-logo="http://logos.xmltv.se/kanal5.dk.png",Kanal 5
+http://vaders.tv:80/live/ern1062/gfdsza/74735.ts
 
 ##EXTINF:-1 tvg-id="6-eren.dk" tvg-logo="http://logos.xmltv.se/6-eren.dk.png",6eren
 
@@ -91,13 +96,17 @@ http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/playlist.m
 
 ##EXTINF:-1 tvg-id="explorer.viasat.dk" tvg-logo="http://logos.xmltv.se/explorer.viasat.dk.png",Viasat Explore
 
-##EXTINF:-1 tvg-id="nature.viasat.dk" tvg-logo="http://logos.xmltv.se/nature.viasat.dk.png",Viasat Nature
+#EXTINF:-1 tvg-id="nature.viasat.dk" tvg-logo="http://logos.xmltv.se/nature.viasat.dk.png",Viasat Nature
+http://vaders.tv:80/live/ern1062/gfdsza/74732.ts
 
-##EXTINF:-1 tvg-id="history.viasat.dk" tvg-logo="http://logos.xmltv.se/history.viasat.dk.png ",Viasat History
+#EXTINF:-1 tvg-id="history.viasat.dk" tvg-logo="http://logos.xmltv.se/history.viasat.dk.png ",Viasat History
+http://vaders.tv:80/live/ern1062/gfdsza/74733.ts
 
-##EXTINF:-1 tvg-id="hits.film.viasat.dk" tvg-logo="http://logos.xmltv.se/hits.film.viasat.dk.png",Viasat Film Hits
+#EXTINF:-1 tvg-id="hits.film.viasat.dk" tvg-logo="http://logos.xmltv.se/hits.film.viasat.dk.png",Viasat Film Hits
+http://vaders.tv:80/live/ern1062/gfdsza/74729.ts
 
-##EXTINF:-1 tvg-id="action.film.viasat.dk" tvg-logo="http://logos.xmltv.se/action.film.viasat.dk.png",Viasat Film Action
+#EXTINF:-1 tvg-id="action.film.viasat.dk" tvg-logo="http://logos.xmltv.se/action.film.viasat.dk.png",Viasat Film Action
+http://vaders.tv:80/live/ern1062/gfdsza/74727.ts
 
 ##EXTINF:-1 tvg-id="wild.natgeo.dk" tvg-logo="http://logos.xmltv.se/wild.natgeo.dk.png",NAT GEO WILD
 
@@ -190,14 +199,10 @@ http://155.4.160.181:1935/fjwebb/live/playlist.m3u8
 
 ##EXTINF:-1 tvg-logo="http://nbcolympictalk.files.wordpress.com/2016/12/olympicchannel-e1481805666850.jpg?w=600",Olympic Channel
 
-#EXTINF:-1,Eurosport 1 HD USA
-http://cdnworld.magictvbox.eu/Eurosport_HD/tracks-v2a1/index.m3u8?token=token
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png",Red Bull TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 
 ##EXTINF:-1 tvg-logo="https://i.imgur.com/b8prEVt.png",Rev'n
-http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
 
 ##EXTINF:-1 tvg-logo="http://static.nfl.com/static/content/static/img/ctv/anchor-images/nfl-now.png",NFL NOW
 
