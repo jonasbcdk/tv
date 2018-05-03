@@ -62,21 +62,17 @@ http://cdn-lt-live.tv2lorry.dk/dc-1/live/hls/p/2045321/e/0_5l7gjlbn/sd/10000/t/o
 #EXTINF:-1 tvg-id="tv2bornholm.dk" tvg-logo="http://logos.xmltv.se/tv2bornholm.dk.png",TV2 Bornholm
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="tv3.dk" tvg-logo="http://logos.xmltv.se/tv3.dk.png",TV 3
-http://vaders.tv:80/live/ern1062/gfdsza/72809.ts
+##EXTINF:-1 tvg-id="tv3.dk" tvg-logo="http://logos.xmltv.se/tv3.dk.png",TV 3
 
 ##EXTINF:-1 tvg-id="tv3plus.dk" tvg-logo="http://logos.xmltv.se/tv3plus.dk.png",TV3+
 
-#EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="http://logos.xmltv.se/puls.tv3.dk.png",TV3 Puls
-http://vaders.tv:80/live/ern1062/gfdsza/72810.ts
+##EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="http://logos.xmltv.se/puls.tv3.dk.png",TV3 Puls
 
 ##EXTINF:-1 tvg-id="dk4.dk" tvg-logo="http://logos.xmltv.se/dk4.dk.png",DK4
 
-#EXTINF:-1 tvg-id="kanal4.dk" tvg-logo="http://logos.xmltv.se/kanal4.dk.png",Kanal 4
-http://vaders.tv:80/live/ern1062/gfdsza/74734.ts
+##EXTINF:-1 tvg-id="kanal4.dk" tvg-logo="http://logos.xmltv.se/kanal4.dk.png",Kanal 4
 
-#EXTINF:-1 tvg-id="kanal5.dk" tvg-logo="http://logos.xmltv.se/kanal5.dk.png",Kanal 5
-http://vaders.tv:80/live/ern1062/gfdsza/74735.ts
+##EXTINF:-1 tvg-id="kanal5.dk" tvg-logo="http://logos.xmltv.se/kanal5.dk.png",Kanal 5
 
 ##EXTINF:-1 tvg-id="6-eren.dk" tvg-logo="http://logos.xmltv.se/6-eren.dk.png",6eren
 
@@ -96,17 +92,13 @@ http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/playlist.m
 
 ##EXTINF:-1 tvg-id="explorer.viasat.dk" tvg-logo="http://logos.xmltv.se/explorer.viasat.dk.png",Viasat Explore
 
-#EXTINF:-1 tvg-id="nature.viasat.dk" tvg-logo="http://logos.xmltv.se/nature.viasat.dk.png",Viasat Nature
-http://vaders.tv:80/live/ern1062/gfdsza/74732.ts
+##EXTINF:-1 tvg-id="nature.viasat.dk" tvg-logo="http://logos.xmltv.se/nature.viasat.dk.png",Viasat Nature
 
-#EXTINF:-1 tvg-id="history.viasat.dk" tvg-logo="http://logos.xmltv.se/history.viasat.dk.png ",Viasat History
-http://vaders.tv:80/live/ern1062/gfdsza/74733.ts
+##EXTINF:-1 tvg-id="history.viasat.dk" tvg-logo="http://logos.xmltv.se/history.viasat.dk.png ",Viasat History
 
-#EXTINF:-1 tvg-id="hits.film.viasat.dk" tvg-logo="http://logos.xmltv.se/hits.film.viasat.dk.png",Viasat Film Hits
-http://vaders.tv:80/live/ern1062/gfdsza/74729.ts
+##EXTINF:-1 tvg-id="hits.film.viasat.dk" tvg-logo="http://logos.xmltv.se/hits.film.viasat.dk.png",Viasat Film Hits
 
-#EXTINF:-1 tvg-id="action.film.viasat.dk" tvg-logo="http://logos.xmltv.se/action.film.viasat.dk.png",Viasat Film Action
-http://vaders.tv:80/live/ern1062/gfdsza/74727.ts
+##EXTINF:-1 tvg-id="action.film.viasat.dk" tvg-logo="http://logos.xmltv.se/action.film.viasat.dk.png",Viasat Film Action
 
 ##EXTINF:-1 tvg-id="wild.natgeo.dk" tvg-logo="http://logos.xmltv.se/wild.natgeo.dk.png",NAT GEO WILD
 
@@ -150,8 +142,7 @@ http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
 #EXTINF:-1 tvg-id="mtv.no" tvg-logo="https://logos.xmltv.se/mtv.dk.png",MTV NO
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1608203187/canalmotor_logo.png",Canal Motor NO
-http://03.sf.bg.unistream.tv/test/canalmotor-hls/pl.m3u8?time=1462400376714
+##EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1608203187/canalmotor_logo.png",Canal Motor NO
 
 ##EXTINF:-1 tvg-id="motor.viasat.no" tvg-logo="http://logos.xmltv.se/motor.viasat.no.png",Viasat Motor NO
 
@@ -162,8 +153,7 @@ http://03.sf.bg.unistream.tv/test/canalmotor-hls/pl.m3u8?time=1462400376714
 ##EXTINF:-1 tvg-id="discovery.no" tvg-logo="http://logos.xmltv.se/discovery.dk.png",Discovery NO
 
 
-#EXTINF:-1 tvg-logo="http://logos.xmltv.se/tv4.se.png",TV4 Nyheterna SE
-http://tv4events3-lh.akamaihd.net/i/EXTRAEVENT14_1@324065/master.m3u8
+##EXTINF:-1 tvg-logo="http://logos.xmltv.se/tv4.se.png",TV4 Nyheterna SE
 
 ##EXTINF:-1 tvg-id="kanal5.se" tvg-logo="http://logos.xmltv.se/kanal5.se.png",Kanal 5 SE
 
@@ -199,8 +189,7 @@ http://155.4.160.181:1935/fjwebb/live/playlist.m3u8
 
 ##EXTINF:-1 tvg-logo="http://nbcolympictalk.files.wordpress.com/2016/12/olympicchannel-e1481805666850.jpg?w=600",Olympic Channel
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png",Red Bull TV
-http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+##EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png",Red Bull TV
 
 ##EXTINF:-1 tvg-logo="https://i.imgur.com/b8prEVt.png",Rev'n
 
@@ -213,23 +202,18 @@ http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 ##EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ee/espn_2.png",ESPN 2
 
 
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png",ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+##EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png",ABC News
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/2000px-CBS_News.svg.png",CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://danishbits.org/static/bitbucket/users/1485723319.5474.png",Fox 23 News
-http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
+##EXTINF:-1 tvg-logo="https://danishbits.org/static/bitbucket/users/1485723319.5474.png",Fox 23 News
 
-#EXTINF:-1 tvg-logo="https://danishbits.org/static/bitbucket/users/1483919746.6789.png",BLOOMBERG
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+##EXTINF:-1 tvg-logo="https://danishbits.org/static/bitbucket/users/1483919746.6789.png",BLOOMBERG
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yIzSqCD.png",NASA TV Public
-http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
+##EXTINF:-1 tvg-logo="https://i.imgur.com/yIzSqCD.png",NASA TV Public
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yIzSqCD.png",NASA TV Media
-https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
+##EXTINF:-1 tvg-logo="https://i.imgur.com/yIzSqCD.png",NASA TV Media
 
 ##EXTINF:-1 tvg-logo="https://danishbits.org/static/bitbucket/users/1485603730.4372.png",HUNTING CHANNEL
 
@@ -241,8 +225,7 @@ https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
 
 ##EXTINF:-1 tvg-logo="http://logos.xmltv.se/syfy.de.png",SyFy US
 
-#EXTINF:-1 tvg-logo="http://logos.xmltv.se/animalplanet.discovery.dk.png",Animal Planet L!VE
-http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+##EXTINF:-1 tvg-logo="http://logos.xmltv.se/animalplanet.discovery.dk.png",Animal Planet L!VE
 
 ##EXTINF:-1 tvg-logo="http://logos.xmltv.se/wild.natgeo.dk.png",NAT GEO WILD US
 
@@ -286,9 +269,6 @@ http://nodeb.gocaster.net:1935/CGL/mp4:TODAYFM_TEST2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/S6PYLzM5N8omHU_DbsUUdERSJIfO1WgP-5gOzCCKRY8QAFk42r5YLizrBSl21g7Ows8=w300",O2TV HD MUSIC
 http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/771089/logo_one%20by.png",One.by HD RU
-http://rtmp.one.by:1300
 
 #EXTINF:-1 tvg-logo="http://www.satelity-budejovice.cz/fotky13968/EZS/Televizni_anteny/logo-Retro_Music_Tv.png",Retro TV CZ
 rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
