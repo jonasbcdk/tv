@@ -176,7 +176,7 @@ http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:kanal10sverige/playlist.m3u8
 
 ##EXTINF:-1 tvg-id="tv11.sbstv.se" tvg-logo="http://logos.xmltv.se/tv11.sbstv.se.png",Kanal 11 SE
 
-#EXTINF:-1 tvg-id="fjorton.tv" tvg-logo="http://logos.xmltv.se/fjorton.tv.png",Kanal 14 SE
+#EXTINF:-1 tvg-logo="http://logos.xmltv.se/fjorton.tv.png",Kanal 14 SE
 http://155.4.160.181:1935/fjwebb/live/playlist.m3u8
 
 ##EXTINF:-1 tvg-id="bbcworldnews.com" tvg-logo="http://logos.xmltv.se/bbcworldnews.com.png",BBC World News
