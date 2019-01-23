@@ -19,22 +19,27 @@ http://dr06-lh.akamaihd.net/i/live/dr06_0@147059/master.m3u8?b=1700-10000
 http://dr05-lh.akamaihd.net/i/live/dr05_0@147058/master.m3u8?b=1700-10000
 
 #EXTINF:-1 tvg-id="tv2.dk" tvg-logo="http://logos.xmltv.se/tv2.dk.png",TV2
-https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2nord/mfpoe3d3/2/master.m3u8
+http://vapi.vaders.tv/play/67472.m3u8?token=eyJ1c2VybmFtZSI6Im5yZW5nbGUiLCJwYXNzd29yZCI6Imt6dmhwbXJzdTMifQ==
+#https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2nord/mfpoe3d3/2/master.m3u8
 
 #EXTINF:-1 tvg-id="news.tv2.dk" tvg-logo="http://logos.xmltv.se/news.tv2.dk.png",TV2 NEWS
-https://tv2-play-cl2-live-hls-st.akamaized.net/out/u/tv2news/bmfdkrbg/0/master_7.m3u8
+http://vapi.vaders.tv/play/67475.m3u8?token=eyJ1c2VybmFtZSI6Im5yZW5nbGUiLCJwYXNzd29yZCI6Imt6dmhwbXJzdTMifQ==
+# https://tv2-play-cl2-live-hls-st.akamaized.net/out/u/tv2news/bmfdkrbg/0/master_7.m3u8
 
 #EXTINF:-1 tvg-id="fri.tv2.dk" tvg-logo="http://logos.xmltv.se/fri.tv2.dk.png",TV2 FRI
-https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2fri/ve3pvkfs/2/master.m3u8
+http://vapi.vaders.tv/play/67476.m3u8?token=eyJ1c2VybmFtZSI6Im5yZW5nbGUiLCJwYXNzd29yZCI6Imt6dmhwbXJzdTMifQ==
+# https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2fri/ve3pvkfs/2/master.m3u8
 
 #EXTINF:-1 tvg-id="zulu.tv2.dk" tvg-logo="http://logos.xmltv.se/zulu.tv2.dk.png",TV2 ZULU
-https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2zulu/4kvorjjh/2/master.m3u8
+http://vapi.vaders.tv/play/67473.m3u8?token=eyJ1c2VybmFtZSI6Im5yZW5nbGUiLCJwYXNzd29yZCI6Imt6dmhwbXJzdTMifQ==
+# https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2zulu/4kvorjjh/2/master.m3u8
 
-#EXTINF:-1 tvg-id="sport.tv2.dk" tvg-logo="http://priser.tv2.dk/media/1459/sport_p_png.png",TV2 SPORT
-https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2sport/mmdsewor/2/master.m3u8
+##EXTINF:-1 tvg-id="sport.tv2.dk" tvg-logo="http://priser.tv2.dk/media/1459/sport_p_png.png",TV2 SPORT
+#https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2sport/mmdsewor/2/master.m3u8
 
 #EXTINF:-1 tvg-id="charlie.tv2.dk" tvg-logo="http://logos.xmltv.se/charlie.tv2.dk.png",TV2 Charlie
-https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2charlie/gkr3oefn/2/master.m3u8
+http://vapi.vaders.tv/play/67474.m3u8?token=eyJ1c2VybmFtZSI6Im5yZW5nbGUiLCJwYXNzd29yZCI6Imt6dmhwbXJzdTMifQ==
+# https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2charlie/gkr3oefn/2/master.m3u8
 
 #EXTINF:-1 tvg-id="tv2nord.dk" tvg-logo="http://logos.xmltv.se/tv2nord.dk.png",TV2 Nord Salto
 http://cdn-lt-live.tv2nord.dk/dc-1/live/hls/p/1956931/e/0_74s20zcv/sd/10000/t/NtyWFziiBthx304_AgAimA/index-s32.m3u8
@@ -64,13 +69,15 @@ http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 
 ##EXTINF:-1 tvg-id="tv3.dk" tvg-logo="http://logos.xmltv.se/tv3.dk.png",TV 3
 
-##EXTINF:-1 tvg-id="tv3plus.dk" tvg-logo="http://logos.xmltv.se/tv3plus.dk.png",TV3+
+#EXTINF:-1 tvg-id="tv3plus.dk" tvg-logo="http://logos.xmltv.se/tv3plus.dk.png",TV3+
+http://vapi.vaders.tv/play/72809.m3u8?token=eyJ1c2VybmFtZSI6Im5yZW5nbGUiLCJwYXNzd29yZCI6Imt6dmhwbXJzdTMifQ==
 
 ##EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="http://logos.xmltv.se/puls.tv3.dk.png",TV3 Puls
 
 ##EXTINF:-1 tvg-id="dk4.dk" tvg-logo="http://logos.xmltv.se/dk4.dk.png",DK4
 
-##EXTINF:-1 tvg-id="kanal4.dk" tvg-logo="http://logos.xmltv.se/kanal4.dk.png",Kanal 4
+#EXTINF:-1 tvg-id="kanal4.dk" tvg-logo="http://logos.xmltv.se/kanal4.dk.png",Kanal 4
+http://vapi.vaders.tv/play/74734.m3u8?token=eyJ1c2VybmFtZSI6Im5yZW5nbGUiLCJwYXNzd29yZCI6Imt6dmhwbXJzdTMifQ==
 
 ##EXTINF:-1 tvg-id="kanal5.dk" tvg-logo="http://logos.xmltv.se/kanal5.dk.png",Kanal 5
 
