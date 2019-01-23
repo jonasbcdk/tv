@@ -89,17 +89,17 @@ http://b-dnordichlslive09-i.akamaihd.net/hls/live/223862-b/C9DKHD/master.m3u8
 #EXTINF:-1 tvg-id="ft.dk" tvg-logo="http://logos.xmltv.se/ft.dk.png",Folketinget
 http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext,TV2 Play 1
-https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play1/crsvkedv/0/master.m3u8
+##EXTINF:0 tvg-id="ext,TV2 Play 1
+#https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play1/crsvkedv/0/master.m3u8
 
-#EXTINF:0 tvg-id="ext,TV2 Play 2
-https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play2/adegbvef/0/master.m3u8
+##EXTINF:0 tvg-id="ext,TV2 Play 2
+#https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play2/adegbvef/0/master.m3u8
 
-#EXTINF:0 tvg-id="ext,TV2 Play 3
-https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play3/fgmbreov/0/master.m3u8
+##EXTINF:0 tvg-id="ext,TV2 Play 3
+#https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play3/fgmbreov/0/master.m3u8
 
-#EXTINF:0 tvg-id="ext,TV2 Play 4
-https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play4/zdyppexe/0/master.m3u8
+##EXTINF:0 tvg-id="ext,TV2 Play 4
+#https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play4/zdyppexe/0/master.m3u8
 
 ##EXTINF:-1 tvg-id="one.tv3sport.dk" tvg-logo="http://logowow.net/logos/8ye1oV31E.png",TV 3 Sport 1
 
