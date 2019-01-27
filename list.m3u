@@ -18,23 +18,28 @@ http://dr06-lh.akamaihd.net/i/live/dr06_0@147059/master.m3u8?b=1700-10000
 #EXTINF:-1 tvg-id="ramasjang.dr.dk" tvg-logo="http://logos.xmltv.se/ramasjang.dr.dk.png",DR RAMASJANG
 http://dr05-lh.akamaihd.net/i/live/dr05_0@147058/master.m3u8?b=1700-10000
 
-##EXTINF:-1 tvg-id="tv2.dk" tvg-logo="http://logos.xmltv.se/tv2.dk.png",TV2
+#EXTINF:-1 tvg-id="tv2.dk" tvg-logo="http://logos.xmltv.se/tv2.dk.png",TV2
+http://77.68.160.13:9981/stream/channelid/1490925365
 #https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2nord/mfpoe3d3/2/master.m3u8
 
-##EXTINF:-1 tvg-id="news.tv2.dk" tvg-logo="http://logos.xmltv.se/news.tv2.dk.png",TV2 NEWS
+#EXTINF:-1 tvg-id="news.tv2.dk" tvg-logo="http://logos.xmltv.se/news.tv2.dk.png",TV2 NEWS
+http://77.68.160.13:9981/stream/channelid/1997386300
 # https://tv2-play-cl2-live-hls-st.akamaized.net/out/u/tv2news/bmfdkrbg/0/master_7.m3u8
 
-##EXTINF:-1 tvg-id="fri.tv2.dk" tvg-logo="http://logos.xmltv.se/fri.tv2.dk.png",TV2 FRI
+#EXTINF:-1 tvg-id="fri.tv2.dk" tvg-logo="http://logos.xmltv.se/fri.tv2.dk.png",TV2 FRI
+http://77.68.160.13:9981/stream/channelid/520440785
 # https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2fri/ve3pvkfs/2/master.m3u8
 
 #EXTINF:-1 tvg-id="zulu.tv2.dk" tvg-logo="http://logos.xmltv.se/zulu.tv2.dk.png",TV2 ZULU
-http://vapi.vaders.tv/play/67473.m3u8?token=eyJ1c2VybmFtZSI6Im5yZW5nbGUiLCJwYXNzd29yZCI6Imt6dmhwbXJzdTMifQ==
+http://77.68.160.13:9981/stream/channelid/545609415
 # https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2zulu/4kvorjjh/2/master.m3u8
 
-##EXTINF:-1 tvg-id="sport.tv2.dk" tvg-logo="http://priser.tv2.dk/media/1459/sport_p_png.png",TV2 SPORT
+#EXTINF:-1 tvg-id="sport.tv2.dk" tvg-logo="http://priser.tv2.dk/media/1459/sport_p_png.png",TV2 SPORT
+http://77.68.160.13:9981/stream/channelid/2115169606
 #https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2sport/mmdsewor/2/master.m3u8
 
-##EXTINF:-1 tvg-id="charlie.tv2.dk" tvg-logo="http://logos.xmltv.se/charlie.tv2.dk.png",TV2 Charlie
+#EXTINF:-1 tvg-id="charlie.tv2.dk" tvg-logo="http://logos.xmltv.se/charlie.tv2.dk.png",TV2 Charlie
+http://77.68.160.13:9981/stream/channelid/1478133457
 # https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2charlie/gkr3oefn/2/master.m3u8
 
 #EXTINF:-1 tvg-id="tv2nord.dk" tvg-logo="http://logos.xmltv.se/tv2nord.dk.png",TV2 Nord Salto
@@ -63,21 +68,25 @@ http://cdn-lt-live.tv2lorry.dk/dc-1/live/hls/p/2045321/e/0_5l7gjlbn/sd/10000/t/o
 #EXTINF:-1 tvg-id="tv2bornholm.dk" tvg-logo="http://logos.xmltv.se/tv2bornholm.dk.png",TV2 Bornholm
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 
-##EXTINF:-1 tvg-id="tv3.dk" tvg-logo="http://logos.xmltv.se/tv3.dk.png",TV 3
+#EXTINF:-1 tvg-id="tv3.dk" tvg-logo="http://logos.xmltv.se/tv3.dk.png",TV 3
+http://77.68.160.13:9981/stream/channelid/441372964
 
 #EXTINF:-1 tvg-id="tv3plus.dk" tvg-logo="http://logos.xmltv.se/tv3plus.dk.png",TV3+
 http://vapi.vaders.tv/play/72809.m3u8?token=eyJ1c2VybmFtZSI6Im5yZW5nbGUiLCJwYXNzd29yZCI6Imt6dmhwbXJzdTMifQ==
 
-##EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="http://logos.xmltv.se/puls.tv3.dk.png",TV3 Puls
+#EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="http://logos.xmltv.se/puls.tv3.dk.png",TV3 Puls
+http://77.68.160.13:9981/stream/channelid/237635578
 
 ##EXTINF:-1 tvg-id="dk4.dk" tvg-logo="http://logos.xmltv.se/dk4.dk.png",DK4
 
 #EXTINF:-1 tvg-id="kanal4.dk" tvg-logo="http://logos.xmltv.se/kanal4.dk.png",Kanal 4
-http://vapi.vaders.tv/play/74734.m3u8?token=eyJ1c2VybmFtZSI6Im5yZW5nbGUiLCJwYXNzd29yZCI6Imt6dmhwbXJzdTMifQ==
+http://77.68.160.13:9981/stream/channelid/1719906415
 
-##EXTINF:-1 tvg-id="kanal5.dk" tvg-logo="http://logos.xmltv.se/kanal5.dk.png",Kanal 5
+#EXTINF:-1 tvg-id="kanal5.dk" tvg-logo="http://logos.xmltv.se/kanal5.dk.png",Kanal 5
+http://77.68.160.13:9981/stream/channelid/1711876203
 
-##EXTINF:-1 tvg-id="6-eren.dk" tvg-logo="http://logos.xmltv.se/6-eren.dk.png",6eren
+#EXTINF:-1 tvg-id="6-eren.dk" tvg-logo="http://logos.xmltv.se/6-eren.dk.png",6eren
+http://77.68.160.13:9981/stream/channelid/1416314115
 
 #EXTINF:-1 tvg-id="canal9.dk" tvg-logo="http://logos.xmltv.se/canal9.dk.png",Canal 9
 http://b-dnordichlslive09-i.akamaihd.net/hls/live/223862-b/C9DKHD/master.m3u8
