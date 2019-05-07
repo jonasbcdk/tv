@@ -18,20 +18,20 @@ http://dr06-lh.akamaihd.net/i/live/dr06_0@147059/master.m3u8?b=1700-10000
 #EXTINF:-1 tvg-id="ramasjang.dr.dk" tvg-logo="http://logos.xmltv.se/ramasjang.dr.dk.png",DR RAMASJANG
 http://dr05-lh.akamaihd.net/i/live/dr05_0@147058/master.m3u8?b=1700-10000
 
-#EXTINF:-1 tvg-id="tv2.dk" tvg-logo="http://logos.xmltv.se/tv2.dk.png",TV2
-https://tv2-dash-01.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2fyn/tv2fyn.isml/master.mpd
+##EXTINF:-1 tvg-id="tv2.dk" tvg-logo="http://logos.xmltv.se/tv2.dk.png",TV2
+#https://tv2-dash-01.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2fyn/tv2fyn.isml/master.mpd
 #https://tv2-dash-02.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2nord/tv2nord.isml/master.mpd
 #https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2nord/mfpoe3d3/2/master.m3u8
 
-#EXTINF:-1 tvg-id="news.tv2.dk" tvg-logo="http://logos.xmltv.se/news.tv2.dk.png",TV2 NEWS
+##EXTINF:-1 tvg-id="news.tv2.dk" tvg-logo="http://logos.xmltv.se/news.tv2.dk.png",TV2 NEWS
 #https://tv2-dash-01.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2news/tv2news.isml/master.mpd
 #https://tv2-play-cl2-live-hls-st.akamaized.net/out/u/tv2news/bmfdkrbg/0/master_7.m3u8
 
-#EXTINF:-1 tvg-id="fri.tv2.dk" tvg-logo="http://logos.xmltv.se/fri.tv2.dk.png",TV2 FRI
+##EXTINF:-1 tvg-id="fri.tv2.dk" tvg-logo="http://logos.xmltv.se/fri.tv2.dk.png",TV2 FRI
 #https://tv2-dash-01.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2fri/tv2fri.isml/master.mpd
 #https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2fri/ve3pvkfs/2/master.m3u8
 
-#EXTINF:-1 tvg-id="zulu.tv2.dk" tvg-logo="http://logos.xmltv.se/zulu.tv2.dk.png",TV2 ZULU
+##EXTINF:-1 tvg-id="zulu.tv2.dk" tvg-logo="http://logos.xmltv.se/zulu.tv2.dk.png",TV2 ZULU
 #https://tv2-dash-02.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2zulu/tv2zulu.isml/master.mpd
 #https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2zulu/4kvorjjh/2/master.m3u8
 
@@ -40,7 +40,7 @@ https://tv2-dash-01.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2fyn/t
 #https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2sport/mmdsewor/2/master.m3u8
 #http://tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/master.m3u8
 
-#EXTINF:-1 tvg-id="charlie.tv2.dk" tvg-logo="http://logos.xmltv.se/charlie.tv2.dk.png",TV2 Charlie
+##EXTINF:-1 tvg-id="charlie.tv2.dk" tvg-logo="http://logos.xmltv.se/charlie.tv2.dk.png",TV2 Charlie
 #https://tv2-dash-01.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2charlie/tv2charlie.isml/master.mpd
 #https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2charlie/gkr3oefn/2/master.m3u8
 
