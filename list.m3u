@@ -40,8 +40,8 @@ http://dr05-lh.akamaihd.net/i/live/dr05_0@147058/master.m3u8?b=1700-10000
 #https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2sport/mmdsewor/2/master.m3u8
 #http://tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/master.m3u8
 
-##EXTINF:-1 tvg-id="charlie.tv2.dk" tvg-logo="http://logos.xmltv.se/charlie.tv2.dk.png",TV2 Charlie
-#https://tv2-dash-01.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2charlie/tv2charlie.isml/master.mpd
+#EXTINF:-1 tvg-id="charlie.tv2.dk" tvg-logo="http://logos.xmltv.se/charlie.tv2.dk.png",TV2 Charlie
+https://tv2-dash-01.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2charlie/tv2charlie.isml/master.mpd
 #https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2charlie/gkr3oefn/2/master.m3u8
 
 #EXTINF:-1 tvg-id="tv2nord.dk" tvg-logo="http://logos.xmltv.se/tv2nord.dk.png",TV2 Nord Salto
@@ -63,6 +63,7 @@ http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1Fqzl
 
 #EXTINF:-1 tvg-id="tv2fyn.dk" tvg-logo="http://logos.xmltv.se/tv2fyn.dk.png",TV2 Fyn
 http://cdn-lt-live.tv2fyn.dk/dc-1/live/hls/p/1966291/e/0_vsfrv0zm/sd/10000/t/T6nwxGTEvXZRnLX-DBxxkw/index-s32.m3u8
+# http://cdn-lt-hls-vod.tv2fyn.dk/fhls/p/1966291/sp/196629100/serveFlavor/entryId/0_yct7rqn3/v/2/flavorId/0_h2wfmuqm/name/a.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="tv2lorry.dk" tvg-logo="http://logos.xmltv.se/tv2lorry.dk.png",TV2 Lorry
 http://cdn-lt-live.tv2lorry.dk/dc-1/live/hls/p/2045321/e/0_5l7gjlbn/sd/10000/t/o0rIIeGd1KdzBctCs5zPlQ/index-s32.m3u8
@@ -93,8 +94,8 @@ https://59b954022ec35.streamlock.net:443/liveTV2/_definst_/smil:liveTVstream2.tr
 #EXTINF:-1 tvg-id="canal9.dk" tvg-logo="http://logos.xmltv.se/canal9.dk.png",Canal 9
 http://b-dnordichlslive09-i.akamaihd.net/hls/live/223862-b/C9DKHD/master.m3u8
 
-#EXTINF:-1 tvg-id="ft.dk" tvg-logo="http://logos.xmltv.se/ft.dk.png",Folketinget
-http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/playlist.m3u8
+##EXTINF:-1 tvg-id="ft.dk" tvg-logo="http://logos.xmltv.se/ft.dk.png",Folketinget
+#http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext,TV2 Play 1
 https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play1/crsvkedv/0/master.m3u8
@@ -194,8 +195,8 @@ http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:kanal10sverige/playlist.m3u8
 
 ##EXTINF:-1 tvg-id="tv11.sbstv.se" tvg-logo="http://logos.xmltv.se/tv11.sbstv.se.png",Kanal 11 SE
 
-#EXTINF:-1 tvg-logo="http://logos.xmltv.se/fjorton.tv.png",Kanal 14 SE
-http://155.4.160.181:1935/fjwebb/live/playlist.m3u8
+##EXTINF:-1 tvg-logo="http://logos.xmltv.se/fjorton.tv.png",Kanal 14 SE
+#http://155.4.160.181:1935/fjwebb/live/playlist.m3u8
 
 ##EXTINF:-1 tvg-id="bbcworldnews.com" tvg-logo="http://logos.xmltv.se/bbcworldnews.com.png",BBC World News
 
@@ -260,26 +261,26 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
 ##EXTINF:-1 tvg-logo="http://logos.xmltv.se/wild.natgeo.dk.png",NAT GEO WILD US
 
 
-#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/nba/images/5/5c/Pacific-12_Conference_logo.png",PAC 12 National
-http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8?b=3200-10000&rebase=on
+##EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/nba/images/5/5c/Pacific-12_Conference_logo.png",PAC 12 National
+#http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8?b=3200-10000&rebase=on
 
-#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/nba/images/5/5c/Pacific-12_Conference_logo.png",PAC 12 Arizona
-http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8?b=3200-10000&rebase=on
+##EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/nba/images/5/5c/Pacific-12_Conference_logo.png",PAC 12 Arizona
+#http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8?b=3200-10000&rebase=on
 
-#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/nba/images/5/5c/Pacific-12_Conference_logo.png",PAC 12 Bay Area
-http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8?b=3200-10000&rebase=on
+##EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/nba/images/5/5c/Pacific-12_Conference_logo.png",PAC 12 Bay Area
+#http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8?b=3200-10000&rebase=on
 
-#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/nba/images/5/5c/Pacific-12_Conference_logo.png",PAC 12 Los Angeles
-http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8?b=3200-10000&rebase=on
+##EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/nba/images/5/5c/Pacific-12_Conference_logo.png",PAC 12 Los Angeles
+#http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8?b=3200-10000&rebase=on
 
-#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/nba/images/5/5c/Pacific-12_Conference_logo.png",PAC 12 Mountain
-http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8?b=3200-10000&rebase=on
+##EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/nba/images/5/5c/Pacific-12_Conference_logo.png",PAC 12 Mountain
+#http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8?b=3200-10000&rebase=on
 
-#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/nba/images/5/5c/Pacific-12_Conference_logo.png",PAC 12 Oregon
-http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8?b=3200-10000&rebase=on
+##EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/nba/images/5/5c/Pacific-12_Conference_logo.png",PAC 12 Oregon
+#http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8?b=3200-10000&rebase=on
 
-#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/nba/images/5/5c/Pacific-12_Conference_logo.png",PAC 12 Washington
-http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8?b=3200-10000&rebase=on
+##EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/nba/images/5/5c/Pacific-12_Conference_logo.png",PAC 12 Washington
+#http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8?b=3200-10000&rebase=on
 
 #EXTINF:-1 tvg-logo="https://danishbits.org/static/bitbucket/users/1484636788.2379.png",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
@@ -288,23 +289,11 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 #EXTINF:-1,DR P3 webcam
 http://drevent-lh.akamaihd.net/i/p3teradeck_1@75855/master.m3u8
 
-#EXTINF:-1, NRJ Hits 
-http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
-
 #EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1447183057.png",DJing Hot Hot Hot
 http://www.djing.com/tv/hothothot.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.vmore.tv/wp-content/uploads/2015/01/city.png",City Music TV BG
-http://nodeb.gocaster.net:1935/CGL/mp4:TODAYFM_TEST2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/S6PYLzM5N8omHU_DbsUUdERSJIfO1WgP-5gOzCCKRY8QAFk42r5YLizrBSl21g7Ows8=w300",O2TV HD MUSIC
-http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.satelity-budejovice.cz/fotky13968/EZS/Televizni_anteny/logo-Retro_Music_Tv.png",Retro TV CZ
 rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Logo_virgin_radio_tv.png",Virgin Radio TV
-http://wow01.105.net/live/virgin1/chunklist.m3u8
 
 #EXTINF:-1,DR P1
 http://drradio1-lh.akamaihd.net/i/p1_9@143503/master.m3u8
