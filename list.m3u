@@ -47,12 +47,13 @@ http://tv2-dash-01.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2charli
 
 #EXTINF:-1 tvg-id="tv2nord.dk" tvg-logo="http://logos.xmltv.se/tv2nord.dk.png",TV2 Nord Salto
 http://cdn-lt-live.tv2nord.dk/dc-0/live/hls/p/1956931/e/0_74s20zcv/sd/10000/t/U6L8elLqfaGmZ1aA6yR23A/index-s32.m3u8
+#https://cdnapisec.kaltura.com/p/1956931/sp/195693100/playManifest/entryId/0_74s20zcv/format/applehttp/protocol/https/uiConfId/30287891/a.m3u8
 
 #EXTINF:-1 tvg-id="tv2oj.dk" tvg-logo="http://logos.xmltv.se/tv2oj.dk.png",TV2 Østjylland
 http://cdn-lt-live.tv2oj.dk/dc-1/live/hls/p/2102081/e/0_x4p3licd/sd/10000/t/-G5tB_rFvUcZyT9qMnYIQQ/index-s32.m3u8
 
 #EXTINF:-1 tvg-id="tvmidtvest.dk" tvg-logo="http://logos.xmltv.se/tvmidtvest.dk.png",TV2 Midtvest
-http://cdn-lt-live.tvmidtvest.dk/dc-0/live/hls/p/1953371/e/0_ghzg9q0q/sd/6000/t/EG-gDRIyoxKp9xWooxW-8w/index-s32.m3u8
+http://cdn-lt-live.tvmidtvest.dk/dc-1/live/hls/p/1953371/e/0_ghzg9q0q/sd/10000/t/i288LRzPhejpahOfggbdtw/index-s32.m3u8
 
 #EXTINF:-1 tvg-id="tveast.dk" tvg-logo="http://logos.xmltv.se/tveast.dk.png",TV Øst
 http://cdn-lt-live.tveast.dk/dc-0/live/hls/p/1953381/e/0_zphj9q61/t/bvgwwfCgkC73kKZD7wBe4g/index-s32.m3u8
@@ -95,7 +96,8 @@ https://59b954022ec35.streamlock.net:443/liveTV2/_definst_/smil:liveTVstream2.tr
 #EXTINF:-1 tvg-id="canal9.dk" tvg-logo="http://logos.xmltv.se/canal9.dk.png",Canal 9
 http://b-dnordichlslive09-i.akamaihd.net/hls/live/223862-b/C9DKHD/master.m3u8
 
-##EXTINF:-1 tvg-id="ft.dk" tvg-logo="http://logos.xmltv.se/ft.dk.png",Folketinget
+#EXTINF:-1 tvg-id="ft.dk" tvg-logo="http://logos.xmltv.se/ft.dk.png",Folketinget
+https://klive-a.akamaihd.net/dc-1/live/hls/p/2158211/e/1_24gfa7qq/sd/6000/type/user/t/4mdpp8gJx_Bco5YJv0strw/index-s32.m3u8
 #http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext,TV2 Play 1
