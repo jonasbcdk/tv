@@ -223,7 +223,8 @@ http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:kanal10sverige/playlist.m3u8
 
 ##EXTINF:-1 tvg-logo="http://nbcolympictalk.files.wordpress.com/2016/12/olympicchannel-e1481805666850.jpg?w=600",Olympic Channel
 
-##EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png",Red Bull TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 ##EXTINF:-1 tvg-logo="https://i.imgur.com/b8prEVt.png",Rev'n
 
