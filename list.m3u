@@ -19,7 +19,7 @@ http://dr06-lh.akamaihd.net/i/live/dr06_0@147059/master.m3u8?b=1700-10000
 http://dr05-lh.akamaihd.net/i/live/dr05_0@147058/master.m3u8?b=1700-10000
 
 #EXTINF:-1 tvg-id="tv2.dk" tvg-logo="http://logos.xmltv.se/tv2.dk.png",TV2
-http://line.protv.cc:8000/live/tNxE4rdouh/ttqs53nnsu/81982.m3u8
+http://line.protv.cc:8000/live/tNxE4rdouh/ttqs53nnsu/81983.m3u8
 #http://tv2-dash-01.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2charlie/tv2charlie.isml/master.mpd
 #https://tv2-dash-01.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2fyn/tv2fyn.isml/master.mpd
 #https://tv2-dash-02.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2nord/tv2nord.isml/master.mpd
