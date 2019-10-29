@@ -182,8 +182,6 @@ http://tv.danskiptv.hitv.one/live/E8NbcKEK0d7882/iSROfg5388/12363.ts
 ##EXTINF:-1 tvg-id="boomerangtv.dk" tvg-logo="http://logos.xmltv.se/boomerangtv.dk.png",Boomerang
 
 
-##EXTINF:-1 tvg-id="tvnorge.no" tvg-logo="http://logos.xmltv.se/tvnorge.no.png",N Norge
-
 #EXTINF:-1 tvg-id="kanal10.no" tvg-logo="http://logos.xmltv.se/kanal10.no.png",Kanal 10 NO
 http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
 
@@ -192,17 +190,6 @@ http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mtv.no" tvg-logo="https://logos.xmltv.se/mtv.dk.png",MTV NO
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-
-##EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1608203187/canalmotor_logo.png",Canal Motor NO
-
-##EXTINF:-1 tvg-id="motor.viasat.no" tvg-logo="http://logos.xmltv.se/motor.viasat.no.png",Viasat Motor NO
-
-##EXTINF:-1 tvg-id="nature.viasat.no" tvg-logo="http://logos.xmltv.se/nature.viasat.dk.png",Viasat Nature NO
-
-##EXTINF:-1 tvg-id="tlc.discovery.no" tvg-logo="http://logos.xmltv.se/tlc.discovery.dk.png",TLC NO
-
-##EXTINF:-1 tvg-id="discovery.no" tvg-logo="http://logos.xmltv.se/discovery.dk.png",Discovery NO
-
 
 ##EXTINF:-1 tvg-logo="http://logos.xmltv.se/tv4.se.png",TV4 Nyheterna SE
 
@@ -218,69 +205,19 @@ http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:kanal10sverige/playlist.m3u8
 ##EXTINF:-1 tvg-logo="http://logos.xmltv.se/fjorton.tv.png",Kanal 14 SE
 #http://155.4.160.181:1935/fjwebb/live/playlist.m3u8
 
-##EXTINF:-1 tvg-id="bbcworldnews.com" tvg-logo="http://logos.xmltv.se/bbcworldnews.com.png",BBC World News
-
-##EXTINF:-1 tvg-id="euronews.com" tvg-logo="http://logos.xmltv.se/euronews.com.png",Euronews
-
-##EXTINF:-1 tvg-logo="http://logos.xmltv.se/tlc.discovery.dk.png",TLC Europe
-
-##EXTINF:-1 tvg-logo="http://logos.xmltv.se/discovery.dk.png",Discovery UK
-
-##EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png",Discovery Turbo UK
-
-##EXTINF:-1 tvg-id="science.discoverychannel.com" tvg-logo="http://logos.xmltv.se/science.discoverychannel.com.png",Discovery Science UK
-
-##EXTINF:-1 tvg-logo="http://logos.xmltv.se/investigation.discovery.dk.png",Discovery Investigation UK
-
-##EXTINF:-1 tvg-id="natgeotv.com" tvg-logo="http://logos.xmltv.se/natgeo.dk.png",NAT GEO UK
-
-##EXTINF:-1 tvg-logo="http://logos.xmltv.se/wild.natgeo.dk.png",NAT GEO WILD UK
-
-##EXTINF:-1 tvg-logo="http://logos.xmltv.se/syfy.de.png",SyFy UK
-
-##EXTINF:-1 tvg-logo="http://nbcolympictalk.files.wordpress.com/2016/12/olympicchannel-e1481805666850.jpg?w=600",Olympic Channel
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
-##EXTINF:-1 tvg-logo="https://i.imgur.com/b8prEVt.png",Rev'n
+#EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png",NFL Red Zone HD
+http://tv.danskiptv.hitv.one/live/E8NbcKEK0d7882/iSROfg5388/18849.ts
 
-##EXTINF:-1 tvg-logo="http://static.nfl.com/static/content/static/img/ctv/anchor-images/nfl-now.png",NFL NOW
-
-##EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/54/NFL-Network.png",NFL NETWORK
-
-##EXTINF:-1 tvg-logo="http://i.imgur.com/ye5S2CL.png",ESPN
-
-##EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ee/espn_2.png",ESPN 2
-
+#EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nflnetworkus.png",NFL Network
+http://tv.danskiptv.hitv.one/live/E8NbcKEK0d7882/iSROfg5388/9077.ts
 
 ##EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png",ABC News
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/2000px-CBS_News.svg.png",CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
-
-##EXTINF:-1 tvg-logo="https://danishbits.org/static/bitbucket/users/1485723319.5474.png",Fox 23 News
-
-##EXTINF:-1 tvg-logo="https://danishbits.org/static/bitbucket/users/1483919746.6789.png",BLOOMBERG
-
-##EXTINF:-1 tvg-logo="https://i.imgur.com/yIzSqCD.png",NASA TV Public
-
-##EXTINF:-1 tvg-logo="https://i.imgur.com/yIzSqCD.png",NASA TV Media
-
-##EXTINF:-1 tvg-logo="https://danishbits.org/static/bitbucket/users/1485603730.4372.png",HUNTING CHANNEL
-
-##EXTINF:-1 tvg-logo="https://logos.xmltv.se/discovery.dk.png",Discovery US
-
-##EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png",Discovery Turbo
-
-##EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/3/32/Discovery_Science_HD.png",Discovery Science
-
-##EXTINF:-1 tvg-logo="http://logos.xmltv.se/syfy.de.png",SyFy US
-
-##EXTINF:-1 tvg-logo="http://logos.xmltv.se/animalplanet.discovery.dk.png",Animal Planet L!VE
-
-##EXTINF:-1 tvg-logo="http://logos.xmltv.se/wild.natgeo.dk.png",NAT GEO WILD US
-
 
 ##EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/nba/images/5/5c/Pacific-12_Conference_logo.png",PAC 12 National
 #http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8?b=3200-10000&rebase=on
