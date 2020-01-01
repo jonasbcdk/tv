@@ -18,16 +18,15 @@ http://dr06-lh.akamaihd.net/i/live/dr06_0@147059/master.m3u8?b=1700-10000
 #EXTINF:-1 tvg-id="ramasjang.dr.dk" tvg-logo="http://logos.xmltv.se/ramasjang.dr.dk.png",DR RAMASJANG
 http://dr05-lh.akamaihd.net/i/live/dr05_0@147058/master.m3u8?b=1700-10000
 
-#EXTINF:-1 tvg-id="tv2.dk" tvg-logo="http://logos.xmltv.se/tv2.dk.png",TV2
-http://tv.danskiptv.hitv.one/live/E8NbcKEK0d7882/iSROfg5388/19578.ts 
+##EXTINF:-1 tvg-id="tv2.dk" tvg-logo="http://logos.xmltv.se/tv2.dk.png",TV2
+#http://tv.danskiptv.hitv.one/live/E8NbcKEK0d7882/iSROfg5388/19578.ts 
 #http://tv.danskiptv.hitv.one/live/E8NbcKEK0d7882/iSROfg5388/11592.ts
 #http://tv2-dash-01.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2charlie/tv2charlie.isml/master.mpd
 #https://tv2-dash-01.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2fyn/tv2fyn.isml/master.mpd
 #https://tv2-dash-02.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2nord/tv2nord.isml/master.mpd
 #https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2nord/mfpoe3d3/2/master.m3u8
 
-#EXTINF:-1 tvg-id="news.tv2.dk" tvg-logo="http://logos.xmltv.se/news.tv2.dk.png",TV2 NEWS
-http://tv.danskiptv.hitv.one/live/E8NbcKEK0d7882/iSROfg5388/11622.ts 
+##EXTINF:-1 tvg-id="news.tv2.dk" tvg-logo="http://logos.xmltv.se/news.tv2.dk.png",TV2 NEWS
 #https://tv2-dash-01.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2news/tv2news.isml/master.mpd
 #https://tv2-play-cl2-live-hls-st.akamaized.net/out/u/tv2news/bmfdkrbg/0/master_7.m3u8
 
@@ -44,8 +43,8 @@ http://tv.danskiptv.hitv.one/live/E8NbcKEK0d7882/iSROfg5388/11622.ts
 #https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2sport/mmdsewor/2/master.m3u8
 #http://tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/master.m3u8
 
-#EXTINF:-1 tvg-id="charlie.tv2.dk" tvg-logo="http://logos.xmltv.se/charlie.tv2.dk.png",TV2 Charlie
-http://tv.danskiptv.hitv.one/live/E8NbcKEK0d7882/iSROfg5388/11593.ts 
+##EXTINF:-1 tvg-id="charlie.tv2.dk" tvg-logo="http://logos.xmltv.se/charlie.tv2.dk.png",TV2 Charlie
+#http://tv.danskiptv.hitv.one/live/E8NbcKEK0d7882/iSROfg5388/11593.ts 
 #https://tv2-dash-01.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2charlie/tv2charlie.isml/master.mpd
 #https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2charlie/gkr3oefn/2/master.m3u8
 
@@ -83,36 +82,29 @@ https://streaming.media.digicast.dk/clients_live/tv3/tv3_live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Kanal Hovedstaden
 https://59b954022ec35.streamlock.net:443/liveTV2/_definst_/smil:liveTVstream2.transcoder.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tv3.dk" tvg-logo="http://logos.xmltv.se/tv3.dk.png",TV 3
-http://tv.danskiptv.hitv.one/live/E8NbcKEK0d7882/iSROfg5388/14670.ts 
+##EXTINF:-1 tvg-id="tv3.dk" tvg-logo="http://logos.xmltv.se/tv3.dk.png",TV 3
 
-#EXTINF:-1 tvg-id="tv3plus.dk" tvg-logo="http://logos.xmltv.se/tv3plus.dk.png",TV3+
-http://tv.danskiptv.hitv.one/live/E8NbcKEK0d7882/iSROfg5388/12072.ts 
+##EXTINF:-1 tvg-id="tv3plus.dk" tvg-logo="http://logos.xmltv.se/tv3plus.dk.png",TV3+
 
-#EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="http://logos.xmltv.se/puls.tv3.dk.png",TV3 Puls
-http://tv.danskiptv.hitv.one/live/E8NbcKEK0d7882/iSROfg5388/11601.ts 
+##EXTINF:-1 tvg-id="puls.tv3.dk" tvg-logo="http://logos.xmltv.se/puls.tv3.dk.png",TV3 Puls
 
-#EXTINF:-1 tvg-id="dk4.dk" tvg-logo="http://logos.xmltv.se/dk4.dk.png",DK4
-http://tv.danskiptv.hitv.one/live/E8NbcKEK0d7882/iSROfg5388/12070.ts 
+##EXTINF:-1 tvg-id="dk4.dk" tvg-logo="http://logos.xmltv.se/dk4.dk.png",DK4
 
-#EXTINF:-1 tvg-id="kanal4.dk" tvg-logo="http://logos.xmltv.se/kanal4.dk.png",Kanal 4
-http://tv.danskiptv.hitv.one/live/E8NbcKEK0d7882/iSROfg5388/15499.ts 
+##EXTINF:-1 tvg-id="kanal4.dk" tvg-logo="http://logos.xmltv.se/kanal4.dk.png",Kanal 4
 
-#EXTINF:-1 tvg-id="kanal5.dk" tvg-logo="http://logos.xmltv.se/kanal5.dk.png",Kanal 5
-http://tv.danskiptv.hitv.one/live/E8NbcKEK0d7882/iSROfg5388/11613.ts 
+##EXTINF:-1 tvg-id="kanal5.dk" tvg-logo="http://logos.xmltv.se/kanal5.dk.png",Kanal 5
 
-#EXTINF:-1 tvg-id="6-eren.dk" tvg-logo="http://logos.xmltv.se/6-eren.dk.png",6eren
-http://tv.danskiptv.hitv.one/live/E8NbcKEK0d7882/iSROfg5388/11605.ts 
+##EXTINF:-1 tvg-id="6-eren.dk" tvg-logo="http://logos.xmltv.se/6-eren.dk.png",6eren
 
-#EXTINF:-1 tvg-id="canal9.dk" tvg-logo="http://logos.xmltv.se/canal9.dk.png",Canal 9
-http://b-dnordichlslive09-i.akamaihd.net/hls/live/223862-b/C9DKHD/master.m3u8
+##EXTINF:-1 tvg-id="canal9.dk" tvg-logo="http://logos.xmltv.se/canal9.dk.png",Canal 9
+#http://b-dnordichlslive09-i.akamaihd.net/hls/live/223862-b/C9DKHD/master.m3u8
 
 #EXTINF:-1 tvg-id="ft.dk" tvg-logo="http://logos.xmltv.se/ft.dk.png",Folketinget
 https://klive-a.akamaihd.net/dc-1/live/hls/p/2158211/e/1_24gfa7qq/sd/6000/type/user/t/4mdpp8gJx_Bco5YJv0strw/index-s32.m3u8
 #http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext,TV2 Play 1
-https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play1/crsvkedv/0/master.m3u8
+##EXTINF:0 tvg-id="ext,TV2 Play 1
+#https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play1/crsvkedv/0/master.m3u8
 #https://tv2-dash-01.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2play1/tv2play1.isml/master.mpd
 
 ##EXTINF:0 tvg-id="ext,TV2 Play 2
@@ -127,16 +119,13 @@ https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play1/crsvkedv/0/master.
 #https://tv2-dash-01.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2play4/tv2play4.isml/master.mpd
 #https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play4/zdyppexe/0/master.m3u8
 
-#EXTINF:-1 tvg-id="one.tv3sport.dk" tvg-logo="http://logowow.net/logos/8ye1oV31E.png",TV 3 Sport 1
-http://tv.danskiptv.hitv.one/live/E8NbcKEK0d7882/iSROfg5388/16605.ts 
+##EXTINF:-1 tvg-id="one.tv3sport.dk" tvg-logo="http://logowow.net/logos/8ye1oV31E.png",TV 3 Sport 1
 
 ##EXTINF:-1 tvg-id="two.tv3sport.dk" tvg-logo="http://logowow.net/logos/thumb-obPD0HS4z.png",TV 3 Sport 2
 
-#EXTINF:-1 tvg-id="eurosport.dk" tvg-logo="http://logos.xmltv.se/eurosport.dk.png",Eurosport 1 (UK)
-http://tv.danskiptv.hitv.one/live/E8NbcKEK0d7882/iSROfg5388/11596.ts 
+##EXTINF:-1 tvg-id="eurosport.dk" tvg-logo="http://logos.xmltv.se/eurosport.dk.png",Eurosport 1 (UK)
 
-#EXTINF:-1 tvg-id="eurosport.sbstv.dk" tvg-logo="http://logos.xmltv.se/eurosport.sbstv.dk.png",Eurosport 2 (UK)
-http://tv.danskiptv.hitv.one/live/E8NbcKEK0d7882/iSROfg5388/15512.ts 
+##EXTINF:-1 tvg-id="eurosport.sbstv.dk" tvg-logo="http://logos.xmltv.se/eurosport.sbstv.dk.png",Eurosport 2 (UK)
 
 ##EXTINF:-1 tvg-id="explorer.viasat.dk" tvg-logo="http://logos.xmltv.se/explorer.viasat.dk.png",Viasat Explore
 
@@ -150,13 +139,11 @@ http://tv.danskiptv.hitv.one/live/E8NbcKEK0d7882/iSROfg5388/15512.ts
 
 ##EXTINF:-1 tvg-id="wild.natgeo.dk" tvg-logo="http://logos.xmltv.se/wild.natgeo.dk.png",NAT GEO WILD
 
-#EXTINF:-1 tvg-id="discovery.dk" tvg-logo="http://logos.xmltv.se/discovery.dk.png",Discovery DK
-http://tv.danskiptv.hitv.one/live/E8NbcKEK0d7882/iSROfg5388/15493.ts 
+##EXTINF:-1 tvg-id="discovery.dk" tvg-logo="http://logos.xmltv.se/discovery.dk.png",Discovery DK
 
 ##EXTINF:-1 tvg-id="investigation.discovery.dk" tvg-logo="http://logos.xmltv.se/investigation.discovery.dk.png",Discovery Investigation DK
 
-#EXTINF:-1 tvg-id="natgeo.dk" tvg-logo="http://logos.xmltv.se/natgeo.dk.png",National Geographic DK
-http://tv.danskiptv.hitv.one/live/E8NbcKEK0d7882/iSROfg5388/14667.ts 
+##EXTINF:-1 tvg-id="natgeo.dk" tvg-logo="http://logos.xmltv.se/natgeo.dk.png",National Geographic DK
 
 ##EXTINF:-1 tvg-id="animalplanet.discovery.dk" tvg-logo="http://logos.xmltv.se/animalplanet.discovery.dk.png",Animal Planet DK
 
@@ -174,8 +161,7 @@ http://tv.danskiptv.hitv.one/live/E8NbcKEK0d7882/iSROfg5388/14667.ts
 
 ##EXTINF:-1 tvg-id="disneychannel.dk" tvg-logo="http://logos.xmltv.se/disneychannel.dk.png",Disney Channel
 
-#EXTINF:-1 tvg-id="xd.disneychannel.dk" tvg-logo="http://logos.xmltv.se/xd.disneychannel.dk.png",Disney XD
-http://tv.danskiptv.hitv.one/live/E8NbcKEK0d7882/iSROfg5388/12363.ts 
+##EXTINF:-1 tvg-id="xd.disneychannel.dk" tvg-logo="http://logos.xmltv.se/xd.disneychannel.dk.png",Disney XD
 
 ##EXTINF:-1 tvg-id="junior.disneychannel.dk" tvg-logo="http://logos.xmltv.se/junior.disneychannel.dk.png",Disney Junior
 
