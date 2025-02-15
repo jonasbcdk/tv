@@ -1,22 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="dr1.dr.dk" tvg-logo="http://logos.xmltv.se/dr1.dr.dk.png",DR1
-http://dr01-lh.akamaihd.net/i/live/dr01_0@147054/master.m3u8?b=1700-10000
+https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/6.m3u8
 
 #EXTINF:-1 tvg-id="dr2.dr.dk" tvg-name="DR2" tvg-logo="http://logos.xmltv.se/dr2.dr.dk.png",DR2
-http://dr02-lh.akamaihd.net/i/live/dr02_0@147055/master.m3u8?b=1700-10000
+https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/6.m3u8
 
-#EXTINF:-1 tvg-id="dr3.dr.dk" tvg-logo="http://logos.xmltv.se/dr3.dr.dk.png",DR3
-http://dr03-lh.akamaihd.net/i/live/dr03_0@147056/master.m3u8?b=1700-10000
-
-#EXTINF:-1 tvg-id="k.dr.dk" tvg-logo="http://logos.xmltv.se/k.dr.dk.png",DR K
-http://dr04-lh.akamaihd.net/i/live/dr04_0@147057/master.m3u8?b=1700-10000
-
-#EXTINF:-1 tvg-id="ultra.dr.dk" tvg-logo="http://logos.xmltv.se/ultra.dr.dk.png",DR ULTRA
-http://dr06-lh.akamaihd.net/i/live/dr06_0@147059/master.m3u8?b=1700-10000
+#EXTINF:-1 tvg-id="drtv.dr.dk",DR TV
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/6.m3u8
 
 #EXTINF:-1 tvg-id="ramasjang.dr.dk" tvg-logo="http://logos.xmltv.se/ramasjang.dr.dk.png",DR RAMASJANG
-http://dr05-lh.akamaihd.net/i/live/dr05_0@147058/master.m3u8?b=1700-10000
+https://drlivedrrhls.akamaized.net/hls/live/2113621/drlivedrr/6.m3u8
 
 ##EXTINF:-1 tvg-id="tv2.dk" tvg-logo="http://logos.xmltv.se/tv2.dk.png",TV2
 #http://tv.danskiptv.hitv.one/live/E8NbcKEK0d7882/iSROfg5388/19578.ts 
@@ -49,38 +43,28 @@ http://dr05-lh.akamaihd.net/i/live/dr05_0@147058/master.m3u8?b=1700-10000
 #https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2charlie/gkr3oefn/2/master.m3u8
 
 #EXTINF:-1 tvg-id="tv2nord.dk" tvg-logo="http://logos.xmltv.se/tv2nord.dk.png",TV2 Nord Salto
-http://cdn-lt-live.tv2nord.dk/dc-0/live/hls/p/1956931/e/0_74s20zcv/sd/10000/t/U6L8elLqfaGmZ1aA6yR23A/index-s32.m3u8
-#https://cdnapisec.kaltura.com/p/1956931/sp/195693100/playManifest/entryId/0_74s20zcv/format/applehttp/protocol/https/uiConfId/30287891/a.m3u8
+https://livecdn.euw1-0005.jwplive.com/live/sites/yXh2UIbN/media/KFXZ5tL6/live.isml/live-video=6499968.m3u8
 
-#EXTINF:-1 tvg-id="tv2oj.dk" tvg-logo="http://logos.xmltv.se/tv2oj.dk.png",TV2 Østjylland
-http://cdn-lt-live.tv2oj.dk/dc-1/live/hls/p/2102081/e/0_x4p3licd/sd/10000/t/-G5tB_rFvUcZyT9qMnYIQQ/index-s32.m3u8
+#EXTINF:-1 tvg-id="tv2oj.dk" tvg-logo="https://cdn.jwplayer.com/v2/media/Crk4qpBM/poster.jpg?width=720",TV2 Østjylland
+https://cdn.jwplayer.com/live/broadcast/Crk4qpBM.m3u8
 
 #EXTINF:-1 tvg-id="tvmidtvest.dk" tvg-logo="http://logos.xmltv.se/tvmidtvest.dk.png",TV2 Midtvest
-http://cdn-lt-live.tvmidtvest.dk/dc-1/live/hls/p/1953371/e/0_ghzg9q0q/sd/10000/t/i288LRzPhejpahOfggbdtw/index-s32.m3u8
+https://234128.global.ssl.fastly.net/678b5d6b493e0151683146a7/live_67bfd520e2c311efa7fc8f032bc7fcee/rewind-3600.m3u8
 
-#EXTINF:-1 tvg-id="tveast.dk" tvg-logo="http://logos.xmltv.se/tveast.dk.png",TV Øst
-https://cdn-lt-live.tv2oj.dk/dc-1/live/hls/p/2102081/e/0_x4p3licd/sd/6000/t/5aoqiGIZk5dVwQnsYa1OiQ/index-s32.m3u8
+#EXTINF:-1 tvg-id="tveast.dk" tvg-logo="https://cdn.jwplayer.com/v2/media/DHG9G8xO/poster.jpg?width=720",TV Øst
+https://cdn.jwplayer.com/live/broadcast/DHG9G8xO.m3u8
 
-#EXTINF:-1 tvg-id="tvsyd.dk" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/a/a7/TV_Syd.png",TV Syd
-http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
-# http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/sd/10000/t/327RYXxPUq2u4xgiUD75gw/index-s32.m3u8
+#EXTINF:-1 tvg-id="tvsyd.dk" tvg-logo="https://cdn.jwplayer.com/v2/media/bcZFHqNK/poster.jpg?width=720",TV Syd
+https://cdn.jwplayer.com/live/broadcast/bcZFHqNK.m3u8
 
-#EXTINF:-1 tvg-id="tv2fyn.dk" tvg-logo="http://logos.xmltv.se/tv2fyn.dk.png",TV2 Fyn
-http://cdn-lt-live.tv2fyn.dk/dc-1/live/hls/p/1966291/e/0_vsfrv0zm/sd/10000/t/T6nwxGTEvXZRnLX-DBxxkw/index-s32.m3u8
-# http://cdn-lt-hls-vod.tv2fyn.dk/fhls/p/1966291/sp/196629100/serveFlavor/entryId/0_yct7rqn3/v/2/flavorId/0_h2wfmuqm/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-id="tv2fyn.dk" tvg-logo="https://cdn.jwplayer.com/v2/media/igp9r9oc/poster.jpg?width=720",TV2 Fyn
+https://cdn.jwplayer.com/live/broadcast/igp9r9oc.m3u8
 
-#EXTINF:-1 tvg-id="tv2lorry.dk" tvg-logo="http://logos.xmltv.se/tv2lorry.dk.png",TV2 Lorry
-https://cdn-lt-live.tv2lorry.dk/dc-1/live/hls/p/2045321/e/1_2kojfk4m/sd/6000/t/3sviGJI1zDz8eI2opYJlFg/index-s32.m3u8
-#http://cdn-lt-live.tv2lorry.dk/dc-1/live/hls/p/2045321/e/0_5l7gjlbn/sd/10000/t/o0rIIeGd1KdzBctCs5zPlQ/index-s32.m3u8
+#EXTINF:-1 tvg-id="tv2lorry.dk" tvg-logo="https://cdn.jwplayer.com/v2/media/SFuPFid3/poster.jpg?width=720",TV2 Kosmopol
+https://cdn.jwplayer.com/live/broadcast/vyIuihE1.m3u8
 
 ##EXTINF:-1 tvg-id="tv2bornholm.dk" tvg-logo="http://logos.xmltv.se/tv2bornholm.dk.png",TV2 Bornholm
-#http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
-
-#EXTINF:-1,TV Aarhus
-https://streaming.media.digicast.dk/clients_live/tv3/tv3_live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Kanal Hovedstaden
-https://59b954022ec35.streamlock.net:443/liveTV2/_definst_/smil:liveTVstream2.transcoder.smil/playlist.m3u8
+https://cdn-akamai-live.tv2bornholm.dk/stream/live/chunklist.m3u8
 
 ##EXTINF:-1 tvg-id="tv3.dk" tvg-logo="http://logos.xmltv.se/tv3.dk.png",TV 3
 
@@ -168,8 +152,8 @@ https://klive-a.akamaihd.net/dc-1/live/hls/p/2158211/e/1_24gfa7qq/sd/6000/type/u
 ##EXTINF:-1 tvg-id="boomerangtv.dk" tvg-logo="http://logos.xmltv.se/boomerangtv.dk.png",Boomerang
 
 
-#EXTINF:-1 tvg-id="kanal10.no" tvg-logo="http://logos.xmltv.se/kanal10.no.png",Kanal 10 NO
-http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
+##EXTINF:-1 tvg-id="kanal10.no" tvg-logo="http://logos.xmltv.se/kanal10.no.png",Kanal 10 NO
+#http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
 
 ##EXTINF:-1 tvg-id="fatstone.tv" tvg-name="" tvg-logo="http://logos.xmltv.se/fatstone.tv.png",Fatstone TV NO
 #http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
@@ -183,8 +167,8 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
 ##EXTINF:-1 tvg-id="kanal9.se" tvg-logo="http://logos.xmltv.se/kanal9.se.png",Kanal 9 SE
 
-#EXTINF:-1 tvg-id="kanal10.se" tvg-logo="http://logos.xmltv.se/kanal10.se.png",Kanal 10 SE
-http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:kanal10sverige/playlist.m3u8
+##EXTINF:-1 tvg-id="kanal10.se" tvg-logo="http://logos.xmltv.se/kanal10.se.png",Kanal 10 SE
+#http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:kanal10sverige/playlist.m3u8
 
 ##EXTINF:-1 tvg-id="tv11.sbstv.se" tvg-logo="http://logos.xmltv.se/tv11.sbstv.se.png",Kanal 11 SE
 
