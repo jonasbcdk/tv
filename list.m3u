@@ -84,7 +84,8 @@ https://cdn-akamai-live.tv2bornholm.dk/stream/live/chunklist.m3u8
 #http://b-dnordichlslive09-i.akamaihd.net/hls/live/223862-b/C9DKHD/master.m3u8
 
 #EXTINF:-1 tvg-id="ft.dk" tvg-logo="http://logos.xmltv.se/ft.dk.png",Folketinget
-https://klive-a.akamaihd.net/dc-1/live/hls/p/2158211/e/1_24gfa7qq/sd/6000/type/user/t/4mdpp8gJx_Bco5YJv0strw/index-s32.m3u8
+#https://klive-a.akamaihd.net/dc-1/live/hls/p/2158211/e/1_24gfa7qq/sd/6000/type/user/t/4mdpp8gJx_Bco5YJv0strw/index-s32.m3u8
+https://cdn-ft-live.imgplay.com/env/e.live.frp1/live/hls/p/2158211/e/1_24gfa7qq/tl/main/st/1/t/cZPifXKWtPCHhC5K3s-HvA/index-s32.m3u8
 #http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/playlist.m3u8
 
 ##EXTINF:0 tvg-id="ext,TV2 Play 1
