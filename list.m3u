@@ -158,8 +158,8 @@ https://klive-a.akamaihd.net/dc-1/live/hls/p/2158211/e/1_24gfa7qq/sd/6000/type/u
 ##EXTINF:-1 tvg-id="fatstone.tv" tvg-name="" tvg-logo="http://logos.xmltv.se/fatstone.tv.png",Fatstone TV NO
 #http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
 
-#EXTINF:-1 tvg-id="mtv.no" tvg-logo="https://logos.xmltv.se/mtv.dk.png",MTV NO
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+##EXTINF:-1 tvg-id="mtv.no" tvg-logo="https://logos.xmltv.se/mtv.dk.png",MTV NO
+#http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
 ##EXTINF:-1 tvg-logo="http://logos.xmltv.se/tv4.se.png",TV4 Nyheterna SE
 
@@ -179,38 +179,38 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 
-#EXTINF:-1,DR P3 webcam
-http://drevent-lh.akamaihd.net/i/p3teradeck_1@75855/master.m3u8
+##EXTINF:-1,DR P3 webcam
+#http://drevent-lh.akamaihd.net/i/p3teradeck_1@75855/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1447183057.png",DJing Hot Hot Hot
-http://www.djing.com/tv/hothothot.m3u8
+##EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1447183057.png",DJing Hot Hot Hot
+#http://www.djing.com/tv/hothothot.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.satelity-budejovice.cz/fotky13968/EZS/Televizni_anteny/logo-Retro_Music_Tv.png",Retro TV CZ
-rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
+##EXTINF:-1 tvg-logo="http://www.satelity-budejovice.cz/fotky13968/EZS/Televizni_anteny/logo-Retro_Music_Tv.png",Retro TV CZ
+#rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
 
-#EXTINF:-1,DR P1
-http://drradio1-lh.akamaihd.net/i/p1_9@143503/master.m3u8
+##EXTINF:-1,DR P1
+#http://drradio1-lh.akamaihd.net/i/p1_9@143503/master.m3u8
 
-#EXTINF:-1,DR P2
-http://drradio2-lh.akamaihd.net/i/p2_9@143504/master.m3u8
+##EXTINF:-1,DR P2
+#http://drradio2-lh.akamaihd.net/i/p2_9@143504/master.m3u8
 
-#EXTINF:-1,DR P3
-http://drradio3-lh.akamaihd.net/i/p3_9@143506/master.m3u8
+##EXTINF:-1,DR P3
+#http://drradio3-lh.akamaihd.net/i/p3_9@143506/master.m3u8
 
-#EXTINF:-1,DR P4
-http://drradio2-lh.akamaihd.net/i/p4nordjylland_9@143511/master.m3u8
+##EXTINF:-1,DR P4
+#http://drradio2-lh.akamaihd.net/i/p4nordjylland_9@143511/master.m3u8
 
-#EXTINF:-1,DR P5
-http://drradio1-lh.akamaihd.net/i/p5_9@143530/master.m3u8
+##EXTINF:-1,DR P5
+#http://drradio1-lh.akamaihd.net/i/p5_9@143530/master.m3u8
 
-#EXTINF:-1,DR P6 Beat
-http://drradio3-lh.akamaihd.net/i/p6beat_9@143533/master.m3u8
+##EXTINF:-1,DR P6 Beat
+#http://drradio3-lh.akamaihd.net/i/p6beat_9@143533/master.m3u8
 
-#EXTINF:-1,DR P7 Mix
-http://drradio1-lh.akamaihd.net/i/p7mix_9@143522/master.m3u8
+##EXTINF:-1,DR P7 Mix
+#http://drradio1-lh.akamaihd.net/i/p7mix_9@143522/master.m3u8
 
-#EXTINF:-1,DR P8 Jazz
-http://drradio2-lh.akamaihd.net/i/p8jazz_9@143524/master.m3u8
+##EXTINF:-1,DR P8 Jazz
+#http://drradio2-lh.akamaihd.net/i/p8jazz_9@143524/master.m3u8
 
-#EXTINF:-1,DR Nyheder
-http://drradio2-lh.akamaihd.net/i/drnyheder_9@143532/master.m3u8
+##EXTINF:-1,DR Nyheder
+#http://drradio2-lh.akamaihd.net/i/drnyheder_9@143532/master.m3u8
