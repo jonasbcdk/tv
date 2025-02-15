@@ -42,8 +42,8 @@ https://drlivedrrhls.akamaized.net/hls/live/2113621/drlivedrr/6.m3u8
 #https://tv2-dash-01.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2charlie/tv2charlie.isml/master.mpd
 #https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2charlie/gkr3oefn/2/master.m3u8
 
-#EXTINF:-1 tvg-id="tv2nord.dk" tvg-logo="http://logos.xmltv.se/tv2nord.dk.png",TV2 Nord Salto
-https://livecdn.euw1-0005.jwplive.com/live/sites/yXh2UIbN/media/KFXZ5tL6/live.isml/live-video=6499968.m3u8
+#EXTINF:-1 tvg-id="tv2nord.dk" tvg-logo="https://cdn.jwplayer.com/v2/media/jwELUpoC/poster.jpg?width=720",TV2 Nord Salto
+https://content.jwplatform.com/live/broadcast/KFXZ5tL6.m3u8
 
 #EXTINF:-1 tvg-id="tv2oj.dk" tvg-logo="https://cdn.jwplayer.com/v2/media/Crk4qpBM/poster.jpg?width=720",TV2 Østjylland
 https://cdn.jwplayer.com/live/broadcast/Crk4qpBM.m3u8
@@ -177,41 +177,6 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nopicon.png",NFL Red Zone HD
-http://tv.danskiptv.hitv.one/live/E8NbcKEK0d7882/iSROfg5388/18849.ts
-
-#EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/nflnetworkus.png",NFL Network
-http://tv.danskiptv.hitv.one/live/E8NbcKEK0d7882/iSROfg5388/9077.ts
-
-##EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png",ABC News
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/2000px-CBS_News.svg.png",CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
-
-##EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/nba/images/5/5c/Pacific-12_Conference_logo.png",PAC 12 National
-#http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8?b=3200-10000&rebase=on
-
-##EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/nba/images/5/5c/Pacific-12_Conference_logo.png",PAC 12 Arizona
-#http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8?b=3200-10000&rebase=on
-
-##EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/nba/images/5/5c/Pacific-12_Conference_logo.png",PAC 12 Bay Area
-#http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8?b=3200-10000&rebase=on
-
-##EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/nba/images/5/5c/Pacific-12_Conference_logo.png",PAC 12 Los Angeles
-#http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8?b=3200-10000&rebase=on
-
-##EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/nba/images/5/5c/Pacific-12_Conference_logo.png",PAC 12 Mountain
-#http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8?b=3200-10000&rebase=on
-
-##EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/nba/images/5/5c/Pacific-12_Conference_logo.png",PAC 12 Oregon
-#http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8?b=3200-10000&rebase=on
-
-##EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/nba/images/5/5c/Pacific-12_Conference_logo.png",PAC 12 Washington
-#http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8?b=3200-10000&rebase=on
-
-#EXTINF:-1 tvg-logo="https://danishbits.org/static/bitbucket/users/1484636788.2379.png",REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
 
 
 #EXTINF:-1,DR P3 webcam
